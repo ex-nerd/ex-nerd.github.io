@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://ex-nerd.com/</loc>
+    <lastmod>2016-05-08T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/food/ginger-beer/</loc>
+    <lastmod>2016-05-08T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/about/</loc>
+    <lastmod>2016-05-08T06:24:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/resume/</loc>
+    <lastmod>2015-06-02T08:06:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/tech/keeping-your-digital-life-secure/</loc>
+    <lastmod>2012-09-29T07:33:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/tech/plus-addressing-for-email/</loc>
+    <lastmod>2010-08-27T08:01:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/food/hard-cider-recipe/</loc>
+    <lastmod>2008-10-07T20:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/food/root-beer/</loc>
+    <lastmod>2007-07-19T20:00:00-07:00</lastmod>
+  </url>
+  
+</urlset>
