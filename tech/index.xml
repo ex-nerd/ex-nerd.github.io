@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on Chris Petersen</title>
-    <link>http://ex-nerd.com/tech/</link>
+    <link>http://ex-nerd.github.io/tech/</link>
     <description>Recent content in Tech on Chris Petersen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Sep 2012 07:33:42 +0000</lastBuildDate>
-    <atom:link href="http://ex-nerd.com/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ex-nerd.github.io/tech/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>keeping your digital life secure</title>
-      <link>http://ex-nerd.com/tech/keeping-your-digital-life-secure/</link>
+      <link>http://ex-nerd.github.io/tech/keeping-your-digital-life-secure/</link>
       <pubDate>Sat, 29 Sep 2012 07:33:42 +0000</pubDate>
       
-      <guid>http://ex-nerd.com/tech/keeping-your-digital-life-secure/</guid>
+      <guid>http://ex-nerd.github.io/tech/keeping-your-digital-life-secure/</guid>
       <description>
 
 &lt;p&gt;There have been a number of high-profile stories recently about hacking and digital identity theft, along with a rash of hacked yahoo.com email accounts that usually lead to scams/cons. When a number of my friends and family members fell victim to these hacks (thankfully not to the scams) and discovered that the collateral damage could be worse than the hack itself, I decided that I should put together some recommendations to help them avoid more trouble in the future.&lt;/p&gt;
 
 &lt;p&gt;Keep reading for a thorough explanation of how to recover from these email hacks, along with a bunch of recommendations for how to limit the chance of them happening, or the damage done if they do occur.&lt;/p&gt;
 
-&lt;h3 id=&#34;the-scam:2a8e6e3e21ba6986b35f2fe5d0e95ba5&#34;&gt;The scam&lt;/h3&gt;
+&lt;h3 id=&#34;the-scam&#34;&gt;The scam&lt;/h3&gt;
 
 &lt;p&gt;Most of the scams I&amp;rsquo;ve seen from these hacked accounts are &lt;a href=&#34;https://www.google.com/#q=stranded+traveler+scam&#34;&gt;stranded traveler scams&lt;/a&gt;. The scammer sends an email purporting to be your friend, mugged and stranded in some foreign country with no cash to pay for a hotel or buy tickets home (yet somehow they still have their computer to send email!).  When you reply to ask your friend for more information, your reply is actually redirected to the scammer, who set up a sneaky Reply-To address on the original email that looks almost identical to the correct one.  For example, if your friend&amp;rsquo;s email address is &lt;code&gt;user@example.com&lt;/code&gt;, the reply-to address might be &lt;code&gt;userr@example.com&lt;/code&gt; (notice the second r?).&lt;/p&gt;
 
@@ -37,7 +37,7 @@
 &lt;li&gt;Figure out what (if anything) the hacker deleted from your email account.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&#34;passwords:2a8e6e3e21ba6986b35f2fe5d0e95ba5&#34;&gt;Passwords&lt;/h3&gt;
+&lt;h3 id=&#34;passwords&#34;&gt;Passwords&lt;/h3&gt;
 
 &lt;p&gt;When you choose a new password, it&amp;rsquo;s important to remember that most of the passwords we use are &lt;a title=&#34;A great XKCD comic about password strength.&#34; href=&#34;http://xkcd.com/936/&#34;&gt;hard for humans to remember and fairly easy for a computer to guess&lt;/a&gt;.  Take a look at the comic linked to from the previous sentence before you choose a new password.  It&amp;rsquo;s a lot easier for you to remember four words (e.g. &amp;ldquo;correct horse battery staple&amp;rdquo;) than a bunch of semi-random characters.&lt;/p&gt;
 
@@ -45,7 +45,7 @@
 
 &lt;p&gt;If you use GMail and want to be extra-secure, look into turning on &lt;a href=&#34;http://support.google.com/accounts/bin/answer.py?hl=en&amp;amp;amp;answer=180744&#34;&gt;2-Step Verification&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&#34;backups:2a8e6e3e21ba6986b35f2fe5d0e95ba5&#34;&gt;Backups&lt;/h3&gt;
+&lt;h3 id=&#34;backups&#34;&gt;Backups&lt;/h3&gt;
 
 &lt;p&gt;Major email providers like Yahoo, Google, or Microsoft make &lt;strong&gt;no assurances&lt;/strong&gt; that the data stored on their servers is safe from accidental deletion.  It&amp;rsquo;s unlikely, but not unheard of, for accounts to randomly disappear or users to find their inboxes suddenly empty.  Even if you have no fear of your email account getting hacked, you should at least trust in the small chance that your email may someday vanish or be locked away where you can&amp;rsquo;t get at it.  Feel free to keep your email around as an archive, but if you have important documents that you don&amp;rsquo;t want to lose, make sure you download them to your own computer where you can be sure they will be backed up.&lt;/p&gt;
 
@@ -67,7 +67,7 @@
 
 &lt;p&gt;At the very least, go out and buy yourself some USB thumb drives and/or an external hard drive, and use the free version of CrashPlan to copy files over every few weeks.  If you go with a thumb drive or two, make sure to keep at least one of them somewhere other than your computer (e.g. at work or in your car&amp;rsquo;s glove box).  CrashPlan&amp;rsquo;s encryption will keep your personal information safe even if someone else happens to run across the disk and tries to use it.&lt;/p&gt;
 
-&lt;h3 id=&#34;email:2a8e6e3e21ba6986b35f2fe5d0e95ba5&#34;&gt;Email&lt;/h3&gt;
+&lt;h3 id=&#34;email&#34;&gt;Email&lt;/h3&gt;
 
 &lt;p&gt;All of the big free email hosts these days seem to provide a way to connect up a standalone email program via &lt;a href=&#34;http://en.wikipedia.org/wiki/Imap&#34;&gt;IMAP&lt;/a&gt;.  If you run Windows, then Outlook Express is already installed.  On MacOS, Apple&amp;rsquo;s included Mail.app program will do the job nicely.&lt;/p&gt;
 
@@ -77,11 +77,11 @@
 
 &lt;p&gt;Also, I&amp;rsquo;m personally a big fan of &lt;a href=&#34;http://mail.google.com/mail/signup&#34;&gt;GMail&lt;/a&gt; (not to mention all of Google&amp;rsquo;s other great free services), so don&amp;rsquo;t feel too bad ditching Yahoo or that @comcast.net email address that came with your internet connection if you want something else.&lt;/p&gt;
 
-&lt;h3 id=&#34;browsers:2a8e6e3e21ba6986b35f2fe5d0e95ba5&#34;&gt;Browsers&lt;/h3&gt;
+&lt;h3 id=&#34;browsers&#34;&gt;Browsers&lt;/h3&gt;
 
 &lt;p&gt;It used to be a big deal for techie folks to try to push their friends/relatives to use &lt;a href=&#34;http://www.mozilla.org/firefox/&#34;&gt;Firefox&lt;/a&gt; or &lt;a href=&#34;https://www.google.com/chrome/&#34;&gt;Google Chrome&lt;/a&gt;, but in all honesty the latest versions of Internet Explorer (Windows) and Safari (Mac) are actually pretty secure.  The most important thing to remember is to &lt;strong&gt;keep your browser up to date&lt;/strong&gt;.  If you run an older version of Windows or MacOS, then I would highly recommend taking a look at Firefox or Chrome, since their engineers keep them up to date with the latest security patches a lot faster than Microsoft and Apple supply new versions of browsers to old computers.&lt;/p&gt;
 
-&lt;h3 id=&#34;that-s-it:2a8e6e3e21ba6986b35f2fe5d0e95ba5&#34;&gt;That&amp;rsquo;s it&lt;/h3&gt;
+&lt;h3 id=&#34;that-s-it&#34;&gt;That&amp;rsquo;s it&lt;/h3&gt;
 
 &lt;p&gt;I know this was a bit long, but I&amp;rsquo;ve actually tried to keep it as lightweight as possible (it&amp;rsquo;s far from a comprehensive overview of every option out there) while still providing good information that covers more than just my personal favorites.  If you take anything away from this, please let it be:&lt;/p&gt;
 
@@ -97,19 +97,21 @@
     
     <item>
       <title>plus addressing for email</title>
-      <link>http://ex-nerd.com/tech/plus-addressing-for-email/</link>
+      <link>http://ex-nerd.github.io/tech/plus-addressing-for-email/</link>
       <pubDate>Fri, 27 Aug 2010 08:01:40 +0000</pubDate>
       
-      <guid>http://ex-nerd.com/tech/plus-addressing-for-email/</guid>
-      <description>&lt;p&gt;Like most tech-savvy people, I have more than a handful of email addresses, and I like to guard them against being shared without my permission (and track back to the company that did the sharing).  When you run your own mail server, this is quite easy &amp;ndash; just make up a custom email address for every company you do business with.  Unfortunately, this gets somewhat cumbersome after awhile, and definitely isn&amp;rsquo;t a solution for the general public.  Enter &lt;a href=&#34;http://en.wikipedia.org/wiki/Plus_addressing#Sub-addressing&#34;&gt;plus addressing&lt;/a&gt;, a method built into most mail servers that allows users to modify their own email addresses with additional data that can be tracked but does not interfere with mail delivery.  This would be the perfect solution if it was actually supported by the majority of online account providers.&lt;/p&gt;
+      <guid>http://ex-nerd.github.io/tech/plus-addressing-for-email/</guid>
+      <description>&lt;p&gt;Like most tech-savvy people, I have more than a handful of email addresses, and I like to guard them against being shared without my permission (and track back to the company that did the sharing).  When you run your own mail server, this is quite easy &amp;ndash; just make up a custom email address for every company you do business with.  Unfortunately, this gets somewhat cumbersome after awhile, and definitely isn&amp;rsquo;t a solution for the general public.  Enter &lt;a href=&#34;http://en.wikipedia.org/wiki/Plus_addressing#Sub-addressing&#34;&gt;plus addressing&lt;/a&gt;, a method built into most mail servers that allows users to modify their own email addresses with additional data that can be tracked but does not interfere with mail delivery.&lt;/p&gt;
 
-&lt;p&gt;The technique for plus addressing is simple:  add a plus and a word after the username portion of your email address.  For example, &lt;code&gt;exnerd@example.com&lt;/code&gt; would become &lt;code&gt;exnerd+shopping@example.com&lt;/code&gt;.  This way, you can create a custom email address for certain types of transactions, or even for every company you do business with online.  The format is well-documented and supported by my favorite &lt;a href=&#34;http://gmailblog.blogspot.com/2008/03/2-hidden-ways-to-get-more-from-your.html&#34;&gt;free email provider&lt;/a&gt;.  It works great, too, until you run into a company that knows very little about technology.  Like all of my credit card companies.&lt;/p&gt;
+&lt;p&gt;This would be the perfect solution if it was actually supported by the majority of online account providers (and in the 6 years since this article was originally written, things aren&amp;rsquo;t much better).&lt;/p&gt;
+
+&lt;p&gt;The technique for plus addressing is simple:  add a plus and a word after the username portion of your email address.  For example, &lt;code&gt;exnerd@example.com&lt;/code&gt; would become &lt;code&gt;exnerd+shopping@example.com&lt;/code&gt;.  This way, you can create a custom email address for certain types of transactions, or even for every company you do business with online.  The format is well-documented and supported by my favorite &lt;a href=&#34;http://gmailblog.blogspot.com/2008/03/2-hidden-ways-to-get-more-from-your.html&#34;&gt;free email provider&lt;/a&gt;.  It works great, too, until you run into a company that knows very little about technology.  Like all of my credit card companies, and about half of the online stores I shop at.&lt;/p&gt;
 
 &lt;p&gt;Seriously.&lt;/p&gt;
 
 &lt;p&gt;Even without the feature of using the plus to create an ignored portion of the email address, the plus character has been valid for use in email addresses since &lt;a href=&#34;http://tools.ietf.org/html/rfc822&#34;&gt;RFC 822&lt;/a&gt;, which was written in 1982!  That RFC has been replaced a few times (the current is &lt;a href=&#34;http://tools.ietf.org/html/rfc6854&#34;&gt;RFC 6854&lt;/a&gt;), but support for the plus character hasn&amp;rsquo;t changed.&lt;/p&gt;
 
-&lt;p&gt;In conclusion, I would highly recommend using plus addressing to sort and track your incoming mail.  I would also recommend that whenever you run into a so-called technologically-adept company like one of my credit card providers to ask them why they are violating an email standard that is almost 30 years old.&lt;/p&gt;
+&lt;p&gt;In conclusion, I would highly recommend using plus addressing to sort and track your incoming mail.  I would also recommend that whenever you run into a so-called technologically-adept company like your credit card provider, to ask them why they are violating an email formatting standard that is over 30 years old.&lt;/p&gt;
 </description>
     </item>
     
