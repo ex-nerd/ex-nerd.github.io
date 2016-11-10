@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Petersen</title>
-    <link>http://ex-nerd.com/</link>
+    <link>http://ex-nerd.com/index.xml</link>
     <description>Recent content on Chris Petersen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -16,6 +16,8 @@
       
       <guid>http://ex-nerd.com/food/low-carb-waffles/</guid>
       <description>&lt;p&gt;Living with &lt;a href=&#34;https://en.wikipedia.org/wiki/Latent_autoimmune_diabetes_of_adults&#34;&gt;Type 1 Diabetes&lt;/a&gt; means that I have to closely watch my carbohydrate intake, and it&amp;rsquo;s easier to do this by eating low-carb foods that make the &lt;a href=&#34;http://www.diabeticlifestyle.com/blood-glucose/carb-counting-insulin-math-diabetes&#34;&gt;math&lt;/a&gt; easier.  Since I don&amp;rsquo;t want to give up on some of the finer things in life &amp;ndash; like waffles &amp;ndash; I spent some time formulating a decent substitute for carb-heavy grain-based waffles.  This lets me have a fairly large breakfast of applesauce, yogurt, and definitely-not-maple (but passable) syrup and still keep things under 45g of carbs.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Keep in mind that this recipe is &lt;strong&gt;not&lt;/strong&gt; gluten-free.  Gluten-free flours that provide the proper texture are still high in carbs, so I&amp;rsquo;ve chosen to add gluten to the almond flour in this recipe in order to get the proper stretchy and crunchy texture.&lt;/p&gt;
 
@@ -60,9 +62,7 @@
     &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;http://ex-nerd.com/food/low-carb-waffles/&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;Chris Petersen&lt;/a&gt;
     is licensed under a&lt;br /&gt;
     &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.
-&lt;/div&gt;
-
-</description>
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -99,9 +99,9 @@
       <pubDate>Sat, 29 Sep 2012 07:33:42 +0000</pubDate>
       
       <guid>http://ex-nerd.com/tech/keeping-your-digital-life-secure/</guid>
-      <description>
+      <description>&lt;p&gt;There have been a number of high-profile stories recently about hacking and digital identity theft, along with a rash of hacked yahoo.com email accounts that usually lead to scams/cons. When a number of my friends and family members fell victim to these hacks (thankfully not to the scams) and discovered that the collateral damage could be worse than the hack itself, I decided that I should put together some recommendations to help them avoid more trouble in the future.&lt;/p&gt;
 
-&lt;p&gt;There have been a number of high-profile stories recently about hacking and digital identity theft, along with a rash of hacked yahoo.com email accounts that usually lead to scams/cons. When a number of my friends and family members fell victim to these hacks (thankfully not to the scams) and discovered that the collateral damage could be worse than the hack itself, I decided that I should put together some recommendations to help them avoid more trouble in the future.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Keep reading for a thorough explanation of how to recover from these email hacks, along with a bunch of recommendations for how to limit the chance of them happening, or the damage done if they do occur.&lt;/p&gt;
 
@@ -175,8 +175,7 @@
     &lt;li&gt;&lt;strong&gt;Back up your files.&lt;/strong&gt;  Pay for a service and/or buy yourself a handful of USB thumb drives to store your most important files.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; Most of the links for this page were found with a quick web search, so please let me know in the comments if they ever stop working and I will find new/better ones.  Only the &lt;a href=&#34;http://db.tt/zxULLdP&#34;&gt;Dropbox&lt;/a&gt; link contains any sort of referral that might be perceived to benefit me.&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; Most of the links for this page were found with a quick web search, so please let me know in the comments if they ever stop working and I will find new/better ones.  Only the &lt;a href=&#34;http://db.tt/zxULLdP&#34;&gt;Dropbox&lt;/a&gt; link contains any sort of referral that might be perceived to benefit me.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -189,14 +188,15 @@
 
 &lt;p&gt;This would be the perfect solution if it was actually supported by the majority of online account providers (and in the 6 years since this article was originally written, things aren&amp;rsquo;t much better).&lt;/p&gt;
 
+&lt;p&gt;&lt;/p&gt;
+
 &lt;p&gt;The technique for plus addressing is simple:  add a plus and a word after the username portion of your email address.  For example, &lt;code&gt;exnerd@example.com&lt;/code&gt; would become &lt;code&gt;exnerd+shopping@example.com&lt;/code&gt;.  This way, you can create a custom email address for certain types of transactions, or even for every company you do business with online.  The format is well-documented and supported by my favorite &lt;a href=&#34;http://gmailblog.blogspot.com/2008/03/2-hidden-ways-to-get-more-from-your.html&#34;&gt;free email provider&lt;/a&gt;.  It works great, too, until you run into a company that knows very little about technology.  Like all of my credit card companies, and about half of the online stores I shop at.&lt;/p&gt;
 
 &lt;p&gt;Seriously.&lt;/p&gt;
 
 &lt;p&gt;Even without the feature of using the plus to create an ignored portion of the email address, the plus character has been valid for use in email addresses since &lt;a href=&#34;http://tools.ietf.org/html/rfc822&#34;&gt;RFC 822&lt;/a&gt;, which was written in 1982!  That RFC has been replaced a few times (the current is &lt;a href=&#34;http://tools.ietf.org/html/rfc6854&#34;&gt;RFC 6854&lt;/a&gt;), but support for the plus character hasn&amp;rsquo;t changed.&lt;/p&gt;
 
-&lt;p&gt;In conclusion, I would highly recommend using plus addressing to sort and track your incoming mail.  I would also recommend that whenever you run into a so-called technologically-adept company like your credit card provider, to ask them why they are violating an email formatting standard that is over 30 years old.&lt;/p&gt;
-</description>
+&lt;p&gt;In conclusion, I would highly recommend using plus addressing to sort and track your incoming mail.  I would also recommend that whenever you run into a so-called technologically-adept company like your credit card provider, to ask them why they are violating an email formatting standard that is over 30 years old.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -210,6 +210,8 @@
 of brews, but it&amp;rsquo;s one &lt;strong&gt;heck&lt;/strong&gt; of a strong cider.  So-called &amp;ldquo;real&amp;rdquo; brewers
 may scoff at the idea of using bread yeast, but keep in mind that things (flavor in particular) work differently with cider than beer or wine, and don&amp;rsquo;t
 knock it until you taste it.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;First, you will need the following:&lt;/p&gt;
 
@@ -265,8 +267,7 @@ wherever you chose to set your brew). Trust me, you don&amp;rsquo;t want that.
 &lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;P.S. If you would like to read a more detailed story and recipe about apples and cider, check out this blog post about my first
-&lt;a href=&#34;http://pieofthetiger.com/2009/11/apple-pressing-party/&#34;&gt;apple pressing party&lt;/a&gt;.&lt;/p&gt;
-</description>
+&lt;a href=&#34;http://pieofthetiger.com/2009/11/apple-pressing-party/&#34;&gt;apple pressing party&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -282,6 +283,8 @@ proceded to ban its sale for edible uses. This sent the root beer industry into
 a frenzy trying to find a replacement flavor (they eventually came up with
 something that&amp;rsquo;s a combination of licorice root &amp;ndash; that&amp;rsquo;s &lt;strong&gt;not&lt;/strong&gt; anise, and
 doesn&amp;rsquo;t taste like it &amp;ndash; and wintergreen).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Many people (myself included) believe that safrole is only dangerous when
 extracted from the sassafras root itself (there is a common theory is in herbal
@@ -387,9 +390,7 @@ flavor (but which contributes to the flavor of many carbonated beverages).&lt;/p
     &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;http://ex-nerd.com/food/root-beer/&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;Chris Petersen&lt;/a&gt;
     is licensed under a&lt;br /&gt;
     &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.
-&lt;/div&gt;
-
-</description>
+&lt;/div&gt;</description>
     </item>
     
   </channel>

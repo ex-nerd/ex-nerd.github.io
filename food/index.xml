@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Food on Chris Petersen</title>
-    <link>http://ex-nerd.com/food/</link>
-    <description>Recent content in Food on Chris Petersen</description>
+    <title>Food-rss on Chris Petersen</title>
+    <link>http://ex-nerd.com/food/index.xml</link>
+    <description>Recent content in Food-rss on Chris Petersen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Jun 2016 20:00:00 -0700</lastBuildDate>
@@ -16,6 +16,8 @@
       
       <guid>http://ex-nerd.com/food/low-carb-waffles/</guid>
       <description>&lt;p&gt;Living with &lt;a href=&#34;https://en.wikipedia.org/wiki/Latent_autoimmune_diabetes_of_adults&#34;&gt;Type 1 Diabetes&lt;/a&gt; means that I have to closely watch my carbohydrate intake, and it&amp;rsquo;s easier to do this by eating low-carb foods that make the &lt;a href=&#34;http://www.diabeticlifestyle.com/blood-glucose/carb-counting-insulin-math-diabetes&#34;&gt;math&lt;/a&gt; easier.  Since I don&amp;rsquo;t want to give up on some of the finer things in life &amp;ndash; like waffles &amp;ndash; I spent some time formulating a decent substitute for carb-heavy grain-based waffles.  This lets me have a fairly large breakfast of applesauce, yogurt, and definitely-not-maple (but passable) syrup and still keep things under 45g of carbs.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Keep in mind that this recipe is &lt;strong&gt;not&lt;/strong&gt; gluten-free.  Gluten-free flours that provide the proper texture are still high in carbs, so I&amp;rsquo;ve chosen to add gluten to the almond flour in this recipe in order to get the proper stretchy and crunchy texture.&lt;/p&gt;
 
@@ -60,9 +62,7 @@
     &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;http://ex-nerd.com/food/low-carb-waffles/&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;Chris Petersen&lt;/a&gt;
     is licensed under a&lt;br /&gt;
     &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.
-&lt;/div&gt;
-
-</description>
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -76,6 +76,8 @@
 of brews, but it&amp;rsquo;s one &lt;strong&gt;heck&lt;/strong&gt; of a strong cider.  So-called &amp;ldquo;real&amp;rdquo; brewers
 may scoff at the idea of using bread yeast, but keep in mind that things (flavor in particular) work differently with cider than beer or wine, and don&amp;rsquo;t
 knock it until you taste it.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;First, you will need the following:&lt;/p&gt;
 
@@ -131,8 +133,7 @@ wherever you chose to set your brew). Trust me, you don&amp;rsquo;t want that.
 &lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;P.S. If you would like to read a more detailed story and recipe about apples and cider, check out this blog post about my first
-&lt;a href=&#34;http://pieofthetiger.com/2009/11/apple-pressing-party/&#34;&gt;apple pressing party&lt;/a&gt;.&lt;/p&gt;
-</description>
+&lt;a href=&#34;http://pieofthetiger.com/2009/11/apple-pressing-party/&#34;&gt;apple pressing party&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -148,6 +149,8 @@ proceded to ban its sale for edible uses. This sent the root beer industry into
 a frenzy trying to find a replacement flavor (they eventually came up with
 something that&amp;rsquo;s a combination of licorice root &amp;ndash; that&amp;rsquo;s &lt;strong&gt;not&lt;/strong&gt; anise, and
 doesn&amp;rsquo;t taste like it &amp;ndash; and wintergreen).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Many people (myself included) believe that safrole is only dangerous when
 extracted from the sassafras root itself (there is a common theory is in herbal
@@ -253,9 +256,7 @@ flavor (but which contributes to the flavor of many carbonated beverages).&lt;/p
     &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;http://ex-nerd.com/food/root-beer/&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;Chris Petersen&lt;/a&gt;
     is licensed under a&lt;br /&gt;
     &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.
-&lt;/div&gt;
-
-</description>
+&lt;/div&gt;</description>
     </item>
     
   </channel>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech on Chris Petersen</title>
-    <link>http://ex-nerd.com/categories/tech/</link>
-    <description>Recent content in Tech on Chris Petersen</description>
+    <title>Chris Petersen</title>
+    <link>http://ex-nerd.com/categories/tech/index.xml</link>
+    <description>Recent content on Chris Petersen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Sep 2012 07:33:42 +0000</lastBuildDate>
     <atom:link href="http://ex-nerd.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -15,9 +14,9 @@
       <pubDate>Sat, 29 Sep 2012 07:33:42 +0000</pubDate>
       
       <guid>http://ex-nerd.com/tech/keeping-your-digital-life-secure/</guid>
-      <description>
+      <description>&lt;p&gt;There have been a number of high-profile stories recently about hacking and digital identity theft, along with a rash of hacked yahoo.com email accounts that usually lead to scams/cons. When a number of my friends and family members fell victim to these hacks (thankfully not to the scams) and discovered that the collateral damage could be worse than the hack itself, I decided that I should put together some recommendations to help them avoid more trouble in the future.&lt;/p&gt;
 
-&lt;p&gt;There have been a number of high-profile stories recently about hacking and digital identity theft, along with a rash of hacked yahoo.com email accounts that usually lead to scams/cons. When a number of my friends and family members fell victim to these hacks (thankfully not to the scams) and discovered that the collateral damage could be worse than the hack itself, I decided that I should put together some recommendations to help them avoid more trouble in the future.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Keep reading for a thorough explanation of how to recover from these email hacks, along with a bunch of recommendations for how to limit the chance of them happening, or the damage done if they do occur.&lt;/p&gt;
 
@@ -91,8 +90,7 @@
     &lt;li&gt;&lt;strong&gt;Back up your files.&lt;/strong&gt;  Pay for a service and/or buy yourself a handful of USB thumb drives to store your most important files.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; Most of the links for this page were found with a quick web search, so please let me know in the comments if they ever stop working and I will find new/better ones.  Only the &lt;a href=&#34;http://db.tt/zxULLdP&#34;&gt;Dropbox&lt;/a&gt; link contains any sort of referral that might be perceived to benefit me.&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; Most of the links for this page were found with a quick web search, so please let me know in the comments if they ever stop working and I will find new/better ones.  Only the &lt;a href=&#34;http://db.tt/zxULLdP&#34;&gt;Dropbox&lt;/a&gt; link contains any sort of referral that might be perceived to benefit me.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -105,14 +103,15 @@
 
 &lt;p&gt;This would be the perfect solution if it was actually supported by the majority of online account providers (and in the 6 years since this article was originally written, things aren&amp;rsquo;t much better).&lt;/p&gt;
 
+&lt;p&gt;&lt;/p&gt;
+
 &lt;p&gt;The technique for plus addressing is simple:  add a plus and a word after the username portion of your email address.  For example, &lt;code&gt;exnerd@example.com&lt;/code&gt; would become &lt;code&gt;exnerd+shopping@example.com&lt;/code&gt;.  This way, you can create a custom email address for certain types of transactions, or even for every company you do business with online.  The format is well-documented and supported by my favorite &lt;a href=&#34;http://gmailblog.blogspot.com/2008/03/2-hidden-ways-to-get-more-from-your.html&#34;&gt;free email provider&lt;/a&gt;.  It works great, too, until you run into a company that knows very little about technology.  Like all of my credit card companies, and about half of the online stores I shop at.&lt;/p&gt;
 
 &lt;p&gt;Seriously.&lt;/p&gt;
 
 &lt;p&gt;Even without the feature of using the plus to create an ignored portion of the email address, the plus character has been valid for use in email addresses since &lt;a href=&#34;http://tools.ietf.org/html/rfc822&#34;&gt;RFC 822&lt;/a&gt;, which was written in 1982!  That RFC has been replaced a few times (the current is &lt;a href=&#34;http://tools.ietf.org/html/rfc6854&#34;&gt;RFC 6854&lt;/a&gt;), but support for the plus character hasn&amp;rsquo;t changed.&lt;/p&gt;
 
-&lt;p&gt;In conclusion, I would highly recommend using plus addressing to sort and track your incoming mail.  I would also recommend that whenever you run into a so-called technologically-adept company like your credit card provider, to ask them why they are violating an email formatting standard that is over 30 years old.&lt;/p&gt;
-</description>
+&lt;p&gt;In conclusion, I would highly recommend using plus addressing to sort and track your incoming mail.  I would also recommend that whenever you run into a so-called technologically-adept company like your credit card provider, to ask them why they are violating an email formatting standard that is over 30 years old.&lt;/p&gt;</description>
     </item>
     
   </channel>
