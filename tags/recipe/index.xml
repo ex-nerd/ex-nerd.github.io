@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chris Petersen</title>
+    <title>Recipe on Chris Petersen</title>
     <link>http://ex-nerd.com/tags/recipe/index.xml</link>
-    <description>Recent content on Chris Petersen</description>
+    <description>Recent content in Recipe on Chris Petersen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://ex-nerd.com/tags/recipe/index.xml" rel="self" type="application/rss+xml" />
