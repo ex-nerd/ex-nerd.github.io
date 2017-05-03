@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Food on Chris Petersen</title>
-    <link>http://ex-nerd.com/categories/food/index.xml</link>
+    <link>http://ex-nerd.com/categories/food/</link>
     <description>Recent content in Food on Chris Petersen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://ex-nerd.com/categories/food/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jun 2016 20:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://ex-nerd.com/categories/food/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Low Carb Waffles</title>
@@ -16,52 +19,7 @@
       <guid>http://ex-nerd.com/food/low-carb-waffles/</guid>
       <description>&lt;p&gt;Living with &lt;a href=&#34;https://en.wikipedia.org/wiki/Latent_autoimmune_diabetes_of_adults&#34;&gt;Type 1 Diabetes&lt;/a&gt; means that I have to closely watch my carbohydrate intake, and it&amp;rsquo;s easier to do this by eating low-carb foods that make the &lt;a href=&#34;http://www.diabeticlifestyle.com/blood-glucose/carb-counting-insulin-math-diabetes&#34;&gt;math&lt;/a&gt; easier.  Since I don&amp;rsquo;t want to give up on some of the finer things in life &amp;ndash; like waffles &amp;ndash; I spent some time formulating a decent substitute for carb-heavy grain-based waffles.  This lets me have a fairly large breakfast of applesauce, yogurt, and definitely-not-maple (but passable) syrup and still keep things under 45g of carbs.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Keep in mind that this recipe is &lt;strong&gt;not&lt;/strong&gt; gluten-free.  Gluten-free flours that provide the proper texture are still high in carbs, so I&amp;rsquo;ve chosen to add gluten to the almond flour in this recipe in order to get the proper stretchy and crunchy texture.&lt;/p&gt;
-
-&lt;hr style=&#34;width: 50%&#34; /&gt;
-
-&lt;p&gt;This recipe is made to be scaled up (it only makes 1 waffle in my machine).  Being so small, I would recommend at least doubling (if not tripling) just to get enough volume in the bowl to mix properly.&lt;/p&gt;
-
-&lt;p&gt;Stir together the dry ingredients until they&amp;rsquo;re evenly incorporated:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; cup almond flour&lt;/li&gt;
-&lt;li&gt;1 tsbp vital wheat gluten&lt;/li&gt;
-&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; tsp baking powder&lt;/li&gt;
-&lt;li&gt;pinch of salt&lt;/li&gt;
-&lt;li&gt;1 tsp cinnamon (or more, optional)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thoroughly mix in:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;1 egg&lt;/li&gt;
-&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; cup &lt;a href=&#34;http://www.califiafarms.com/products/almondmilk/unsweetened&#34;&gt;Califia Farms unsweetened almond milk&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Let sit 3-4 minutes to allow the gluten and cinnamon to hydrate.&lt;/p&gt;
-
-&lt;p&gt;Cook according to waffle maker directions.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;This recipe also works great for pancakes if you add a bit more liquid, and another &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;8&lt;/sub&gt; tsp baking powder (I usually triple it and round up to &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; tsp baking powder).&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;I buy the almond milk at Whole Foods but have seen it in other stores.  The unsweetened variety is basically 0g net carbs.  More info from &lt;a href=&#34;http://www.califiafarms.com/products/almondmilk/unsweetened&#34;&gt;Califia Farms&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;I count this recipe as 5g net carbs. The almond flour I use is 6g per &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; cup but at 50% fiber I count it as 4g net. Everything else is under 1g net for the amounts used in the recipe, and I round up just to be safe.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&#34;license&#34;&gt;
-    &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0; float:left; margin: .75em 1em 0 0&#34; src=&#34;https://i.creativecommons.org/l/by-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;
-    This &lt;span xmlns:dc=&#34;http://purl.org/dc/elements/1.1/&#34; property=&#34;dc:title&#34;&gt;recipe&lt;/span&gt; by
-    &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;http://ex-nerd.com/food/low-carb-waffles/&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;Chris Petersen&lt;/a&gt;
-    is licensed under a&lt;br /&gt;
-    &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.
-&lt;/div&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -76,63 +34,7 @@ of brews, but it&amp;rsquo;s one &lt;strong&gt;heck&lt;/strong&gt; of a strong c
 may scoff at the idea of using bread yeast, but keep in mind that things (flavor in particular) work differently with cider than beer or wine, and don&amp;rsquo;t
 knock it until you taste it.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;First, you will need the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;1 gallon 100% apple juice (in a &lt;strong&gt;glass&lt;/strong&gt; bottle)&lt;/li&gt;
-&lt;li&gt;1 packet bread yeast (eg. Fleishman&amp;rsquo;s or Red Star) &lt;sup&gt;&lt;a href=&#34;#note1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-&lt;li&gt;4-6 cups brown and/or white sugar&lt;/li&gt;
-&lt;li&gt;1 party balloon (buy a pack &amp;ndash; sometimes they break) &lt;sup&gt;&lt;a href=&#34;#note2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Or spring for a standard homebrewer&amp;rsquo;s airlock &amp;ndash; they cost about $1.50.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p style=&#34;font-size: 80%&#34;&gt;
-&lt;sup&gt;&lt;a name=&#34;note1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
-Hard-core brewers may scoff at the use of bread yeast here but it works well enough.  Of course, you&#39;re more than welcome to substitute a beer, cider, or ale yeast.  It will change the flavor of the end result, so you might want to try several different yeasts to see which you prefer.
-&lt;/p&gt;
-
-&lt;p style=&#34;font-size: 80%&#34;&gt;
-&lt;sup&gt;&lt;a name=&#34;note2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;
-Of course, you can also use a standard brewing airlock.  They only cost about $2 and can be picked up at any brew store.  Just make sure that you get a rubber stopper big enough not to fall through the opening on the juice bottle
-(7&amp;frac12; or 8 will probably do the trick, but I recommend that you measure to be sure).
-&lt;/p&gt;
-
-&lt;p&gt;Next, follow these relatively simple steps:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Pour off a glass or so worth of apple juice and set it aside (you&amp;rsquo;ll need some of it in a bit).&lt;/li&gt;
-&lt;li&gt;Put the sugar into a saucepan.  More sugar means a sweeter cider and more alcohol, darker sugar means a darker cider with a stronger flavor. I like about 4.5 cups, half dark-brown and half white sugar.&lt;/li&gt;
-&lt;li&gt;Add enough apple juice to the saucepan to dissolve the sugar over low heat.  You shouldn&amp;rsquo;t need more than half of the remaining cider.&lt;/li&gt;
-&lt;li&gt;Once the sugar is dissolved, let the mixture cool until until it&amp;rsquo;s not hot enough to burn you (or the yeast), and pour it back into the bottle (use a funnel if you need to).  The bottle should now be full of warm extra-sweet juice.&lt;/li&gt;
-&lt;li&gt;Toss in about &amp;frac12; tsp of yeast (a yeast packet usually holds a little over 2 tsp, so don&amp;rsquo;t throw the whole thing in), and top off the bottle with the juice you set aside in step 1.  Leave a few inches at the top of the bottle &amp;ndash; don&amp;rsquo;t let it get too full.&lt;/li&gt;
-&lt;li&gt;Wash the powdered anti-stick stuff out of the balloon, and prick it with a pin.  Then place the balloon on top of the bottle.  The pin-prick will be enough to let air escape from the bottle, but not big enough to let any nasty bacteria back in.&lt;/li&gt;
-&lt;li&gt;That&amp;rsquo;s it!  Let this sit for 2-3 weeks.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;After 2-3 weeks, you will need to &amp;ldquo;rack&amp;rdquo; the cider.  Racking is the process of
-siphoning the cider off the top of the &lt;a href=&#34;http://en.wikipedia.org/wiki/Lees&#34;&gt;lees&lt;/a&gt; (dead yeast).  You can use a siphon if you want, but if you&amp;rsquo;re careful the 1-gallon bottle is small enough that you can usually just pour the good stuff off the top.  Don&amp;rsquo;t worry if you get a little lees along with the cider, since you have to rack it again, anyway. Replace the balloon (using a new one if necessary) and let the cider continue to ferment.&lt;/p&gt;
-
-&lt;p&gt;Rack the cider again every 2-3 weeks until there is no more lees at the bottom
-of the bottle.  The cider is drinkable at any stage, but it starts to get good
-at about 2-3 months, and excellent around 9 months (and so far, I&amp;rsquo;ve only seen
-it get better with age &amp;ndash; it will continue to get better for years/decades if you can keep yourself from drinking it).&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;
-Important: Please make sure that you do &lt;strong&gt;not&lt;/strong&gt; reseal the juice bottle with
-its original lid until you are &lt;strong&gt;completely sure&lt;/strong&gt; that there is no live
-yeast left. This kind of bottle was not made to handle pressure, and if you have &lt;strong&gt;any&lt;/strong&gt; live yeast left over, you risk building up more pressure than the
-bottle can handle. Since the cap screws on stronger than the glass can hold, if
-it blows, you&amp;rsquo;ll end up with sticky broken glass all over your kitchen (or
-wherever you chose to set your brew). Trust me, you don&amp;rsquo;t want that.
-&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;P.S. If you would like to read a more detailed story and recipe about apples and cider, check out this blog post about my first
-&lt;a href=&#34;http://pieofthetiger.com/2009/11/apple-pressing-party/&#34;&gt;apple pressing party&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -149,113 +51,7 @@ a frenzy trying to find a replacement flavor (they eventually came up with
 something that&amp;rsquo;s a combination of licorice root &amp;ndash; that&amp;rsquo;s &lt;strong&gt;not&lt;/strong&gt; anise, and
 doesn&amp;rsquo;t taste like it &amp;ndash; and wintergreen).&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Many people (myself included) believe that safrole is only dangerous when
-extracted from the sassafras root itself (there is a common theory is in herbal
-medicine that there are other chemicals present in the plant that cancel out the
-harmful effects of things like safrole).  Thus, I don&amp;rsquo;t mind drinking a little
-&amp;ldquo;real&amp;rdquo; root beer &amp;ndash; if it does happen to be harmful, the small amounts that I
-drink won&amp;rsquo;t be that bad for me (couldn&amp;rsquo;t be worse than something like alcohol).&lt;/p&gt;
-
-&lt;p&gt;After scouring books and the web for a good traditional root beer recipe, and
-failing to come up with something really good, I eventually merged several
-recipes together to come up with the following, which has a lot of the taste of
-a traditional root beer, but also includes some wintergreen to make it more
-compatible with the modern palate.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;First, put about 5 quarts of water into your favorite brew pot, and then add:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;1 oz sarsparilla root&lt;/li&gt;
-&lt;li&gt;1 oz sassafras root bark&lt;sup&gt;&lt;a href=&#34;#sassafras&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-&lt;li&gt;1 oz cherry bark&lt;/li&gt;
-&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; oz licorice root&lt;/li&gt;
-&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; tsp freshly ground nutmeg&lt;/li&gt;
-&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;8&lt;/sub&gt; oz cinnamon (about half a stick)&lt;sup&gt;&lt;a href=&#34;#cinnamon&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-&lt;li&gt;2 to 4 oz raisins (you can add more if you like their flavor)&lt;/li&gt;
-&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; tsp salt&lt;/li&gt;
-&lt;li&gt;3 cups honey&lt;/li&gt;
-&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; cup molasses&lt;/li&gt;
-&lt;li&gt;4 lb sugar&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Simmer this mixture for an hour or so, until you have a 5 quarts or so of syrup
-left in your pot (remember, adding all that stuff increased your volume by a
-couple of quarts).&lt;/p&gt;
-
-&lt;p&gt;Once this is boiled down, strain your mixture into another pot and add:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;1 tbsp vanilla extract&lt;/li&gt;
-&lt;li&gt;1 tsp wintergreen or birch extract, or &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; tsp pure essential oil
-&lt;sup&gt;&lt;a href=&#34;#wintergreen&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Stir a bit, and then bottle in 1-quart jars.  Due to the high sugar content,
-this should keep fairly well, but you could always use a plastic jar or bottle
-and store it in the freezer (do &lt;strong&gt;not&lt;/strong&gt; put glass into the freezer).  To make
-the root beer, just mix 1:4 with water (one part syrup + 4 parts water) and
-carbonate&lt;sup&gt;&lt;a href=&#34;#carbonate&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.  Depending on your taste preference,
-variations in cooking times, and/or the spices you used, you may find that the
-ratio needs to be adjusted for your batch, so don&amp;rsquo;t hesitate to use more or less
-syrup to get the flavor just right.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div style=&#34;font-size: 80%&#34;&gt;
-&lt;p&gt;&lt;sup&gt;&lt;a name=&#34;sassafras&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
-Sassafras root bark (not plain old bark) is illegal for sale as a food product
-in the US because it&amp;rsquo;s been shown, like many things, to cause cancer in lab
-rats. However, many brew stores carry the Brewer&amp;rsquo;s Garden brand of sassafras
-&amp;ldquo;potpouri&amp;rdquo;, or you can get it directly from one of several bulk herb suppliers
-online.  Please see &lt;a href=&#34;http://www.chow.com/stories/10129&#34;&gt;this article&lt;/a&gt; for a more
-in depth explanation about the ban.&lt;/p&gt;
-
-&lt;p&gt;&lt;sup&gt;&lt;a name=&#34;cinnamon&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;
-What you buy in stores is actually cassia, not cinnamon.  If you can&amp;rsquo;t get ahold
-of &amp;ldquo;true&amp;rdquo; cinnamon, you might want to use a smaller amount than the one listed
-in the recipe.  However, &amp;ldquo;true&amp;rdquo; cinnamon can usually be found in the Mexican
-section of the grocery store as &amp;ldquo;canela&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;&lt;sup&gt;&lt;a name=&#34;wintergreen&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;
-I initially tried wintergreen oil, but it doesn&amp;rsquo;t dissolve well. I did
-eventually find a good all-natural wintergreen extract (made by Boyajian) at a
-local fruit market, though you&amp;rsquo;ll also have luck buying it from cake-decorating
-supply places (as it was a frosting-flavor additive).  Since then, I&amp;rsquo;ve learned
-that you can use gum arabic as an emulsifier to allow the oil and sugar solution
-to stay mixed.  Just mix the oil with a tsp or so of gum arabic, and then add a
-tbsp or two of water as you quickly stir.  Once this is mixed, you can just add
-it to the recipe like you would an extract.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;VERY Important&lt;/strong&gt;:  If you use essential oil, make sure that you are using
-&lt;strong&gt;food grade&lt;/strong&gt; ingredients.  This means that you want 100% pure essential oil
-and food grade gum arabic (do &lt;strong&gt;not&lt;/strong&gt; get it from an art supply store). There
-are many herb and health food shops online that sell both ingredients.&lt;/p&gt;
-
-&lt;p&gt;&lt;sup&gt;&lt;a name=&#34;carbonate&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;
-If you don&amp;rsquo;t want to spend the money on a carbon dioxide tank and injection
-system, you can &amp;ldquo;cheat&amp;rdquo; and just mix the syrup straight into carbonated water
-from a can or bottle.  If you do this, compare the different flavors of plain
-carbonated versus &amp;ldquo;soda water&amp;rdquo; or &amp;ldquo;club soda&amp;rdquo;.  The latter two usually have
-baking soda added to counteract the mild acid generated during the carbonation
-process, which some people think gives carbonated water an unpleasant tart
-flavor (but which contributes to the flavor of many carbonated beverages).&lt;/p&gt;
-
-
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&#34;license&#34;&gt;
-    &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0; float:left; margin: .75em 1em 0 0&#34; src=&#34;https://i.creativecommons.org/l/by-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;
-    This &lt;span xmlns:dc=&#34;http://purl.org/dc/elements/1.1/&#34; property=&#34;dc:title&#34;&gt;recipe&lt;/span&gt; by
-    &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;http://ex-nerd.com/food/root-beer/&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;Chris Petersen&lt;/a&gt;
-    is licensed under a&lt;br /&gt;
-    &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.
-&lt;/div&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
