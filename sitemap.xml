@@ -38,12 +38,40 @@
   </url>
   
   <url>
+    <loc>http://ex-nerd.com/diabetes/alcohol/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/diabetes/blood-sugar/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/diabetes/carbs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/diabetes/disability/</loc>
+  </url>
+  
+  <url>
     <loc>http://ex-nerd.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ex-nerd.com/</loc>
+    <lastmod>2017-07-07T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/tags/diabetes/</loc>
+    <lastmod>2017-07-07T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/categories/diabetes/</loc>
     <lastmod>2017-07-07T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -63,12 +91,6 @@
   <url>
     <loc>http://ex-nerd.com/food/</loc>
     <lastmod>2016-06-16T20:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ex-nerd.com/categories/health/</loc>
-    <lastmod>2017-07-07T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
