@@ -65,6 +65,12 @@
   </url>
   
   <url>
+    <loc>http://ex-nerd.com/diabetes/</loc>
+    <lastmod>2017-07-07T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ex-nerd.com/tags/diabetes/</loc>
     <lastmod>2017-07-07T08:00:00-07:00</lastmod>
     <priority>0</priority>
@@ -77,19 +83,13 @@
   </url>
   
   <url>
-    <loc>http://ex-nerd.com/diabetes/</loc>
-    <lastmod>2017-07-07T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ex-nerd.com/categories/food/</loc>
+    <loc>http://ex-nerd.com/food/</loc>
     <lastmod>2016-06-16T20:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ex-nerd.com/food/</loc>
+    <loc>http://ex-nerd.com/categories/food/</loc>
     <lastmod>2016-06-16T20:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -113,13 +113,13 @@
   </url>
   
   <url>
-    <loc>http://ex-nerd.com/categories/tech/</loc>
+    <loc>http://ex-nerd.com/tech/</loc>
     <lastmod>2012-09-29T07:33:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ex-nerd.com/tech/</loc>
+    <loc>http://ex-nerd.com/categories/tech/</loc>
     <lastmod>2012-09-29T07:33:42+00:00</lastmod>
     <priority>0</priority>
   </url>
