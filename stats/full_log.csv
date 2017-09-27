@@ -37956,3 +37956,13 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-09-26,08:57:00 AM,glucose,m,OneTouch,87,mg/dL,,Before Meal
 2017-09-26,09:00:00 AM,insulin,rapid,OneTouch,3,u,,
 2017-09-26,09:03:00 AM,carbs,,OneTouch,27.0,g,,
+2017-09-26,12:51:00 PM,glucose,m,OneTouch,82,mg/dL,,Before Meal
+2017-09-26,12:52:00 PM,insulin,rapid,OneTouch,7,u,,
+2017-09-26,01:04:00 PM,carbs,,OneTouch,65.0,g,Metabrite sandwich,
+2017-09-26,05:28:00 PM,carbs,,OneTouch,11.0,g,kind bar,
+2017-09-26,08:08:00 PM,glucose,m,OneTouch,99,mg/dL,,Before Meal
+2017-09-26,08:12:00 PM,insulin,rapid,OneTouch,7,u,,
+2017-09-26,08:14:00 PM,carbs,,OneTouch,45.0,g,curry,
+2017-09-26,08:42:00 PM,carbs,,OneTouch,21.0,g,ice cream bar,
+2017-09-26,11:02:00 PM,insulin,long,OneTouch,19,u,,
+2017-09-26,11:47:00 PM,carbs,,OneTouch,0.0,g,16 oz 4.4% beer,
