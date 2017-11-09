@@ -49165,8 +49165,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-03,12:47:00 PM,glucose,cgm,Dexcom Clarity,90,mg/dL,,Manual
 2017-11-03,12:52:00 PM,glucose,cgm,Dexcom Clarity,89,mg/dL,,Manual
 2017-11-03,12:57:00 PM,glucose,cgm,Dexcom Clarity,91,mg/dL,,Manual
-2017-11-03,01:00:00 PM,insulin,rapid,OneTouch,7,u,,
 2017-11-03,01:00:00 PM,carbs,,OneTouch,65.0,g,"Medi mix falafel plate, half pita",
+2017-11-03,01:00:00 PM,insulin,rapid,OneTouch,7,u,,
 2017-11-03,01:02:00 PM,glucose,cgm,Dexcom Clarity,91,mg/dL,,Manual
 2017-11-03,01:07:00 PM,glucose,cgm,Dexcom Clarity,90,mg/dL,,Manual
 2017-11-03,01:12:00 PM,glucose,cgm,Dexcom Clarity,88,mg/dL,,Manual
@@ -49801,3 +49801,19 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-07,07:06:00 PM,carbs,,OneTouch,21.0,g,Ice cream bar,
 2017-11-07,09:48:00 PM,carbs,,OneTouch,12.0,g,Quest bar,
 2017-11-07,10:33:00 PM,insulin,long,OneTouch,19,u,,
+2017-11-07,11:29:00 PM,glucose,m,OneTouch,130,mg/dL,,
+2017-11-08,07:04:00 AM,glucose,m,OneTouch,110,mg/dL,,
+2017-11-08,08:46:00 AM,carbs,,OneTouch,60.0,g,MMTT,
+2017-11-08,10:48:00 AM,glucose,m,OneTouch,197,mg/dL,,Manual
+2017-11-08,10:54:00 AM,insulin,rapid,OneTouch,2,u,"New pen, prime 8u",
+2017-11-08,10:58:00 AM,carbs,,OneTouch,10.0,g,Hospital omelette,
+2017-11-08,12:17:00 PM,insulin,rapid,OneTouch,3,u,,
+2017-11-08,12:18:00 PM,carbs,,OneTouch,25.0,g,Red salmon,
+2017-11-08,12:22:00 PM,carbs,,OneTouch,10.0,g,Candy,
+2017-11-08,02:33:00 PM,carbs,,OneTouch,10.0,g,Candy,
+2017-11-08,06:52:00 PM,glucose,m,OneTouch,113,mg/dL,,Before Meal
+2017-11-08,07:17:00 PM,insulin,rapid,OneTouch,6,u,,
+2017-11-08,07:19:00 PM,glucose,m,OneTouch,112,mg/dL,,
+2017-11-08,07:34:00 PM,carbs,,OneTouch,35.0,g,Scramble,
+2017-11-08,07:56:00 PM,carbs,,OneTouch,21.0,g,Ice cream bar,
+2017-11-08,08:42:00 PM,carbs,,OneTouch,0.0,g,12 oz 8.3% beer,
