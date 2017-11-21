@@ -1,70 +1,4 @@
 date,time,source,value,unit,tags
-2017-03-14,10:02:00 PM,OneTouch,128,mg/dl,After Meal
-2017-03-15,02:14:00 AM,OneTouch,148,mg/dl,
-2017-03-15,10:33:00 AM,OneTouch,117,mg/dl,Before Meal
-2017-03-15,02:27:00 PM,OneTouch,118,mg/dl,After Meal
-2017-03-15,07:22:00 PM,OneTouch,107,mg/dl,Before Meal
-2017-03-15,10:43:00 PM,OneTouch,156,mg/dl,After Meal
-2017-03-16,01:41:00 AM,OneTouch,107,mg/dl,
-2017-03-16,08:29:00 AM,OneTouch,115,mg/dl,Before Meal
-2017-03-16,11:51:00 AM,OneTouch,113,mg/dl,Before Meal
-2017-03-16,03:36:00 PM,OneTouch,143,mg/dl,
-2017-03-16,05:09:00 PM,OneTouch,119,mg/dl,
-2017-03-16,08:30:00 PM,OneTouch,191,mg/dl,After Meal
-2017-03-16,09:44:00 PM,OneTouch,127,mg/dl,
-2017-03-17,01:19:00 AM,OneTouch,116,mg/dl,
-2017-03-17,09:01:00 AM,OneTouch,96,mg/dl,Before Meal
-2017-03-17,12:06:00 PM,OneTouch,99,mg/dl,Before Meal
-2017-03-17,03:06:00 PM,OneTouch,140,mg/dl,After Meal
-2017-03-17,05:47:00 PM,OneTouch,97,mg/dl,
-2017-03-17,07:51:00 PM,OneTouch,93,mg/dl,Before Meal
-2017-03-17,10:41:00 PM,OneTouch,130,mg/dl,After Meal
-2017-03-18,02:56:00 AM,OneTouch,129,mg/dl,
-2017-03-18,12:01:00 PM,OneTouch,105,mg/dl,Before Meal
-2017-03-18,02:48:00 PM,OneTouch,148,mg/dl,After Meal
-2017-03-18,10:18:00 PM,OneTouch,134,mg/dl,
-2017-03-19,01:45:00 AM,OneTouch,113,mg/dl,After Meal
-2017-03-19,09:12:00 AM,OneTouch,91,mg/dl,Before Meal
-2017-03-19,11:30:00 AM,OneTouch,139,mg/dl,
-2017-03-19,01:36:00 PM,OneTouch,106,mg/dl,Before Meal
-2017-03-19,05:20:00 PM,OneTouch,124,mg/dl,After Meal
-2017-03-19,08:42:00 PM,OneTouch,82,mg/dl,Before Meal
-2017-03-19,11:39:00 PM,OneTouch,158,mg/dl,
-2017-03-20,01:52:00 AM,OneTouch,163,mg/dl,
-2017-03-20,09:07:00 AM,OneTouch,104,mg/dl,Before Meal
-2017-03-20,12:34:00 PM,OneTouch,121,mg/dl,
-2017-03-20,02:50:00 PM,OneTouch,127,mg/dl,After Meal
-2017-03-20,07:44:00 PM,OneTouch,116,mg/dl,Before Meal
-2017-03-20,10:41:00 PM,OneTouch,151,mg/dl,After Meal
-2017-03-21,01:31:00 AM,OneTouch,115,mg/dl,
-2017-03-21,08:45:00 AM,OneTouch,114,mg/dl,Before Meal
-2017-03-21,12:35:00 PM,OneTouch,102,mg/dl,
-2017-03-21,03:17:00 PM,OneTouch,113,mg/dl,After Meal
-2017-03-21,06:45:00 PM,OneTouch,105,mg/dl,Before Meal
-2017-03-21,08:34:00 PM,OneTouch,122,mg/dl,
-2017-03-21,11:51:00 PM,OneTouch,109,mg/dl,
-2017-03-22,08:58:00 AM,OneTouch,119,mg/dl,Before Meal
-2017-03-22,12:25:00 PM,OneTouch,118,mg/dl,Before Meal
-2017-03-22,07:46:00 PM,OneTouch,90,mg/dl,Before Meal
-2017-03-22,11:05:00 PM,OneTouch,131,mg/dl,
-2017-03-23,01:24:00 AM,OneTouch,121,mg/dl,
-2017-03-23,08:26:00 AM,OneTouch,92,mg/dl,Before Meal
-2017-03-23,11:58:00 AM,OneTouch,123,mg/dl,Before Meal
-2017-03-23,03:19:00 PM,OneTouch,131,mg/dl,After Meal
-2017-03-23,04:33:00 PM,OneTouch,97,mg/dl,
-2017-03-23,07:31:00 PM,OneTouch,111,mg/dl,Before Meal
-2017-03-24,01:09:00 AM,OneTouch,145,mg/dl,
-2017-03-24,09:53:00 AM,OneTouch,89,mg/dl,Before Meal
-2017-03-24,01:55:00 PM,OneTouch,94,mg/dl,Before Meal
-2017-03-24,07:27:00 PM,OneTouch,113,mg/dl,
-2017-03-24,10:57:00 PM,OneTouch,129,mg/dl,After Meal
-2017-03-25,02:43:00 AM,OneTouch,102,mg/dl,
-2017-03-25,01:32:00 PM,OneTouch,111,mg/dl,Before Meal
-2017-03-25,04:06:00 PM,OneTouch,76,mg/dl,
-2017-03-25,09:46:00 PM,OneTouch,81,mg/dl,Before Meal
-2017-03-26,12:10:00 AM,OneTouch,106,mg/dl,After Meal
-2017-03-26,02:39:00 AM,OneTouch,110,mg/dl,
-2017-03-26,11:00:00 AM,OneTouch,88,mg/dl,Before Meal
 2017-03-26,02:35:00 PM,OneTouch,140,mg/dl,After Meal
 2017-03-26,05:46:00 PM,OneTouch,96,mg/dl,
 2017-03-26,09:07:00 PM,OneTouch,167,mg/dl,After Meal
@@ -1187,3 +1121,51 @@ date,time,source,value,unit,tags
 2017-11-09,08:25:00 AM,OneTouch,93,mg/dL,Before Meal
 2017-11-09,11:56:00 AM,OneTouch,103,mg/dL,Before Meal
 2017-11-09,07:04:00 PM,OneTouch,126,mg/dL,Before Meal
+2017-11-10,12:15:00 AM,OneTouch,106,mg/dL,
+2017-11-10,09:11:00 AM,OneTouch,103,mg/dL,Before Meal
+2017-11-10,11:15:00 AM,OneTouch,108,mg/dL,Before Meal
+2017-11-10,11:15:00 AM,OneTouch,107,mg/dL,
+2017-11-10,04:50:00 PM,OneTouch,106,mg/dL,
+2017-11-10,07:17:00 PM,OneTouch,96,mg/dL,
+2017-11-11,12:30:00 AM,OneTouch,110,mg/dL,
+2017-11-11,09:58:00 AM,OneTouch,97,mg/dL,
+2017-11-11,10:15:00 PM,OneTouch,93,mg/dL,Before Meal
+2017-11-12,11:22:00 AM,OneTouch,105,mg/dL,Before Meal
+2017-11-12,06:22:00 PM,OneTouch,108,mg/dL,
+2017-11-12,11:38:00 PM,OneTouch,129,mg/dL,
+2017-11-13,08:57:00 AM,OneTouch,90,mg/dL,Before Meal
+2017-11-13,11:41:00 AM,OneTouch,117,mg/dL,
+2017-11-13,08:08:00 PM,OneTouch,120,mg/dL,Before Meal
+2017-11-13,11:47:00 PM,OneTouch,89,mg/dL,
+2017-11-14,08:51:00 AM,OneTouch,78,mg/dL,
+2017-11-14,12:01:00 PM,OneTouch,100,mg/dL,
+2017-11-14,07:01:00 PM,OneTouch,102,mg/dL,Before Meal
+2017-11-15,12:16:00 AM,OneTouch,83,mg/dL,
+2017-11-15,11:23:00 AM,OneTouch,109,mg/dL,Before Meal
+2017-11-15,01:01:00 PM,OneTouch,131,mg/dL,
+2017-11-15,08:07:00 PM,OneTouch,106,mg/dL,Before Meal
+2017-11-16,12:09:00 AM,OneTouch,95,mg/dL,
+2017-11-16,02:08:00 AM,OneTouch,82,mg/dL,
+2017-11-16,09:08:00 AM,OneTouch,99,mg/dL,Before Meal
+2017-11-16,12:10:00 PM,OneTouch,94,mg/dL,Before Meal
+2017-11-16,07:09:00 PM,OneTouch,84,mg/dL,Before Meal
+2017-11-17,12:57:00 AM,OneTouch,106,mg/dL,
+2017-11-17,08:18:00 AM,OneTouch,84,mg/dL,Before Meal
+2017-11-17,11:43:00 AM,OneTouch,99,mg/dL,
+2017-11-17,11:43:00 AM,OneTouch,105,mg/dL,
+2017-11-17,08:00:00 PM,OneTouch,86,mg/dL,Before Meal
+2017-11-18,12:11:00 AM,OneTouch,143,mg/dL,
+2017-11-18,02:34:00 AM,OneTouch,102,mg/dL,
+2017-11-18,11:42:00 AM,OneTouch,90,mg/dL,Before Meal
+2017-11-18,05:57:00 PM,OneTouch,98,mg/dL,Before Meal
+2017-11-19,12:03:00 AM,OneTouch,88,mg/dL,
+2017-11-19,11:47:00 AM,OneTouch,96,mg/dL,
+2017-11-19,06:09:00 PM,OneTouch,97,mg/dL,Before Meal
+2017-11-20,12:54:00 AM,OneTouch,110,mg/dL,
+2017-11-20,08:54:00 AM,OneTouch,106,mg/dL,Before Meal
+2017-11-20,11:13:00 AM,OneTouch,120,mg/dL,Before Meal
+2017-11-20,11:13:00 AM,OneTouch,110,mg/dL,Before Meal
+2017-11-20,07:40:00 PM,OneTouch,95,mg/dL,Before Meal
+2017-11-21,12:27:00 AM,OneTouch,125,mg/dL,
+2017-11-21,04:43:00 AM,OneTouch,104,mg/dL,
+2017-11-21,09:01:00 AM,OneTouch,94,mg/dL,
