@@ -1,23 +1,4 @@
 date,time,source,value,unit,tags
-2017-04-05,12:01:00 PM,OneTouch,115,mg/dL,Before Meal
-2017-04-05,02:53:00 PM,OneTouch,116,mg/dL,After Meal
-2017-04-05,08:01:00 PM,OneTouch,103,mg/dL,Before Meal
-2017-04-06,01:25:00 AM,OneTouch,171,mg/dL,
-2017-04-06,08:32:00 AM,OneTouch,90,mg/dL,Before Meal
-2017-04-06,11:51:00 AM,OneTouch,98,mg/dL,Before Meal
-2017-04-06,02:48:00 PM,OneTouch,104,mg/dL,After Meal
-2017-04-06,08:08:00 PM,OneTouch,108,mg/dL,Before Meal
-2017-04-07,03:15:00 AM,OneTouch,100,mg/dL,
-2017-04-07,08:37:00 AM,OneTouch,91,mg/dL,Before Meal
-2017-04-07,12:18:00 PM,OneTouch,103,mg/dL,Before Meal
-2017-04-07,02:56:00 PM,OneTouch,112,mg/dL,
-2017-04-07,07:19:00 PM,OneTouch,102,mg/dL,Before Meal
-2017-04-07,10:19:00 PM,OneTouch,102,mg/dL,After Meal
-2017-04-08,01:30:00 AM,OneTouch,122,mg/dL,
-2017-04-08,10:03:00 AM,OneTouch,117,mg/dL,Before Meal
-2017-04-08,01:40:00 PM,OneTouch,122,mg/dL,After Meal
-2017-04-08,07:38:00 PM,OneTouch,97,mg/dL,Before Meal
-2017-04-08,10:58:00 PM,OneTouch,96,mg/dL,After Meal
 2017-04-09,02:02:00 AM,OneTouch,95,mg/dL,
 2017-04-09,10:56:00 AM,OneTouch,103,mg/dL,Before Meal
 2017-04-09,08:00:00 PM,OneTouch,109,mg/dL,Before Meal
@@ -1148,3 +1129,22 @@ date,time,source,value,unit,tags
 2017-11-29,07:38:00 PM,OneTouch,117,mg/dL,Before Meal
 2017-11-30,12:29:00 AM,OneTouch,130,mg/dL,
 2017-11-30,08:29:00 AM,OneTouch,116,mg/dL,Before Meal
+2017-11-30,12:34:00 PM,OneTouch,101,mg/dL,Before Meal
+2017-11-30,07:24:00 PM,OneTouch,104,mg/dL,Before Meal
+2017-11-30,09:15:00 PM,OneTouch,127,mg/dL,
+2017-12-01,08:52:00 AM,OneTouch,108,mg/dL,
+2017-12-01,10:56:00 AM,OneTouch,117,mg/dL,Before Meal
+2017-12-01,10:56:00 AM,OneTouch,120,mg/dL,
+2017-12-01,04:27:00 PM,OneTouch,93,mg/dL,
+2017-12-01,07:13:00 PM,OneTouch,93,mg/dL,Before Meal
+2017-12-02,03:04:00 AM,OneTouch,106,mg/dL,
+2017-12-02,11:48:00 AM,OneTouch,95,mg/dL,Before Meal
+2017-12-02,05:15:00 PM,OneTouch,95,mg/dL,Before Meal
+2017-12-02,11:07:00 PM,OneTouch,100,mg/dL,
+2017-12-03,12:00:00 PM,OneTouch,97,mg/dL,Before Meal
+2017-12-03,04:56:00 PM,OneTouch,79,mg/dL,After Meal
+2017-12-03,07:27:00 PM,OneTouch,108,mg/dL,Before Meal
+2017-12-04,12:28:00 AM,OneTouch,128,mg/dL,
+2017-12-04,08:35:00 AM,OneTouch,96,mg/dL,Before Meal
+2017-12-04,12:06:00 PM,OneTouch,107,mg/dL,
+2017-12-04,07:12:00 PM,OneTouch,108,mg/dL,Before Meal
