@@ -54358,8 +54358,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-21,12:46:00 AM,glucose,cgm,Dexcom Clarity,116,mg/dL,,Manual
 2017-11-21,12:51:00 AM,glucose,cgm,Dexcom Clarity,100,mg/dL,,Manual
 2017-11-21,12:56:00 AM,glucose,cgm,Dexcom Clarity,102,mg/dL,,Manual
-2017-11-21,01:01:00 AM,carbs,,OneTouch,5.0,g,Chocolate,
 2017-11-21,01:01:00 AM,glucose,cgm,Dexcom Clarity,98,mg/dL,,Manual
+2017-11-21,01:01:00 AM,carbs,,OneTouch,5.0,g,Chocolate,
 2017-11-21,01:06:00 AM,glucose,cgm,Dexcom Clarity,89,mg/dL,,Manual
 2017-11-21,01:11:00 AM,glucose,cgm,Dexcom Clarity,86,mg/dL,,Manual
 2017-11-21,01:16:00 AM,glucose,cgm,Dexcom Clarity,86,mg/dL,,Manual
@@ -54448,9 +54448,9 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-21,08:46:00 AM,glucose,cgm,Dexcom Clarity,113,mg/dL,,Manual
 2017-11-21,08:51:00 AM,glucose,cgm,Dexcom Clarity,118,mg/dL,,Manual
 2017-11-21,08:56:00 AM,glucose,cgm,Dexcom Clarity,121,mg/dL,,Manual
-2017-11-21,09:01:00 AM,glucose,m,OneTouch,94,mg/dL,,
 2017-11-21,09:01:00 AM,glucose,cgm,Dexcom Clarity,89,mg/dL,,Manual
 2017-11-21,09:01:00 AM,glucose,cgm,Dexcom Clarity,114,mg/dL,,Manual
+2017-11-21,09:01:00 AM,glucose,m,OneTouch,94,mg/dL,,
 2017-11-21,09:06:00 AM,glucose,cgm,Dexcom Clarity,89,mg/dL,,Manual
 2017-11-21,09:11:00 AM,glucose,cgm,Dexcom Clarity,88,mg/dL,,Manual
 2017-11-21,09:16:00 AM,glucose,cgm,Dexcom Clarity,89,mg/dL,,Manual
@@ -54627,8 +54627,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-21,10:46:00 PM,glucose,cgm,Dexcom Clarity,103,mg/dL,,Manual
 2017-11-21,10:51:00 PM,glucose,cgm,Dexcom Clarity,103,mg/dL,,Manual
 2017-11-21,10:56:00 PM,glucose,cgm,Dexcom Clarity,107,mg/dL,,Manual
-2017-11-21,11:01:00 PM,insulin,long,OneTouch,18,u,,
 2017-11-21,11:01:00 PM,glucose,cgm,Dexcom Clarity,106,mg/dL,,Manual
+2017-11-21,11:01:00 PM,insulin,long,OneTouch,18,u,,
 2017-11-21,11:06:00 PM,glucose,cgm,Dexcom Clarity,107,mg/dL,,Manual
 2017-11-21,11:11:00 PM,glucose,cgm,Dexcom Clarity,107,mg/dL,,Manual
 2017-11-21,11:16:00 PM,glucose,cgm,Dexcom Clarity,107,mg/dL,,Manual
@@ -54747,8 +54747,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-22,08:36:00 AM,glucose,cgm,Dexcom Clarity,128,mg/dL,,Manual
 2017-11-22,08:41:00 AM,glucose,cgm,Dexcom Clarity,130,mg/dL,,Manual
 2017-11-22,08:46:00 AM,glucose,cgm,Dexcom Clarity,130,mg/dL,,Manual
-2017-11-22,08:51:00 AM,glucose,m,OneTouch,102,mg/dL,,Before Meal
 2017-11-22,08:51:00 AM,glucose,cgm,Dexcom Clarity,131,mg/dL,,Manual
+2017-11-22,08:51:00 AM,glucose,m,OneTouch,102,mg/dL,,Before Meal
 2017-11-22,08:56:00 AM,glucose,cgm,Dexcom Clarity,131,mg/dL,,Manual
 2017-11-22,08:56:00 AM,glucose,cgm,Dexcom Clarity,102,mg/dL,,Manual
 2017-11-22,08:58:00 AM,insulin,rapid,OneTouch,3,u,,
@@ -54853,8 +54853,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-22,04:46:00 PM,glucose,cgm,Dexcom Clarity,83,mg/dL,,Manual
 2017-11-22,04:51:00 PM,glucose,cgm,Dexcom Clarity,78,mg/dL,,Manual
 2017-11-22,04:56:00 PM,glucose,cgm,Dexcom Clarity,76,mg/dL,,Manual
-2017-11-22,05:01:00 PM,carbs,,OneTouch,7.0,g,Glucose,
 2017-11-22,05:01:00 PM,glucose,cgm,Dexcom Clarity,79,mg/dL,,Manual
+2017-11-22,05:01:00 PM,carbs,,OneTouch,7.0,g,Glucose,
 2017-11-22,05:06:00 PM,glucose,cgm,Dexcom Clarity,74,mg/dL,,Manual
 2017-11-22,05:11:00 PM,glucose,cgm,Dexcom Clarity,73,mg/dL,,Manual
 2017-11-22,05:16:00 PM,glucose,cgm,Dexcom Clarity,71,mg/dL,,Manual
@@ -54943,8 +54943,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-22,11:33:00 PM,insulin,rapid,OneTouch,1,u,,
 2017-11-22,11:36:00 PM,glucose,cgm,Dexcom Clarity,173,mg/dL,,Manual
 2017-11-22,11:41:00 PM,glucose,cgm,Dexcom Clarity,174,mg/dL,,Manual
-2017-11-22,11:46:00 PM,carbs,,OneTouch,0.0,g,22 oz 10% beer,
 2017-11-22,11:46:00 PM,glucose,cgm,Dexcom Clarity,174,mg/dL,,Manual
+2017-11-22,11:46:00 PM,carbs,,OneTouch,0.0,g,22 oz 10% beer,
 2017-11-22,11:51:00 PM,glucose,cgm,Dexcom Clarity,167,mg/dL,,Manual
 2017-11-22,11:56:00 PM,glucose,cgm,Dexcom Clarity,158,mg/dL,,Manual
 2017-11-23,12:01:00 AM,glucose,cgm,Dexcom Clarity,150,mg/dL,,Manual
@@ -55189,8 +55189,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-23,06:56:00 PM,glucose,cgm,Dexcom Clarity,118,mg/dL,,Manual
 2017-11-23,07:01:00 PM,glucose,cgm,Dexcom Clarity,122,mg/dL,,Manual
 2017-11-23,07:06:00 PM,glucose,cgm,Dexcom Clarity,117,mg/dL,,Manual
-2017-11-23,07:11:00 PM,glucose,m,OneTouch,119,mg/dL,,Before Meal
 2017-11-23,07:11:00 PM,glucose,cgm,Dexcom Clarity,114,mg/dL,,Manual
+2017-11-23,07:11:00 PM,glucose,m,OneTouch,119,mg/dL,,Before Meal
 2017-11-23,07:16:00 PM,glucose,cgm,Dexcom Clarity,112,mg/dL,,Manual
 2017-11-23,07:21:00 PM,glucose,cgm,Dexcom Clarity,109,mg/dL,,Manual
 2017-11-23,07:24:00 PM,insulin,rapid,OneTouch,6,u,,
@@ -55490,8 +55490,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-24,07:06:00 PM,glucose,cgm,Dexcom Clarity,95,mg/dL,,Manual
 2017-11-24,07:11:00 PM,glucose,cgm,Dexcom Clarity,95,mg/dL,,Manual
 2017-11-24,07:16:00 PM,glucose,cgm,Dexcom Clarity,95,mg/dL,,Manual
-2017-11-24,07:21:00 PM,glucose,m,OneTouch,101,mg/dL,,
 2017-11-24,07:21:00 PM,glucose,cgm,Dexcom Clarity,96,mg/dL,,Manual
+2017-11-24,07:21:00 PM,glucose,m,OneTouch,101,mg/dL,,
 2017-11-24,07:26:00 PM,glucose,cgm,Dexcom Clarity,96,mg/dL,,Manual
 2017-11-24,07:31:00 PM,glucose,cgm,Dexcom Clarity,95,mg/dL,,Manual
 2017-11-24,07:33:00 PM,insulin,rapid,OneTouch,4,u,,
@@ -55806,8 +55806,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-25,08:26:00 PM,glucose,cgm,Dexcom Clarity,91,mg/dL,,Manual
 2017-11-25,08:31:00 PM,glucose,cgm,Dexcom Clarity,92,mg/dL,,Manual
 2017-11-25,08:36:00 PM,glucose,cgm,Dexcom Clarity,92,mg/dL,,Manual
-2017-11-25,08:41:00 PM,glucose,m,OneTouch,93,mg/dL,,Before Meal
 2017-11-25,08:41:00 PM,glucose,cgm,Dexcom Clarity,94,mg/dL,,Manual
+2017-11-25,08:41:00 PM,glucose,m,OneTouch,93,mg/dL,,Before Meal
 2017-11-25,08:45:00 PM,insulin,rapid,OneTouch,2,u,,
 2017-11-25,08:46:00 PM,glucose,cgm,Dexcom Clarity,96,mg/dL,,Manual
 2017-11-25,08:51:00 PM,glucose,cgm,Dexcom Clarity,96,mg/dL,,Manual
@@ -55878,8 +55878,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-26,01:51:00 AM,glucose,cgm,Dexcom Clarity,142,mg/dL,,Manual
 2017-11-26,01:56:00 AM,glucose,cgm,Dexcom Clarity,143,mg/dL,,Manual
 2017-11-26,02:01:00 AM,glucose,cgm,Dexcom Clarity,144,mg/dL,,Manual
-2017-11-26,02:06:00 AM,glucose,m,OneTouch,157,mg/dL,,
 2017-11-26,02:06:00 AM,glucose,cgm,Dexcom Clarity,144,mg/dL,,Manual
+2017-11-26,02:06:00 AM,glucose,m,OneTouch,157,mg/dL,,
 2017-11-26,02:11:00 AM,glucose,cgm,Dexcom Clarity,143,mg/dL,,Manual
 2017-11-26,02:16:00 AM,glucose,cgm,Dexcom Clarity,143,mg/dL,,Manual
 2017-11-26,02:21:00 AM,glucose,cgm,Dexcom Clarity,142,mg/dL,,Manual
@@ -56010,8 +56010,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-26,12:36:00 PM,glucose,cgm,Dexcom Clarity,99,mg/dL,,Manual
 2017-11-26,12:41:00 PM,glucose,cgm,Dexcom Clarity,99,mg/dL,,Manual
 2017-11-26,12:46:00 PM,glucose,cgm,Dexcom Clarity,98,mg/dL,,Manual
-2017-11-26,12:51:00 PM,glucose,m,OneTouch,105,mg/dL,,
 2017-11-26,12:51:00 PM,glucose,cgm,Dexcom Clarity,98,mg/dL,,Manual
+2017-11-26,12:51:00 PM,glucose,m,OneTouch,105,mg/dL,,
 2017-11-26,12:56:00 PM,glucose,cgm,Dexcom Clarity,97,mg/dL,,Manual
 2017-11-26,01:01:00 PM,glucose,cgm,Dexcom Clarity,98,mg/dL,,Manual
 2017-11-26,01:06:00 PM,glucose,cgm,Dexcom Clarity,101,mg/dL,,Manual
@@ -56095,8 +56095,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-26,07:16:00 PM,glucose,cgm,Dexcom Clarity,116,mg/dL,,Manual
 2017-11-26,07:21:00 PM,glucose,cgm,Dexcom Clarity,113,mg/dL,,Manual
 2017-11-26,07:26:00 PM,glucose,cgm,Dexcom Clarity,110,mg/dL,,Manual
-2017-11-26,07:31:00 PM,glucose,m,OneTouch,102,mg/dL,,Before Meal
 2017-11-26,07:31:00 PM,glucose,cgm,Dexcom Clarity,109,mg/dL,,Manual
+2017-11-26,07:31:00 PM,glucose,m,OneTouch,102,mg/dL,,Before Meal
 2017-11-26,07:33:00 PM,insulin,rapid,OneTouch,7,u,,
 2017-11-26,07:36:00 PM,glucose,cgm,Dexcom Clarity,102,mg/dL,,Manual
 2017-11-26,07:41:00 PM,glucose,cgm,Dexcom Clarity,99,mg/dL,,Manual
@@ -56372,8 +56372,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-27,07:11:00 PM,glucose,cgm,Dexcom Clarity,98,mg/dL,,Manual
 2017-11-27,07:16:00 PM,glucose,cgm,Dexcom Clarity,98,mg/dL,,Manual
 2017-11-27,07:21:00 PM,glucose,cgm,Dexcom Clarity,97,mg/dL,,Manual
-2017-11-27,07:26:00 PM,glucose,m,OneTouch,128,mg/dL,,Before Meal
 2017-11-27,07:26:00 PM,glucose,cgm,Dexcom Clarity,97,mg/dL,,Manual
+2017-11-27,07:26:00 PM,glucose,m,OneTouch,128,mg/dL,,Before Meal
 2017-11-27,07:31:00 PM,glucose,cgm,Dexcom Clarity,97,mg/dL,,Manual
 2017-11-27,07:36:00 PM,glucose,cgm,Dexcom Clarity,95,mg/dL,,Manual
 2017-11-27,07:36:00 PM,glucose,cgm,Dexcom Clarity,115,mg/dL,,Manual
@@ -56420,8 +56420,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-27,10:46:00 PM,glucose,cgm,Dexcom Clarity,116,mg/dL,,Manual
 2017-11-27,10:51:00 PM,glucose,cgm,Dexcom Clarity,119,mg/dL,,Manual
 2017-11-27,10:56:00 PM,glucose,cgm,Dexcom Clarity,120,mg/dL,,Manual
-2017-11-27,11:01:00 PM,carbs,,OneTouch,0.0,g,12 oz 6.5% beer,
 2017-11-27,11:01:00 PM,glucose,cgm,Dexcom Clarity,120,mg/dL,,Manual
+2017-11-27,11:01:00 PM,carbs,,OneTouch,0.0,g,12 oz 6.5% beer,
 2017-11-27,11:06:00 PM,glucose,cgm,Dexcom Clarity,120,mg/dL,,Manual
 2017-11-27,11:11:00 PM,glucose,cgm,Dexcom Clarity,119,mg/dL,,Manual
 2017-11-27,11:16:00 PM,glucose,cgm,Dexcom Clarity,119,mg/dL,,Manual
@@ -56591,8 +56591,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-28,12:22:00 PM,insulin,rapid,OneTouch,7,u,,
 2017-11-28,12:26:00 PM,glucose,cgm,Dexcom Clarity,119,mg/dL,,Manual
 2017-11-28,12:31:00 PM,glucose,cgm,Dexcom Clarity,117,mg/dL,,Manual
-2017-11-28,12:36:00 PM,carbs,,OneTouch,65.0,g,Metabrite sandwich,
 2017-11-28,12:36:00 PM,glucose,cgm,Dexcom Clarity,117,mg/dL,,Manual
+2017-11-28,12:36:00 PM,carbs,,OneTouch,65.0,g,Metabrite sandwich,
 2017-11-28,12:40:00 PM,glucose,cgm,Dexcom Clarity,117,mg/dL,,Manual
 2017-11-28,12:45:00 PM,glucose,cgm,Dexcom Clarity,118,mg/dL,,Manual
 2017-11-28,12:51:00 PM,glucose,cgm,Dexcom Clarity,117,mg/dL,,Manual
@@ -56842,8 +56842,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-29,08:34:00 AM,glucose,m,OneTouch,78,mg/dL,,Before Meal
 2017-11-29,08:35:00 AM,glucose,cgm,Dexcom Clarity,81,mg/dL,,Manual
 2017-11-29,08:37:00 AM,insulin,rapid,OneTouch,3,u,,
-2017-11-29,08:40:00 AM,carbs,,OneTouch,28.0,g,,
 2017-11-29,08:40:00 AM,glucose,cgm,Dexcom Clarity,79,mg/dL,,Manual
+2017-11-29,08:40:00 AM,carbs,,OneTouch,28.0,g,,
 2017-11-29,08:45:00 AM,glucose,cgm,Dexcom Clarity,77,mg/dL,,Manual
 2017-11-29,08:50:00 AM,glucose,cgm,Dexcom Clarity,76,mg/dL,,Manual
 2017-11-29,08:55:00 AM,glucose,cgm,Dexcom Clarity,76,mg/dL,,Manual
@@ -56990,12 +56990,12 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-29,08:05:00 PM,glucose,cgm,Dexcom Clarity,112,mg/dL,,Manual
 2017-11-29,08:10:00 PM,glucose,cgm,Dexcom Clarity,112,mg/dL,,Manual
 2017-11-29,08:15:00 PM,glucose,cgm,Dexcom Clarity,112,mg/dL,,Manual
-2017-11-29,08:20:00 PM,carbs,,OneTouch,12.0,g,Pie,
 2017-11-29,08:20:00 PM,glucose,cgm,Dexcom Clarity,117,mg/dL,,Manual
+2017-11-29,08:20:00 PM,carbs,,OneTouch,12.0,g,Pie,
 2017-11-29,08:25:00 PM,glucose,cgm,Dexcom Clarity,121,mg/dL,,Manual
 2017-11-29,08:30:00 PM,glucose,cgm,Dexcom Clarity,125,mg/dL,,Manual
-2017-11-29,08:35:00 PM,carbs,,OneTouch,5.0,g,Cookie,
 2017-11-29,08:35:00 PM,glucose,cgm,Dexcom Clarity,128,mg/dL,,Manual
+2017-11-29,08:35:00 PM,carbs,,OneTouch,5.0,g,Cookie,
 2017-11-29,08:40:00 PM,glucose,cgm,Dexcom Clarity,127,mg/dL,,Manual
 2017-11-29,08:45:00 PM,glucose,cgm,Dexcom Clarity,128,mg/dL,,Manual
 2017-11-29,08:50:00 PM,glucose,cgm,Dexcom Clarity,132,mg/dL,,Manual
@@ -57144,8 +57144,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-30,08:29:00 AM,glucose,m,OneTouch,116,mg/dL,,Before Meal
 2017-11-30,08:30:00 AM,glucose,cgm,Dexcom Clarity,132,mg/dL,,Manual
 2017-11-30,08:31:00 AM,glucose,cgm,Dexcom Clarity,117,mg/dL,,Manual
-2017-11-30,08:35:00 AM,insulin,rapid,OneTouch,3,u,,
 2017-11-30,08:35:00 AM,glucose,cgm,Dexcom Clarity,117,mg/dL,,Manual
+2017-11-30,08:35:00 AM,insulin,rapid,OneTouch,3,u,,
 2017-11-30,08:40:00 AM,glucose,cgm,Dexcom Clarity,116,mg/dL,,Manual
 2017-11-30,08:42:00 AM,carbs,,OneTouch,26.0,g,,
 2017-11-30,08:45:00 AM,glucose,cgm,Dexcom Clarity,116,mg/dL,,Manual
@@ -57196,12 +57196,12 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-30,12:30:00 PM,glucose,cgm,Dexcom Clarity,87,mg/dL,,Manual
 2017-11-30,12:34:00 PM,glucose,m,OneTouch,101,mg/dL,,Before Meal
 2017-11-30,12:35:00 PM,glucose,cgm,Dexcom Clarity,88,mg/dL,,Manual
-2017-11-30,12:40:00 PM,insulin,rapid,OneTouch,7,u,"New pen, prime 7u",
 2017-11-30,12:40:00 PM,glucose,cgm,Dexcom Clarity,88,mg/dL,,Manual
+2017-11-30,12:40:00 PM,insulin,rapid,OneTouch,7,u,"New pen, prime 7u",
 2017-11-30,12:45:00 PM,glucose,cgm,Dexcom Clarity,87,mg/dL,,Manual
 2017-11-30,12:50:00 PM,glucose,cgm,Dexcom Clarity,85,mg/dL,,Manual
-2017-11-30,12:55:00 PM,carbs,,OneTouch,65.0,g,"Medi mix falafel plate, half pita",
 2017-11-30,12:55:00 PM,glucose,cgm,Dexcom Clarity,84,mg/dL,,Manual
+2017-11-30,12:55:00 PM,carbs,,OneTouch,65.0,g,"Medi mix falafel plate, half pita",
 2017-11-30,01:00:00 PM,glucose,cgm,Dexcom Clarity,85,mg/dL,,Manual
 2017-11-30,01:05:00 PM,glucose,cgm,Dexcom Clarity,86,mg/dL,,Manual
 2017-11-30,01:10:00 PM,glucose,cgm,Dexcom Clarity,84,mg/dL,,Manual
@@ -57305,8 +57305,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-30,09:00:00 PM,glucose,cgm,Dexcom Clarity,131,mg/dL,,Manual
 2017-11-30,09:05:00 PM,glucose,cgm,Dexcom Clarity,132,mg/dL,,Manual
 2017-11-30,09:10:00 PM,glucose,cgm,Dexcom Clarity,133,mg/dL,,Manual
-2017-11-30,09:15:00 PM,glucose,m,OneTouch,127,mg/dL,,
 2017-11-30,09:15:00 PM,glucose,cgm,Dexcom Clarity,133,mg/dL,,Manual
+2017-11-30,09:15:00 PM,glucose,m,OneTouch,127,mg/dL,,
 2017-11-30,09:20:00 PM,glucose,cgm,Dexcom Clarity,131,mg/dL,,Manual
 2017-11-30,09:25:00 PM,glucose,cgm,Dexcom Clarity,128,mg/dL,,Manual
 2017-11-30,09:26:00 PM,glucose,cgm,Dexcom Clarity,126,mg/dL,,Manual
@@ -57340,8 +57340,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-11-30,11:40:00 PM,glucose,cgm,Dexcom Clarity,143,mg/dL,,Manual
 2017-11-30,11:45:00 PM,glucose,cgm,Dexcom Clarity,143,mg/dL,,Manual
 2017-11-30,11:50:00 PM,glucose,cgm,Dexcom Clarity,144,mg/dL,,Manual
-2017-11-30,11:55:00 PM,insulin,long,OneTouch,18,u,,
 2017-11-30,11:55:00 PM,glucose,cgm,Dexcom Clarity,143,mg/dL,,Manual
+2017-11-30,11:55:00 PM,insulin,long,OneTouch,18,u,,
 2017-12-01,12:00:00 AM,glucose,cgm,Dexcom Clarity,141,mg/dL,,Manual
 2017-12-01,12:05:00 AM,glucose,cgm,Dexcom Clarity,143,mg/dL,,Manual
 2017-12-01,12:10:00 AM,glucose,cgm,Dexcom Clarity,141,mg/dL,,Manual
@@ -57772,8 +57772,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-12-02,12:20:00 PM,glucose,cgm,Dexcom Clarity,93,mg/dL,,Manual
 2017-12-02,12:25:00 PM,glucose,cgm,Dexcom Clarity,93,mg/dL,,Manual
 2017-12-02,12:30:00 PM,glucose,cgm,Dexcom Clarity,94,mg/dL,,Manual
-2017-12-02,12:35:00 PM,insulin,rapid,OneTouch,5,u,,
 2017-12-02,12:35:00 PM,glucose,cgm,Dexcom Clarity,95,mg/dL,,Manual
+2017-12-02,12:35:00 PM,insulin,rapid,OneTouch,5,u,,
 2017-12-02,12:39:00 PM,carbs,,OneTouch,55.0,g,Blueberry waffles,
 2017-12-02,12:40:00 PM,glucose,cgm,Dexcom Clarity,96,mg/dL,,Manual
 2017-12-02,12:45:00 PM,glucose,cgm,Dexcom Clarity,98,mg/dL,,Manual
@@ -57830,8 +57830,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-12-02,05:00:00 PM,glucose,cgm,Dexcom Clarity,81,mg/dL,,Manual
 2017-12-02,05:05:00 PM,glucose,cgm,Dexcom Clarity,82,mg/dL,,Manual
 2017-12-02,05:10:00 PM,glucose,cgm,Dexcom Clarity,83,mg/dL,,Manual
-2017-12-02,05:15:00 PM,glucose,m,OneTouch,95,mg/dL,,Before Meal
 2017-12-02,05:15:00 PM,glucose,cgm,Dexcom Clarity,81,mg/dL,,Manual
+2017-12-02,05:15:00 PM,glucose,m,OneTouch,95,mg/dL,,Before Meal
 2017-12-02,05:18:00 PM,insulin,rapid,OneTouch,7,u,,
 2017-12-02,05:20:00 PM,glucose,cgm,Dexcom Clarity,86,mg/dL,,Manual
 2017-12-02,05:24:00 PM,carbs,,OneTouch,70.0,g,"Taste of India mango curry, pakoras",
@@ -57871,8 +57871,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-12-02,08:10:00 PM,glucose,cgm,Dexcom Clarity,95,mg/dL,,Manual
 2017-12-02,08:15:00 PM,glucose,cgm,Dexcom Clarity,87,mg/dL,,Manual
 2017-12-02,08:20:00 PM,glucose,cgm,Dexcom Clarity,81,mg/dL,,Manual
-2017-12-02,08:25:00 PM,carbs,,OneTouch,14.0,g,Glucose,
 2017-12-02,08:25:00 PM,glucose,cgm,Dexcom Clarity,80,mg/dL,,Manual
+2017-12-02,08:25:00 PM,carbs,,OneTouch,14.0,g,Glucose,
 2017-12-02,08:30:00 PM,glucose,cgm,Dexcom Clarity,80,mg/dL,,Manual
 2017-12-02,08:35:00 PM,glucose,cgm,Dexcom Clarity,80,mg/dL,,Manual
 2017-12-02,08:40:00 PM,glucose,cgm,Dexcom Clarity,83,mg/dL,,Manual
@@ -58063,8 +58063,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-12-03,11:45:00 AM,glucose,cgm,Dexcom Clarity,98,mg/dL,,Manual
 2017-12-03,11:50:00 AM,glucose,cgm,Dexcom Clarity,95,mg/dL,,Manual
 2017-12-03,11:55:00 AM,glucose,cgm,Dexcom Clarity,97,mg/dL,,Manual
-2017-12-03,12:00:00 PM,glucose,m,OneTouch,97,mg/dL,,Before Meal
 2017-12-03,12:00:00 PM,glucose,cgm,Dexcom Clarity,97,mg/dL,,Manual
+2017-12-03,12:00:00 PM,glucose,m,OneTouch,97,mg/dL,,Before Meal
 2017-12-03,12:05:00 PM,glucose,cgm,Dexcom Clarity,97,mg/dL,,Manual
 2017-12-03,12:10:00 PM,glucose,cgm,Dexcom Clarity,95,mg/dL,,Manual
 2017-12-03,12:15:00 PM,glucose,cgm,Dexcom Clarity,95,mg/dL,,Manual
@@ -58212,8 +58212,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-12-03,11:20:00 PM,glucose,cgm,Dexcom Clarity,112,mg/dL,,Manual
 2017-12-03,11:25:00 PM,glucose,cgm,Dexcom Clarity,114,mg/dL,,Manual
 2017-12-03,11:30:00 PM,glucose,cgm,Dexcom Clarity,111,mg/dL,,Manual
-2017-12-03,11:35:00 PM,carbs,,OneTouch,12.0,g,Quest bar,
 2017-12-03,11:35:00 PM,glucose,cgm,Dexcom Clarity,111,mg/dL,,Manual
+2017-12-03,11:35:00 PM,carbs,,OneTouch,12.0,g,Quest bar,
 2017-12-03,11:40:00 PM,glucose,cgm,Dexcom Clarity,115,mg/dL,,Manual
 2017-12-03,11:45:00 PM,glucose,cgm,Dexcom Clarity,119,mg/dL,,Manual
 2017-12-03,11:50:00 PM,glucose,cgm,Dexcom Clarity,119,mg/dL,,Manual
@@ -58323,8 +58323,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-12-04,08:20:00 AM,glucose,cgm,Dexcom Clarity,81,mg/dL,,Manual
 2017-12-04,08:25:00 AM,glucose,cgm,Dexcom Clarity,84,mg/dL,,Manual
 2017-12-04,08:30:00 AM,glucose,cgm,Dexcom Clarity,83,mg/dL,,Manual
-2017-12-04,08:35:00 AM,glucose,m,OneTouch,96,mg/dL,,Before Meal
 2017-12-04,08:35:00 AM,glucose,cgm,Dexcom Clarity,83,mg/dL,,Manual
+2017-12-04,08:35:00 AM,glucose,m,OneTouch,96,mg/dL,,Before Meal
 2017-12-04,08:40:00 AM,glucose,cgm,Dexcom Clarity,82,mg/dL,,Manual
 2017-12-04,08:42:00 AM,insulin,rapid,OneTouch,3,u,,
 2017-12-04,08:44:00 AM,carbs,,OneTouch,28.0,g,,
@@ -58380,8 +58380,8 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-12-04,12:40:00 PM,glucose,cgm,Dexcom Clarity,93,mg/dL,,Manual
 2017-12-04,12:45:00 PM,glucose,cgm,Dexcom Clarity,94,mg/dL,,Manual
 2017-12-04,12:47:00 PM,insulin,rapid,OneTouch,3,u,,
-2017-12-04,12:50:00 PM,carbs,,OneTouch,25.0,g,Red salmon,
 2017-12-04,12:50:00 PM,glucose,cgm,Dexcom Clarity,92,mg/dL,,Manual
+2017-12-04,12:50:00 PM,carbs,,OneTouch,25.0,g,Red salmon,
 2017-12-04,12:55:00 PM,glucose,cgm,Dexcom Clarity,93,mg/dL,,Manual
 2017-12-04,01:00:00 PM,glucose,cgm,Dexcom Clarity,94,mg/dL,,Manual
 2017-12-04,01:05:00 PM,glucose,cgm,Dexcom Clarity,95,mg/dL,,Manual
@@ -58511,3 +58511,4 @@ date,time,type,subtype,source,value,unit,notes,tags
 2017-12-04,11:20:00 PM,glucose,cgm,Dexcom Clarity,111,mg/dL,,Manual
 2017-12-04,11:25:00 PM,glucose,cgm,Dexcom Clarity,108,mg/dL,,Manual
 2017-12-04,11:28:00 PM,insulin,long,OneTouch,18,u,,
+2017-12-04,11:36:00 PM,insulin,long,OneTouch,18,u,Added 2017-12-04,
