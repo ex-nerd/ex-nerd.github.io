@@ -1,16 +1,4 @@
 date,time,source,value,unit,tags
-2017-06-07,01:48:00 AM,OneTouch,119,mg/dL,
-2017-06-07,09:00:00 AM,OneTouch,94,mg/dL,Before Meal
-2017-06-07,11:53:00 AM,OneTouch,112,mg/dL,Before Meal
-2017-06-07,02:25:00 PM,OneTouch,108,mg/dL,
-2017-06-07,08:51:00 PM,OneTouch,102,mg/dL,Before Meal
-2017-06-08,01:00:00 AM,OneTouch,60,mg/dL,
-2017-06-08,01:51:00 AM,OneTouch,108,mg/dL,
-2017-06-08,08:38:00 AM,OneTouch,81,mg/dL,Before Meal
-2017-06-08,11:51:00 AM,OneTouch,90,mg/dL,Before Meal
-2017-06-08,02:36:00 PM,OneTouch,106,mg/dL,After Meal
-2017-06-08,07:24:00 PM,OneTouch,106,mg/dL,Before Meal
-2017-06-09,01:27:00 AM,OneTouch,124,mg/dL,
 2017-06-09,09:09:00 AM,OneTouch,93,mg/dL,Before Meal
 2017-06-09,12:32:00 PM,OneTouch,92,mg/dL,
 2017-06-09,03:06:00 PM,OneTouch,116,mg/dL,After Meal
