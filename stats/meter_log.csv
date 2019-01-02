@@ -1,1823 +1,91 @@
 date,time,source,value,unit,tags
-2017-10-16,12:29:00 AM,OneTouch,124,mg/dL,
-2017-10-16,12:29:00 AM,MySugr,124,mg/dL,
-2017-10-16,08:56:00 AM,OneTouch,91,mg/dL,Before Meal
-2017-10-16,08:56:00 AM,MySugr,91,mg/dL,
-2017-10-16,11:44:00 AM,OneTouch,119,mg/dL,Before Meal
-2017-10-16,11:44:00 AM,MySugr,119,mg/dL,
-2017-10-16,06:42:00 PM,OneTouch,85,mg/dL,Before Meal
-2017-10-16,06:42:00 PM,MySugr,85,mg/dL,
-2017-10-16,11:00:00 PM,OneTouch,105,mg/dL,
-2017-10-16,11:00:00 PM,MySugr,105,mg/dL,
-2017-10-17,07:10:00 AM,OneTouch,93,mg/dL,Before Meal
-2017-10-17,07:10:00 AM,MySugr,93,mg/dL,
-2017-10-17,11:57:00 AM,OneTouch,105,mg/dL,Before Meal
-2017-10-17,11:57:00 AM,MySugr,105,mg/dL,
-2017-10-17,06:59:00 PM,OneTouch,98,mg/dL,Before Meal
-2017-10-17,06:59:00 PM,MySugr,98,mg/dL,
-2017-10-18,12:07:00 AM,OneTouch,109,mg/dL,
-2017-10-18,12:07:00 AM,MySugr,109,mg/dL,
-2017-10-18,08:32:00 AM,OneTouch,101,mg/dL,Before Meal
-2017-10-18,08:32:00 AM,MySugr,101,mg/dL,
-2017-10-18,12:01:00 PM,OneTouch,143,mg/dL,
-2017-10-18,12:01:00 PM,MySugr,143,mg/dL,
-2017-10-18,06:48:00 PM,OneTouch,111,mg/dL,Before Meal
-2017-10-18,06:48:00 PM,OneTouch,116,mg/dL,Before Meal
-2017-10-18,06:48:00 PM,MySugr,111,mg/dL,
-2017-10-18,06:48:00 PM,MySugr,116,mg/dL,
-2017-10-19,12:26:00 AM,OneTouch,104,mg/dL,
-2017-10-19,12:26:00 AM,MySugr,104,mg/dL,
-2017-10-19,08:37:00 AM,OneTouch,105,mg/dL,Before Meal
-2017-10-19,08:37:00 AM,MySugr,105,mg/dL,
-2017-10-19,11:42:00 AM,OneTouch,138,mg/dL,Before Meal
-2017-10-19,11:42:00 AM,MySugr,138,mg/dL,
-2017-10-19,03:08:00 PM,OneTouch,89,mg/dL,
-2017-10-19,03:08:00 PM,MySugr,89,mg/dL,
-2017-10-19,07:51:00 PM,OneTouch,114,mg/dL,Before Meal
-2017-10-19,07:51:00 PM,MySugr,114,mg/dL,
-2017-10-20,12:28:00 AM,OneTouch,140,mg/dL,
-2017-10-20,12:28:00 AM,MySugr,140,mg/dL,
-2017-10-20,09:29:00 AM,OneTouch,106,mg/dL,Before Meal
-2017-10-20,09:29:00 AM,MySugr,106,mg/dL,
-2017-10-20,12:04:00 PM,OneTouch,95,mg/dL,
-2017-10-20,12:04:00 PM,MySugr,95,mg/dL,
-2017-10-20,07:31:00 PM,OneTouch,87,mg/dL,Before Meal
-2017-10-20,07:31:00 PM,MySugr,87,mg/dL,
-2017-10-21,12:09:00 AM,OneTouch,118,mg/dL,
-2017-10-21,12:09:00 AM,MySugr,118,mg/dL,
-2017-10-21,01:22:00 PM,OneTouch,101,mg/dL,Before Meal
-2017-10-21,01:22:00 PM,MySugr,101,mg/dL,
-2017-10-21,09:15:00 PM,OneTouch,114,mg/dL,Before Meal
-2017-10-21,09:15:00 PM,MySugr,114,mg/dL,
-2017-10-22,01:45:00 AM,OneTouch,111,mg/dL,
-2017-10-22,01:45:00 AM,MySugr,111,mg/dL,
-2017-10-22,11:59:00 AM,OneTouch,125,mg/dL,Before Meal
-2017-10-22,11:59:00 AM,MySugr,125,mg/dL,
-2017-10-22,06:22:00 PM,OneTouch,99,mg/dL,Before Meal
-2017-10-22,06:22:00 PM,MySugr,99,mg/dL,
-2017-10-23,01:09:00 AM,OneTouch,94,mg/dL,
-2017-10-23,01:09:00 AM,MySugr,94,mg/dL,
-2017-10-23,01:10:00 AM,OneTouch,87,mg/dL,
-2017-10-23,01:10:00 AM,MySugr,87,mg/dL,
-2017-10-23,02:03:00 AM,OneTouch,88,mg/dL,
-2017-10-23,02:03:00 AM,MySugr,88,mg/dL,
-2017-10-23,09:03:00 AM,OneTouch,123,mg/dL,Before Meal
-2017-10-23,09:03:00 AM,MySugr,123,mg/dL,
-2017-10-23,11:59:00 AM,OneTouch,129,mg/dL,Before Meal
-2017-10-23,11:59:00 AM,MySugr,129,mg/dL,
-2017-10-23,07:31:00 PM,OneTouch,86,mg/dL,Before Meal
-2017-10-23,07:31:00 PM,MySugr,86,mg/dL,
-2017-10-24,12:50:00 AM,OneTouch,100,mg/dL,
-2017-10-24,12:50:00 AM,MySugr,100,mg/dL,
-2017-10-24,09:02:00 AM,OneTouch,90,mg/dL,
-2017-10-24,09:02:00 AM,MySugr,90,mg/dL,
-2017-10-24,12:37:00 PM,OneTouch,114,mg/dL,
-2017-10-24,12:37:00 PM,MySugr,114,mg/dL,
-2017-10-24,07:36:00 PM,OneTouch,84,mg/dL,Before Meal
-2017-10-24,07:36:00 PM,MySugr,84,mg/dL,
-2017-10-25,12:46:00 AM,OneTouch,99,mg/dL,
-2017-10-25,12:46:00 AM,MySugr,99,mg/dL,
-2017-10-25,09:57:00 AM,OneTouch,92,mg/dL,Before Meal
-2017-10-25,09:57:00 AM,MySugr,92,mg/dL,
-2017-10-25,12:02:00 PM,OneTouch,102,mg/dL,Before Meal
-2017-10-25,12:02:00 PM,MySugr,102,mg/dL,
-2017-10-25,08:18:00 PM,OneTouch,90,mg/dL,Before Meal
-2017-10-25,08:18:00 PM,MySugr,90,mg/dL,
-2017-10-26,12:50:00 AM,OneTouch,131,mg/dL,
-2017-10-26,12:50:00 AM,MySugr,131,mg/dL,
-2017-10-26,08:48:00 AM,OneTouch,98,mg/dL,Before Meal
-2017-10-26,08:48:00 AM,MySugr,98,mg/dL,
-2017-10-26,12:05:00 PM,OneTouch,102,mg/dL,Before Meal
-2017-10-26,12:05:00 PM,MySugr,102,mg/dL,
-2017-10-26,07:59:00 PM,OneTouch,130,mg/dL,Before Meal
-2017-10-26,07:59:00 PM,MySugr,130,mg/dL,
-2017-10-27,12:47:00 AM,OneTouch,102,mg/dL,
-2017-10-27,12:47:00 AM,MySugr,102,mg/dL,
-2017-10-27,09:06:00 AM,OneTouch,91,mg/dL,Before Meal
-2017-10-27,09:06:00 AM,MySugr,91,mg/dL,
-2017-10-27,11:59:00 AM,OneTouch,90,mg/dL,Before Meal
-2017-10-27,11:59:00 AM,MySugr,90,mg/dL,
-2017-10-27,08:26:00 PM,OneTouch,95,mg/dL,Before Meal
-2017-10-27,08:26:00 PM,MySugr,95,mg/dL,
-2017-10-28,12:55:00 AM,OneTouch,126,mg/dL,
-2017-10-28,12:55:00 AM,MySugr,126,mg/dL,
-2017-10-28,11:11:00 AM,OneTouch,97,mg/dL,Before Meal
-2017-10-28,11:11:00 AM,MySugr,97,mg/dL,
-2017-10-28,03:08:00 PM,OneTouch,78,mg/dL,After Meal
-2017-10-28,03:08:00 PM,MySugr,78,mg/dL,
-2017-10-28,07:57:00 PM,OneTouch,96,mg/dL,Before Meal
-2017-10-28,07:57:00 PM,MySugr,96,mg/dL,
-2017-10-29,01:04:00 AM,OneTouch,104,mg/dL,
-2017-10-29,01:04:00 AM,MySugr,104,mg/dL,
-2017-10-29,12:02:00 PM,OneTouch,58,mg/dL,Before Meal
-2017-10-29,12:02:00 PM,MySugr,58,mg/dL,
-2017-10-29,06:06:00 PM,OneTouch,90,mg/dL,Before Meal
-2017-10-29,06:06:00 PM,MySugr,90,mg/dL,
-2017-10-29,10:29:00 PM,OneTouch,96,mg/dL,
-2017-10-29,10:29:00 PM,MySugr,96,mg/dL,
-2017-10-29,10:30:00 PM,OneTouch,105,mg/dL,
-2017-10-29,10:30:00 PM,MySugr,105,mg/dL,
-2017-10-30,08:56:00 AM,OneTouch,100,mg/dL,Before Meal
-2017-10-30,08:56:00 AM,MySugr,100,mg/dL,
-2017-10-30,12:08:00 PM,OneTouch,92,mg/dL,
-2017-10-30,12:08:00 PM,MySugr,92,mg/dL,
-2017-10-30,06:49:00 PM,OneTouch,95,mg/dL,Before Meal
-2017-10-30,06:49:00 PM,MySugr,95,mg/dL,
-2017-10-31,12:18:00 AM,OneTouch,108,mg/dL,
-2017-10-31,12:18:00 AM,MySugr,108,mg/dL,
-2017-10-31,08:29:00 AM,OneTouch,87,mg/dL,Before Meal
-2017-10-31,08:29:00 AM,MySugr,87,mg/dL,
-2017-10-31,12:03:00 PM,OneTouch,93,mg/dL,Before Meal
-2017-10-31,12:03:00 PM,MySugr,93,mg/dL,
-2017-10-31,05:15:00 PM,OneTouch,112,mg/dL,Before Meal
-2017-10-31,05:15:00 PM,MySugr,112,mg/dL,
-2017-11-01,12:47:00 AM,OneTouch,83,mg/dL,
-2017-11-01,12:47:00 AM,MySugr,83,mg/dL,
-2017-11-01,09:08:00 AM,OneTouch,108,mg/dL,Before Meal
-2017-11-01,09:08:00 AM,MySugr,108,mg/dL,
-2017-11-01,11:28:00 AM,OneTouch,138,mg/dL,Before Meal
-2017-11-01,11:28:00 AM,OneTouch,159,mg/dL,
-2017-11-01,11:28:00 AM,MySugr,138,mg/dL,
-2017-11-01,11:28:00 AM,MySugr,159,mg/dL,
-2017-11-01,01:39:00 PM,OneTouch,108,mg/dL,
-2017-11-01,01:39:00 PM,MySugr,108,mg/dL,
-2017-11-01,01:44:00 PM,OneTouch,112,mg/dL,
-2017-11-01,01:44:00 PM,MySugr,112,mg/dL,
-2017-11-01,04:43:00 PM,OneTouch,104,mg/dL,
-2017-11-01,04:43:00 PM,MySugr,104,mg/dL,
-2017-11-01,05:14:00 PM,OneTouch,105,mg/dL,Before Meal
-2017-11-01,05:14:00 PM,MySugr,105,mg/dL,
-2017-11-02,12:04:00 AM,OneTouch,116,mg/dL,
-2017-11-02,12:04:00 AM,MySugr,116,mg/dL,
-2017-11-02,08:56:00 AM,OneTouch,106,mg/dL,
-2017-11-02,08:56:00 AM,MySugr,106,mg/dL,
-2017-11-02,11:58:00 AM,OneTouch,106,mg/dL,Before Meal
-2017-11-02,11:58:00 AM,MySugr,106,mg/dL,
-2017-11-02,06:36:00 PM,OneTouch,100,mg/dL,
-2017-11-02,06:36:00 PM,MySugr,100,mg/dL,
-2017-11-02,10:34:00 PM,OneTouch,122,mg/dL,
-2017-11-02,10:34:00 PM,MySugr,122,mg/dL,
-2017-11-03,01:28:00 AM,OneTouch,126,mg/dL,
-2017-11-03,01:28:00 AM,MySugr,126,mg/dL,
-2017-11-03,05:44:00 AM,OneTouch,56,mg/dL,
-2017-11-03,05:44:00 AM,MySugr,56,mg/dL,
-2017-11-03,08:53:00 AM,OneTouch,93,mg/dL,Before Meal
-2017-11-03,08:53:00 AM,MySugr,93,mg/dL,
-2017-11-03,12:22:00 PM,OneTouch,87,mg/dL,Before Meal
-2017-11-03,12:22:00 PM,MySugr,87,mg/dL,
-2017-11-03,08:22:00 PM,OneTouch,132,mg/dL,
-2017-11-03,08:22:00 PM,MySugr,132,mg/dL,
-2017-11-04,01:34:00 AM,OneTouch,109,mg/dL,
-2017-11-04,01:34:00 AM,MySugr,109,mg/dL,
-2017-11-04,11:33:00 AM,OneTouch,112,mg/dL,Before Meal
-2017-11-04,11:33:00 AM,MySugr,112,mg/dL,
-2017-11-04,01:44:00 PM,OneTouch,155,mg/dL,
-2017-11-04,01:44:00 PM,MySugr,155,mg/dL,
-2017-11-04,07:44:00 PM,OneTouch,95,mg/dL,Before Meal
-2017-11-04,07:44:00 PM,MySugr,95,mg/dL,
-2017-11-05,01:26:00 AM,OneTouch,122,mg/dL,
-2017-11-05,01:26:00 AM,MySugr,122,mg/dL,
-2017-11-05,12:27:00 PM,OneTouch,88,mg/dL,Before Meal
-2017-11-05,12:27:00 PM,MySugr,88,mg/dL,
-2017-11-05,05:10:00 PM,OneTouch,93,mg/dL,Before Meal
-2017-11-05,05:10:00 PM,MySugr,93,mg/dL,
-2017-11-06,12:15:00 AM,OneTouch,119,mg/dL,
-2017-11-06,12:15:00 AM,MySugr,119,mg/dL,
-2017-11-06,08:30:00 AM,OneTouch,90,mg/dL,Before Meal
-2017-11-06,08:30:00 AM,MySugr,90,mg/dL,
-2017-11-06,12:01:00 PM,OneTouch,95,mg/dL,Before Meal
-2017-11-06,12:01:00 PM,MySugr,95,mg/dL,
-2017-11-06,07:14:00 PM,OneTouch,100,mg/dL,Before Meal
-2017-11-06,07:14:00 PM,MySugr,100,mg/dL,
-2017-11-07,01:22:00 AM,OneTouch,92,mg/dL,
-2017-11-07,01:22:00 AM,MySugr,92,mg/dL,
-2017-11-07,08:21:00 AM,OneTouch,93,mg/dL,Before Meal
-2017-11-07,08:21:00 AM,MySugr,93,mg/dL,
-2017-11-07,12:07:00 PM,OneTouch,99,mg/dL,
-2017-11-07,12:07:00 PM,MySugr,99,mg/dL,
-2017-11-07,12:08:00 PM,OneTouch,95,mg/dL,Before Meal
-2017-11-07,12:08:00 PM,MySugr,95,mg/dL,
-2017-11-07,06:36:00 PM,OneTouch,88,mg/dL,Before Meal
-2017-11-07,06:36:00 PM,MySugr,88,mg/dL,
-2017-11-07,11:29:00 PM,OneTouch,130,mg/dL,
-2017-11-07,11:29:00 PM,MySugr,130,mg/dL,
-2017-11-08,07:04:00 AM,OneTouch,110,mg/dL,
-2017-11-08,07:04:00 AM,MySugr,110,mg/dL,
-2017-11-08,10:48:00 AM,MySugr,197,mg/dL,
-2017-11-08,06:52:00 PM,OneTouch,113,mg/dL,Before Meal
-2017-11-08,06:52:00 PM,MySugr,113,mg/dL,
-2017-11-08,07:19:00 PM,OneTouch,112,mg/dL,
-2017-11-08,07:19:00 PM,MySugr,112,mg/dL,
-2017-11-09,12:42:00 AM,OneTouch,101,mg/dL,
-2017-11-09,12:42:00 AM,MySugr,101,mg/dL,
-2017-11-09,08:25:00 AM,OneTouch,93,mg/dL,Before Meal
-2017-11-09,08:25:00 AM,MySugr,93,mg/dL,
-2017-11-09,11:56:00 AM,OneTouch,103,mg/dL,Before Meal
-2017-11-09,11:56:00 AM,MySugr,103,mg/dL,
-2017-11-09,07:04:00 PM,OneTouch,126,mg/dL,Before Meal
-2017-11-09,07:04:00 PM,MySugr,126,mg/dL,
-2017-11-10,12:15:00 AM,OneTouch,106,mg/dL,
-2017-11-10,12:15:00 AM,MySugr,106,mg/dL,
-2017-11-10,09:11:00 AM,OneTouch,103,mg/dL,Before Meal
-2017-11-10,09:11:00 AM,MySugr,103,mg/dL,
-2017-11-10,11:15:00 AM,OneTouch,108,mg/dL,Before Meal
-2017-11-10,11:15:00 AM,OneTouch,107,mg/dL,
-2017-11-10,11:15:00 AM,MySugr,107,mg/dL,
-2017-11-10,11:15:00 AM,MySugr,108,mg/dL,
-2017-11-10,04:50:00 PM,OneTouch,106,mg/dL,
-2017-11-10,04:50:00 PM,MySugr,106,mg/dL,
-2017-11-10,07:17:00 PM,OneTouch,96,mg/dL,
-2017-11-10,07:17:00 PM,MySugr,96,mg/dL,
-2017-11-11,12:30:00 AM,OneTouch,110,mg/dL,
-2017-11-11,12:30:00 AM,MySugr,110,mg/dL,
-2017-11-11,09:58:00 AM,OneTouch,97,mg/dL,
-2017-11-11,09:58:00 AM,MySugr,97,mg/dL,
-2017-11-11,10:15:00 PM,OneTouch,93,mg/dL,Before Meal
-2017-11-11,10:15:00 PM,MySugr,93,mg/dL,
-2017-11-12,11:22:00 AM,OneTouch,105,mg/dL,Before Meal
-2017-11-12,11:22:00 AM,MySugr,105,mg/dL,
-2017-11-12,06:22:00 PM,OneTouch,108,mg/dL,
-2017-11-12,06:22:00 PM,MySugr,108,mg/dL,
-2017-11-12,11:38:00 PM,OneTouch,129,mg/dL,
-2017-11-12,11:38:00 PM,MySugr,129,mg/dL,
-2017-11-13,08:57:00 AM,OneTouch,90,mg/dL,Before Meal
-2017-11-13,08:57:00 AM,MySugr,90,mg/dL,
-2017-11-13,11:41:00 AM,OneTouch,117,mg/dL,
-2017-11-13,11:41:00 AM,MySugr,117,mg/dL,
-2017-11-13,08:08:00 PM,OneTouch,120,mg/dL,Before Meal
-2017-11-13,08:08:00 PM,MySugr,120,mg/dL,
-2017-11-13,11:47:00 PM,OneTouch,89,mg/dL,
-2017-11-13,11:47:00 PM,MySugr,89,mg/dL,
-2017-11-14,08:51:00 AM,OneTouch,78,mg/dL,
-2017-11-14,08:51:00 AM,MySugr,78,mg/dL,
-2017-11-14,12:01:00 PM,OneTouch,100,mg/dL,
-2017-11-14,12:01:00 PM,MySugr,100,mg/dL,
-2017-11-14,07:01:00 PM,OneTouch,102,mg/dL,Before Meal
-2017-11-14,07:01:00 PM,MySugr,102,mg/dL,
-2017-11-15,12:16:00 AM,OneTouch,83,mg/dL,
-2017-11-15,12:16:00 AM,MySugr,83,mg/dL,
-2017-11-15,11:23:00 AM,OneTouch,109,mg/dL,Before Meal
-2017-11-15,11:23:00 AM,MySugr,109,mg/dL,
-2017-11-15,01:01:00 PM,OneTouch,131,mg/dL,
-2017-11-15,01:01:00 PM,MySugr,131,mg/dL,
-2017-11-15,08:07:00 PM,OneTouch,106,mg/dL,Before Meal
-2017-11-15,08:07:00 PM,MySugr,106,mg/dL,
-2017-11-16,12:09:00 AM,OneTouch,95,mg/dL,
-2017-11-16,12:09:00 AM,MySugr,95,mg/dL,
-2017-11-16,02:08:00 AM,OneTouch,82,mg/dL,
-2017-11-16,02:08:00 AM,MySugr,82,mg/dL,
-2017-11-16,09:08:00 AM,OneTouch,99,mg/dL,Before Meal
-2017-11-16,09:08:00 AM,MySugr,99,mg/dL,
-2017-11-16,12:10:00 PM,OneTouch,94,mg/dL,Before Meal
-2017-11-16,12:10:00 PM,MySugr,94,mg/dL,
-2017-11-16,07:09:00 PM,OneTouch,84,mg/dL,Before Meal
-2017-11-16,07:09:00 PM,MySugr,84,mg/dL,
-2017-11-17,12:57:00 AM,OneTouch,106,mg/dL,
-2017-11-17,12:57:00 AM,MySugr,106,mg/dL,
-2017-11-17,08:18:00 AM,OneTouch,84,mg/dL,Before Meal
-2017-11-17,08:18:00 AM,MySugr,84,mg/dL,
-2017-11-17,11:43:00 AM,OneTouch,99,mg/dL,
-2017-11-17,11:43:00 AM,OneTouch,105,mg/dL,
-2017-11-17,11:43:00 AM,MySugr,105,mg/dL,
-2017-11-17,11:43:00 AM,MySugr,99,mg/dL,
-2017-11-17,08:00:00 PM,OneTouch,86,mg/dL,Before Meal
-2017-11-17,08:00:00 PM,MySugr,86,mg/dL,
-2017-11-18,12:11:00 AM,OneTouch,143,mg/dL,
-2017-11-18,12:11:00 AM,MySugr,143,mg/dL,
-2017-11-18,02:34:00 AM,OneTouch,102,mg/dL,
-2017-11-18,02:34:00 AM,MySugr,102,mg/dL,
-2017-11-18,11:42:00 AM,OneTouch,90,mg/dL,Before Meal
-2017-11-18,11:42:00 AM,MySugr,90,mg/dL,
-2017-11-18,05:57:00 PM,OneTouch,98,mg/dL,Before Meal
-2017-11-18,05:57:00 PM,MySugr,98,mg/dL,
-2017-11-19,12:03:00 AM,OneTouch,88,mg/dL,
-2017-11-19,12:03:00 AM,MySugr,88,mg/dL,
-2017-11-19,11:47:00 AM,OneTouch,96,mg/dL,
-2017-11-19,11:47:00 AM,MySugr,96,mg/dL,
-2017-11-19,06:09:00 PM,OneTouch,97,mg/dL,Before Meal
-2017-11-19,06:09:00 PM,MySugr,97,mg/dL,
-2017-11-20,12:54:00 AM,OneTouch,110,mg/dL,
-2017-11-20,12:54:00 AM,MySugr,110,mg/dL,
-2017-11-20,08:54:00 AM,OneTouch,106,mg/dL,Before Meal
-2017-11-20,08:54:00 AM,MySugr,106,mg/dL,
-2017-11-20,11:13:00 AM,OneTouch,120,mg/dL,Before Meal
-2017-11-20,11:13:00 AM,OneTouch,110,mg/dL,Before Meal
-2017-11-20,11:13:00 AM,MySugr,120,mg/dL,
-2017-11-20,11:13:00 AM,MySugr,110,mg/dL,
-2017-11-20,07:40:00 PM,OneTouch,95,mg/dL,Before Meal
-2017-11-20,07:40:00 PM,MySugr,95,mg/dL,
-2017-11-21,12:27:00 AM,OneTouch,125,mg/dL,
-2017-11-21,12:27:00 AM,MySugr,125,mg/dL,
-2017-11-21,04:43:00 AM,OneTouch,104,mg/dL,
-2017-11-21,04:43:00 AM,MySugr,104,mg/dL,
-2017-11-21,09:01:00 AM,OneTouch,94,mg/dL,
-2017-11-21,09:01:00 AM,MySugr,94,mg/dL,
-2017-11-21,12:19:00 PM,OneTouch,94,mg/dL,Before Meal
-2017-11-21,12:19:00 PM,MySugr,94,mg/dL,
-2017-11-21,07:02:00 PM,OneTouch,105,mg/dL,Before Meal
-2017-11-21,07:02:00 PM,MySugr,105,mg/dL,
-2017-11-21,09:39:00 PM,OneTouch,113,mg/dL,
-2017-11-21,09:39:00 PM,MySugr,113,mg/dL,
-2017-11-22,08:51:00 AM,OneTouch,102,mg/dL,Before Meal
-2017-11-22,08:51:00 AM,MySugr,102,mg/dL,
-2017-11-22,12:03:00 PM,OneTouch,116,mg/dL,Before Meal
-2017-11-22,12:03:00 PM,MySugr,116,mg/dL,
-2017-11-22,07:14:00 PM,OneTouch,125,mg/dL,Before Meal
-2017-11-22,07:14:00 PM,MySugr,125,mg/dL,
-2017-11-22,11:32:00 PM,OneTouch,169,mg/dL,After Meal
-2017-11-22,11:32:00 PM,MySugr,169,mg/dL,
-2017-11-23,02:07:00 AM,OneTouch,111,mg/dL,
-2017-11-23,02:07:00 AM,MySugr,111,mg/dL,
-2017-11-23,04:38:00 AM,OneTouch,63,mg/dL,
-2017-11-23,04:38:00 AM,MySugr,63,mg/dL,
-2017-11-23,09:55:00 AM,OneTouch,82,mg/dL,Before Meal
-2017-11-23,09:55:00 AM,MySugr,82,mg/dL,
-2017-11-23,04:15:00 PM,OneTouch,74,mg/dL,
-2017-11-23,04:15:00 PM,MySugr,74,mg/dL,
-2017-11-23,07:11:00 PM,OneTouch,119,mg/dL,Before Meal
-2017-11-23,07:11:00 PM,MySugr,119,mg/dL,
-2017-11-23,10:55:00 PM,OneTouch,92,mg/dL,
-2017-11-23,10:55:00 PM,MySugr,92,mg/dL,
-2017-11-24,11:49:00 AM,OneTouch,118,mg/dL,Before Meal
-2017-11-24,11:49:00 AM,MySugr,118,mg/dL,
-2017-11-24,07:21:00 PM,OneTouch,101,mg/dL,
-2017-11-24,07:21:00 PM,MySugr,101,mg/dL,
-2017-11-25,12:25:00 AM,OneTouch,117,mg/dL,
-2017-11-25,12:25:00 AM,MySugr,117,mg/dL,
-2017-11-25,01:23:00 PM,OneTouch,114,mg/dL,
-2017-11-25,01:23:00 PM,MySugr,114,mg/dL,
-2017-11-25,08:41:00 PM,OneTouch,93,mg/dL,Before Meal
-2017-11-25,08:41:00 PM,MySugr,93,mg/dL,
-2017-11-25,11:04:00 PM,OneTouch,107,mg/dL,
-2017-11-25,11:04:00 PM,MySugr,107,mg/dL,
-2017-11-26,02:06:00 AM,OneTouch,157,mg/dL,
-2017-11-26,02:06:00 AM,MySugr,157,mg/dL,
-2017-11-26,06:14:00 AM,OneTouch,76,mg/dL,
-2017-11-26,06:14:00 AM,MySugr,76,mg/dL,
-2017-11-26,12:51:00 PM,OneTouch,105,mg/dL,
-2017-11-26,12:51:00 PM,MySugr,105,mg/dL,
-2017-11-26,07:31:00 PM,OneTouch,102,mg/dL,Before Meal
-2017-11-26,07:31:00 PM,MySugr,102,mg/dL,
-2017-11-27,01:40:00 AM,OneTouch,117,mg/dL,
-2017-11-27,01:40:00 AM,MySugr,117,mg/dL,
-2017-11-27,08:44:00 AM,OneTouch,116,mg/dL,Before Meal
-2017-11-27,08:44:00 AM,MySugr,116,mg/dL,
-2017-11-27,11:24:00 AM,OneTouch,108,mg/dL,
-2017-11-27,11:24:00 AM,OneTouch,106,mg/dL,
-2017-11-27,11:24:00 AM,MySugr,106,mg/dL,
-2017-11-27,11:24:00 AM,MySugr,108,mg/dL,
-2017-11-27,07:26:00 PM,OneTouch,128,mg/dL,Before Meal
-2017-11-27,07:26:00 PM,MySugr,128,mg/dL,
-2017-11-28,01:10:00 AM,OneTouch,121,mg/dL,
-2017-11-28,01:10:00 AM,MySugr,121,mg/dL,
-2017-11-28,08:48:00 AM,OneTouch,116,mg/dL,Before Meal
-2017-11-28,08:48:00 AM,MySugr,116,mg/dL,
-2017-11-28,12:20:00 PM,OneTouch,133,mg/dL,Before Meal
-2017-11-28,12:20:00 PM,MySugr,133,mg/dL,
-2017-11-28,06:24:00 PM,OneTouch,100,mg/dL,Before Meal
-2017-11-28,06:24:00 PM,MySugr,100,mg/dL,
-2017-11-28,11:12:00 PM,OneTouch,124,mg/dL,
-2017-11-28,11:12:00 PM,MySugr,124,mg/dL,
-2017-11-29,08:34:00 AM,OneTouch,78,mg/dL,Before Meal
-2017-11-29,08:34:00 AM,MySugr,78,mg/dL,
-2017-11-29,12:01:00 PM,OneTouch,112,mg/dL,Before Meal
-2017-11-29,12:01:00 PM,MySugr,112,mg/dL,
-2017-11-29,07:38:00 PM,OneTouch,117,mg/dL,Before Meal
-2017-11-29,07:38:00 PM,MySugr,117,mg/dL,
-2017-11-30,12:29:00 AM,OneTouch,130,mg/dL,
-2017-11-30,12:29:00 AM,MySugr,130,mg/dL,
-2017-11-30,08:29:00 AM,OneTouch,116,mg/dL,Before Meal
-2017-11-30,08:29:00 AM,MySugr,116,mg/dL,
-2017-11-30,12:34:00 PM,OneTouch,101,mg/dL,Before Meal
-2017-11-30,12:34:00 PM,MySugr,101,mg/dL,
-2017-11-30,07:24:00 PM,OneTouch,104,mg/dL,Before Meal
-2017-11-30,07:24:00 PM,MySugr,104,mg/dL,
-2017-11-30,09:15:00 PM,OneTouch,127,mg/dL,
-2017-11-30,09:15:00 PM,MySugr,127,mg/dL,
-2017-12-01,08:52:00 AM,OneTouch,108,mg/dL,
-2017-12-01,08:52:00 AM,MySugr,108,mg/dL,
-2017-12-01,10:56:00 AM,OneTouch,120,mg/dL,
-2017-12-01,10:56:00 AM,OneTouch,117,mg/dL,Before Meal
-2017-12-01,10:56:00 AM,MySugr,117,mg/dL,
-2017-12-01,10:56:00 AM,MySugr,120,mg/dL,
-2017-12-01,04:27:00 PM,OneTouch,93,mg/dL,
-2017-12-01,04:27:00 PM,MySugr,93,mg/dL,
-2017-12-01,07:13:00 PM,OneTouch,93,mg/dL,Before Meal
-2017-12-01,07:13:00 PM,MySugr,93,mg/dL,
-2017-12-02,03:04:00 AM,OneTouch,106,mg/dL,
-2017-12-02,03:04:00 AM,MySugr,106,mg/dL,
-2017-12-02,11:48:00 AM,OneTouch,95,mg/dL,Before Meal
-2017-12-02,11:48:00 AM,MySugr,95,mg/dL,
-2017-12-02,05:15:00 PM,OneTouch,95,mg/dL,Before Meal
-2017-12-02,05:15:00 PM,MySugr,95,mg/dL,
-2017-12-02,11:07:00 PM,OneTouch,100,mg/dL,
-2017-12-02,11:07:00 PM,MySugr,100,mg/dL,
-2017-12-03,12:00:00 PM,OneTouch,97,mg/dL,Before Meal
-2017-12-03,12:00:00 PM,MySugr,97,mg/dL,
-2017-12-03,04:56:00 PM,OneTouch,79,mg/dL,After Meal
-2017-12-03,04:56:00 PM,MySugr,79,mg/dL,
-2017-12-03,07:27:00 PM,OneTouch,108,mg/dL,Before Meal
-2017-12-03,07:27:00 PM,MySugr,108,mg/dL,
-2017-12-04,12:28:00 AM,OneTouch,128,mg/dL,
-2017-12-04,12:28:00 AM,MySugr,128,mg/dL,
-2017-12-04,08:35:00 AM,OneTouch,96,mg/dL,Before Meal
-2017-12-04,08:35:00 AM,MySugr,96,mg/dL,
-2017-12-04,12:06:00 PM,OneTouch,107,mg/dL,
-2017-12-04,12:06:00 PM,MySugr,107,mg/dL,
-2017-12-04,07:12:00 PM,OneTouch,108,mg/dL,Before Meal
-2017-12-04,07:12:00 PM,MySugr,108,mg/dL,
-2017-12-05,12:08:00 AM,OneTouch,92,mg/dL,
-2017-12-05,12:08:00 AM,MySugr,92,mg/dL,
-2017-12-05,08:30:00 AM,OneTouch,83,mg/dL,Before Meal
-2017-12-05,08:30:00 AM,MySugr,83,mg/dL,
-2017-12-05,11:33:00 AM,OneTouch,92,mg/dL,Before Meal
-2017-12-05,11:33:00 AM,MySugr,92,mg/dL,
-2017-12-05,07:03:00 PM,OneTouch,99,mg/dL,Before Meal
-2017-12-05,07:03:00 PM,MySugr,99,mg/dL,
-2017-12-06,01:01:00 AM,OneTouch,140,mg/dL,
-2017-12-06,01:01:00 AM,MySugr,140,mg/dL,
-2017-12-06,08:44:00 AM,OneTouch,130,mg/dL,
-2017-12-06,08:44:00 AM,MySugr,130,mg/dL,
-2017-12-06,08:52:00 AM,OneTouch,116,mg/dL,Before Meal
-2017-12-06,08:52:00 AM,MySugr,116,mg/dL,
-2017-12-06,12:34:00 PM,OneTouch,125,mg/dL,Before Meal
-2017-12-06,12:34:00 PM,MySugr,125,mg/dL,
-2017-12-06,07:08:00 PM,OneTouch,101,mg/dL,
-2017-12-06,07:08:00 PM,MySugr,101,mg/dL,
-2017-12-07,12:55:00 AM,OneTouch,106,mg/dL,
-2017-12-07,12:55:00 AM,MySugr,106,mg/dL,
-2017-12-07,08:40:00 AM,OneTouch,106,mg/dL,Before Meal
-2017-12-07,08:40:00 AM,MySugr,106,mg/dL,
-2017-12-07,11:50:00 AM,OneTouch,106,mg/dL,Before Meal
-2017-12-07,11:50:00 AM,MySugr,106,mg/dL,
-2017-12-07,08:04:00 PM,OneTouch,107,mg/dL,Before Meal
-2017-12-07,08:04:00 PM,MySugr,107,mg/dL,
-2017-12-08,02:03:00 AM,OneTouch,92,mg/dL,
-2017-12-08,02:03:00 AM,MySugr,92,mg/dL,
-2017-12-08,10:52:00 AM,OneTouch,89,mg/dL,Before Meal
-2017-12-08,10:52:00 AM,MySugr,89,mg/dL,
-2017-12-08,07:48:00 PM,OneTouch,96,mg/dL,Before Meal
-2017-12-08,07:48:00 PM,MySugr,96,mg/dL,
-2017-12-08,11:02:00 PM,OneTouch,78,mg/dL,
-2017-12-08,11:02:00 PM,MySugr,78,mg/dL,
-2017-12-09,02:10:00 AM,OneTouch,111,mg/dL,
-2017-12-09,02:10:00 AM,MySugr,111,mg/dL,
-2017-12-09,11:59:00 AM,OneTouch,84,mg/dL,Before Meal
-2017-12-09,11:59:00 AM,MySugr,84,mg/dL,
-2017-12-09,05:55:00 PM,OneTouch,112,mg/dL,
-2017-12-09,05:55:00 PM,MySugr,112,mg/dL,
-2017-12-09,08:07:00 PM,OneTouch,124,mg/dL,
-2017-12-09,08:07:00 PM,OneTouch,116,mg/dL,
-2017-12-09,08:07:00 PM,MySugr,116,mg/dL,
-2017-12-09,08:07:00 PM,MySugr,124,mg/dL,
-2017-12-09,10:01:00 PM,OneTouch,105,mg/dL,
-2017-12-09,10:01:00 PM,MySugr,105,mg/dL,
-2017-12-10,01:50:00 AM,OneTouch,116,mg/dL,
-2017-12-10,01:50:00 AM,MySugr,116,mg/dL,
-2017-12-10,11:17:00 AM,OneTouch,93,mg/dL,Before Meal
-2017-12-10,11:17:00 AM,MySugr,93,mg/dL,
-2017-12-10,05:58:00 PM,OneTouch,94,mg/dL,Before Meal
-2017-12-10,05:58:00 PM,MySugr,94,mg/dL,
-2017-12-11,12:50:00 AM,OneTouch,82,mg/dL,
-2017-12-11,12:50:00 AM,MySugr,82,mg/dL,
-2017-12-11,08:40:00 AM,OneTouch,91,mg/dL,Before Meal
-2017-12-11,08:40:00 AM,MySugr,91,mg/dL,
-2017-12-11,11:54:00 AM,OneTouch,106,mg/dL,
-2017-12-11,11:54:00 AM,MySugr,106,mg/dL,
-2017-12-11,07:23:00 PM,OneTouch,101,mg/dL,Before Meal
-2017-12-11,07:23:00 PM,MySugr,101,mg/dL,
-2017-12-11,10:18:00 PM,OneTouch,90,mg/dL,
-2017-12-11,10:18:00 PM,MySugr,90,mg/dL,
-2017-12-12,08:51:00 AM,OneTouch,107,mg/dL,Before Meal
-2017-12-12,08:51:00 AM,MySugr,107,mg/dL,
-2017-12-12,12:03:00 PM,OneTouch,116,mg/dL,Before Meal
-2017-12-12,12:03:00 PM,MySugr,116,mg/dL,
-2017-12-12,07:11:00 PM,OneTouch,84,mg/dL,Before Meal
-2017-12-12,07:11:00 PM,MySugr,84,mg/dL,
-2017-12-13,01:43:00 AM,OneTouch,127,mg/dL,
-2017-12-13,01:43:00 AM,MySugr,127,mg/dL,
-2017-12-13,08:38:00 AM,OneTouch,90,mg/dL,Before Meal
-2017-12-13,08:38:00 AM,MySugr,90,mg/dL,
-2017-12-13,11:51:00 AM,OneTouch,113,mg/dL,Before Meal
-2017-12-13,11:51:00 AM,MySugr,113,mg/dL,
-2017-12-13,07:57:00 PM,OneTouch,95,mg/dL,Before Meal
-2017-12-13,07:57:00 PM,MySugr,95,mg/dL,
-2017-12-14,12:38:00 AM,OneTouch,102,mg/dL,
-2017-12-14,12:38:00 AM,MySugr,102,mg/dL,
-2017-12-14,08:33:00 AM,OneTouch,84,mg/dL,Before Meal
-2017-12-14,08:33:00 AM,MySugr,84,mg/dL,
-2017-12-14,12:08:00 PM,OneTouch,86,mg/dL,Before Meal
-2017-12-14,12:08:00 PM,MySugr,86,mg/dL,
-2017-12-14,07:41:00 PM,OneTouch,88,mg/dL,Before Meal
-2017-12-14,07:41:00 PM,MySugr,88,mg/dL,
-2017-12-15,12:56:00 AM,OneTouch,124,mg/dL,
-2017-12-15,12:56:00 AM,MySugr,124,mg/dL,
-2017-12-15,09:00:00 AM,OneTouch,98,mg/dL,Before Meal
-2017-12-15,09:00:00 AM,MySugr,98,mg/dL,
-2017-12-15,12:14:00 PM,OneTouch,96,mg/dL,
-2017-12-15,12:14:00 PM,MySugr,96,mg/dL,
-2017-12-15,08:05:00 PM,OneTouch,108,mg/dL,
-2017-12-15,08:05:00 PM,MySugr,108,mg/dL,
-2017-12-16,01:27:00 AM,OneTouch,98,mg/dL,
-2017-12-16,01:27:00 AM,MySugr,98,mg/dL,
-2017-12-16,12:41:00 PM,OneTouch,115,mg/dL,Before Meal
-2017-12-16,12:41:00 PM,MySugr,115,mg/dL,
-2017-12-16,05:59:00 PM,OneTouch,101,mg/dL,
-2017-12-16,05:59:00 PM,OneTouch,99,mg/dL,Before Meal
-2017-12-16,05:59:00 PM,MySugr,99,mg/dL,
-2017-12-16,05:59:00 PM,MySugr,101,mg/dL,
-2017-12-17,02:41:00 AM,OneTouch,136,mg/dL,
-2017-12-17,02:41:00 AM,MySugr,136,mg/dL,
-2017-12-17,11:35:00 AM,OneTouch,77,mg/dL,Before Meal
-2017-12-17,11:35:00 AM,MySugr,77,mg/dL,
-2017-12-17,07:50:00 PM,OneTouch,112,mg/dL,Before Meal
-2017-12-17,07:50:00 PM,MySugr,112,mg/dL,
-2017-12-18,08:48:00 AM,OneTouch,102,mg/dL,
-2017-12-18,08:48:00 AM,MySugr,102,mg/dL,
-2017-12-18,12:15:00 PM,OneTouch,89,mg/dL,Before Meal
-2017-12-18,12:15:00 PM,MySugr,89,mg/dL,
-2017-12-18,06:07:00 PM,OneTouch,105,mg/dL,
-2017-12-18,06:07:00 PM,MySugr,105,mg/dL,
-2017-12-18,07:52:00 PM,OneTouch,129,mg/dL,Before Meal
-2017-12-18,07:52:00 PM,MySugr,129,mg/dL,
-2017-12-19,12:16:00 AM,OneTouch,123,mg/dL,
-2017-12-19,12:16:00 AM,MySugr,123,mg/dL,
-2017-12-19,08:57:00 AM,OneTouch,110,mg/dL,Before Meal
-2017-12-19,08:57:00 AM,MySugr,110,mg/dL,
-2017-12-19,11:32:00 AM,OneTouch,122,mg/dL,
-2017-12-19,11:32:00 AM,MySugr,122,mg/dL,
-2017-12-19,11:33:00 AM,OneTouch,128,mg/dL,
-2017-12-19,11:33:00 AM,MySugr,128,mg/dL,
-2017-12-19,02:42:00 PM,OneTouch,91,mg/dL,
-2017-12-19,02:42:00 PM,MySugr,91,mg/dL,
-2017-12-19,07:15:00 PM,OneTouch,122,mg/dL,Before Meal
-2017-12-19,07:15:00 PM,MySugr,122,mg/dL,
-2017-12-20,12:07:00 AM,OneTouch,112,mg/dL,
-2017-12-20,12:07:00 AM,MySugr,112,mg/dL,
-2017-12-20,08:36:00 AM,OneTouch,112,mg/dL,Before Meal
-2017-12-20,08:36:00 AM,MySugr,112,mg/dL,
-2017-12-20,12:21:00 PM,OneTouch,99,mg/dL,
-2017-12-20,12:21:00 PM,MySugr,99,mg/dL,
-2017-12-20,07:17:00 PM,OneTouch,88,mg/dL,
-2017-12-20,07:17:00 PM,MySugr,88,mg/dL,
-2017-12-21,12:36:00 AM,OneTouch,96,mg/dL,
-2017-12-21,12:36:00 AM,MySugr,96,mg/dL,
-2017-12-21,08:46:00 AM,OneTouch,102,mg/dL,Before Meal
-2017-12-21,08:46:00 AM,MySugr,102,mg/dL,
-2017-12-21,12:25:00 PM,OneTouch,85,mg/dL,
-2017-12-21,12:25:00 PM,MySugr,85,mg/dL,
-2017-12-21,07:10:00 PM,OneTouch,82,mg/dL,Before Meal
-2017-12-21,07:10:00 PM,MySugr,82,mg/dL,
-2017-12-22,12:25:00 AM,OneTouch,176,mg/dL,
-2017-12-22,12:25:00 AM,MySugr,176,mg/dL,
-2017-12-22,03:02:00 AM,OneTouch,80,mg/dL,
-2017-12-22,03:02:00 AM,MySugr,80,mg/dL,
-2017-12-22,10:43:00 AM,OneTouch,122,mg/dL,Before Meal
-2017-12-22,10:43:00 AM,MySugr,122,mg/dL,
-2017-12-22,02:12:00 PM,OneTouch,89,mg/dL,
-2017-12-22,02:12:00 PM,MySugr,89,mg/dL,
-2017-12-22,05:34:00 PM,OneTouch,100,mg/dL,Before Meal
-2017-12-22,05:34:00 PM,MySugr,100,mg/dL,
-2017-12-22,11:02:00 PM,OneTouch,90,mg/dL,Before Meal
-2017-12-22,11:02:00 PM,MySugr,90,mg/dL,
-2017-12-23,03:29:00 AM,OneTouch,114,mg/dL,
-2017-12-23,03:29:00 AM,MySugr,114,mg/dL,
-2017-12-23,12:59:00 PM,OneTouch,107,mg/dL,Before Meal
-2017-12-23,12:59:00 PM,MySugr,107,mg/dL,
-2017-12-23,08:51:00 PM,OneTouch,81,mg/dL,Before Meal
-2017-12-23,08:51:00 PM,MySugr,81,mg/dL,
-2017-12-24,01:06:00 AM,OneTouch,154,mg/dL,
-2017-12-24,01:06:00 AM,MySugr,154,mg/dL,
-2017-12-24,11:51:00 AM,OneTouch,100,mg/dL,Before Meal
-2017-12-24,11:51:00 AM,MySugr,100,mg/dL,
-2017-12-24,06:03:00 PM,OneTouch,102,mg/dL,Before Meal
-2017-12-24,06:03:00 PM,MySugr,102,mg/dL,
-2017-12-24,11:57:00 PM,OneTouch,111,mg/dL,
-2017-12-24,11:57:00 PM,MySugr,111,mg/dL,
-2017-12-25,10:11:00 AM,OneTouch,119,mg/dL,
-2017-12-25,10:11:00 AM,MySugr,119,mg/dL,
-2017-12-25,12:21:00 PM,OneTouch,147,mg/dL,
-2017-12-25,12:21:00 PM,MySugr,147,mg/dL,
-2017-12-25,12:22:00 PM,OneTouch,132,mg/dL,
-2017-12-25,12:22:00 PM,MySugr,132,mg/dL,
-2017-12-25,11:54:00 PM,OneTouch,146,mg/dL,After Meal
-2017-12-25,11:54:00 PM,MySugr,146,mg/dL,
-2017-12-26,02:01:00 AM,OneTouch,124,mg/dL,
-2017-12-26,02:01:00 AM,MySugr,124,mg/dL,
-2017-12-26,10:45:00 AM,OneTouch,112,mg/dL,Before Meal
-2017-12-26,10:45:00 AM,MySugr,112,mg/dL,
-2017-12-26,02:45:00 PM,OneTouch,114,mg/dL,
-2017-12-26,02:45:00 PM,MySugr,114,mg/dL,
-2017-12-26,07:52:00 PM,OneTouch,96,mg/dL,Before Meal
-2017-12-26,07:52:00 PM,MySugr,96,mg/dL,
-2017-12-27,01:55:00 AM,OneTouch,95,mg/dL,
-2017-12-27,01:55:00 AM,MySugr,95,mg/dL,
-2017-12-27,02:22:00 AM,OneTouch,104,mg/dL,
-2017-12-27,02:22:00 AM,MySugr,104,mg/dL,
-2017-12-27,08:41:00 AM,OneTouch,104,mg/dL,Before Meal
-2017-12-27,08:41:00 AM,MySugr,104,mg/dL,
-2017-12-27,12:01:00 PM,OneTouch,110,mg/dL,Before Meal
-2017-12-27,12:01:00 PM,MySugr,110,mg/dL,
-2017-12-27,07:33:00 PM,OneTouch,81,mg/dL,Before Meal
-2017-12-27,07:33:00 PM,MySugr,81,mg/dL,
-2017-12-28,01:13:00 AM,OneTouch,112,mg/dL,
-2017-12-28,01:13:00 AM,MySugr,112,mg/dL,
-2017-12-28,09:17:00 AM,OneTouch,122,mg/dL,Before Meal
-2017-12-28,09:17:00 AM,MySugr,122,mg/dL,
-2017-12-28,12:30:00 PM,OneTouch,119,mg/dL,Before Meal
-2017-12-28,12:30:00 PM,MySugr,119,mg/dL,
-2017-12-28,06:58:00 PM,OneTouch,110,mg/dL,
-2017-12-28,06:58:00 PM,MySugr,110,mg/dL,
-2017-12-28,10:56:00 PM,OneTouch,106,mg/dL,
-2017-12-28,10:56:00 PM,MySugr,106,mg/dL,
-2017-12-29,01:07:00 AM,OneTouch,123,mg/dL,
-2017-12-29,01:07:00 AM,MySugr,123,mg/dL,
-2017-12-29,11:00:00 AM,OneTouch,107,mg/dL,
-2017-12-29,11:00:00 AM,MySugr,107,mg/dL,
-2017-12-29,01:10:00 PM,OneTouch,104,mg/dL,
-2017-12-29,01:10:00 PM,MySugr,104,mg/dL,
-2017-12-29,01:11:00 PM,OneTouch,113,mg/dL,
-2017-12-29,01:11:00 PM,MySugr,113,mg/dL,
-2017-12-29,01:37:00 PM,OneTouch,91,mg/dL,
-2017-12-29,01:37:00 PM,MySugr,91,mg/dL,
-2017-12-29,01:38:00 PM,OneTouch,97,mg/dL,Before Meal
-2017-12-29,01:38:00 PM,MySugr,97,mg/dL,
-2017-12-29,05:41:00 PM,OneTouch,95,mg/dL,
-2017-12-29,05:41:00 PM,MySugr,95,mg/dL,
-2017-12-29,06:40:00 PM,OneTouch,87,mg/dL,
-2017-12-29,06:40:00 PM,MySugr,87,mg/dL,
-2017-12-30,12:41:00 AM,OneTouch,111,mg/dL,
-2017-12-30,12:41:00 AM,MySugr,111,mg/dL,
-2017-12-30,01:00:00 PM,OneTouch,128,mg/dL,Before Meal
-2017-12-30,01:00:00 PM,MySugr,128,mg/dL,
-2017-12-30,05:43:00 PM,OneTouch,132,mg/dL,
-2017-12-30,05:43:00 PM,MySugr,132,mg/dL,
-2017-12-30,09:36:00 PM,OneTouch,100,mg/dL,Before Meal
-2017-12-30,09:36:00 PM,MySugr,100,mg/dL,
-2017-12-31,01:28:00 AM,OneTouch,118,mg/dL,
-2017-12-31,01:28:00 AM,MySugr,118,mg/dL,
-2017-12-31,10:27:00 AM,OneTouch,117,mg/dL,
-2017-12-31,10:27:00 AM,MySugr,117,mg/dL,
-2017-12-31,01:54:00 PM,OneTouch,142,mg/dL,
-2017-12-31,01:54:00 PM,MySugr,142,mg/dL,
-2017-12-31,06:57:00 PM,OneTouch,102,mg/dL,
-2017-12-31,06:57:00 PM,MySugr,102,mg/dL,
-2018-01-01,01:55:00 AM,OneTouch,145,mg/dL,
-2018-01-01,01:55:00 AM,MySugr,145,mg/dL,
-2018-01-01,11:26:00 AM,OneTouch,124,mg/dL,
-2018-01-01,11:26:00 AM,MySugr,124,mg/dL,
-2018-01-01,06:05:00 PM,OneTouch,107,mg/dL,Before Meal
-2018-01-01,06:05:00 PM,MySugr,107,mg/dL,
-2018-01-01,11:45:00 PM,OneTouch,93,mg/dL,
-2018-01-01,11:45:00 PM,MySugr,93,mg/dL,
-2018-01-02,02:10:00 AM,OneTouch,147,mg/dL,
-2018-01-02,02:10:00 AM,MySugr,147,mg/dL,
-2018-01-02,05:56:00 AM,OneTouch,91,mg/dL,
-2018-01-02,05:56:00 AM,MySugr,91,mg/dL,
-2018-01-02,10:24:00 AM,OneTouch,86,mg/dL,Before Meal
-2018-01-02,10:24:00 AM,MySugr,86,mg/dL,
-2018-01-02,12:37:00 PM,OneTouch,92,mg/dL,Before Meal
-2018-01-02,12:37:00 PM,MySugr,92,mg/dL,
-2018-01-02,07:06:00 PM,OneTouch,118,mg/dL,Before Meal
-2018-01-02,07:06:00 PM,MySugr,118,mg/dL,
-2018-01-03,12:09:00 AM,OneTouch,112,mg/dL,
-2018-01-03,12:09:00 AM,MySugr,112,mg/dL,
-2018-01-03,08:55:00 AM,OneTouch,117,mg/dL,
-2018-01-03,08:55:00 AM,MySugr,117,mg/dL,
-2018-01-03,12:44:00 PM,OneTouch,107,mg/dL,Before Meal
-2018-01-03,12:44:00 PM,MySugr,107,mg/dL,
-2018-01-03,09:06:00 PM,OneTouch,108,mg/dL,
-2018-01-03,09:06:00 PM,MySugr,108,mg/dL,
-2018-01-04,12:53:00 AM,OneTouch,142,mg/dL,
-2018-01-04,12:53:00 AM,MySugr,142,mg/dL,
-2018-01-04,08:55:00 AM,OneTouch,98,mg/dL,Before Meal
-2018-01-04,08:55:00 AM,MySugr,98,mg/dL,
-2018-01-04,11:38:00 AM,OneTouch,99,mg/dL,Before Meal
-2018-01-04,11:38:00 AM,MySugr,99,mg/dL,
-2018-01-04,07:48:00 PM,OneTouch,110,mg/dL,Before Meal
-2018-01-04,07:48:00 PM,MySugr,110,mg/dL,
-2018-01-05,01:21:00 AM,OneTouch,117,mg/dL,
-2018-01-05,01:21:00 AM,MySugr,117,mg/dL,
-2018-01-05,09:38:00 AM,OneTouch,113,mg/dL,
-2018-01-05,09:38:00 AM,MySugr,113,mg/dL,
-2018-01-05,12:14:00 PM,OneTouch,132,mg/dL,Before Meal
-2018-01-05,12:14:00 PM,MySugr,132,mg/dL,
-2018-01-05,07:13:00 PM,OneTouch,124,mg/dL,Before Meal
-2018-01-05,07:13:00 PM,MySugr,124,mg/dL,
-2018-01-06,02:30:00 AM,OneTouch,124,mg/dL,
-2018-01-06,02:30:00 AM,MySugr,124,mg/dL,
-2018-01-06,01:18:00 PM,OneTouch,129,mg/dL,
-2018-01-06,01:18:00 PM,MySugr,129,mg/dL,
-2018-01-06,07:33:00 PM,OneTouch,89,mg/dL,
-2018-01-06,07:33:00 PM,MySugr,89,mg/dL,
-2018-01-06,09:54:00 PM,OneTouch,101,mg/dL,
-2018-01-06,09:54:00 PM,MySugr,101,mg/dL,
-2018-01-07,01:39:00 AM,OneTouch,97,mg/dL,
-2018-01-07,01:39:00 AM,MySugr,97,mg/dL,
-2018-01-07,12:39:00 PM,OneTouch,116,mg/dL,
-2018-01-07,12:39:00 PM,MySugr,116,mg/dL,
-2018-01-07,05:39:00 PM,OneTouch,102,mg/dL,
-2018-01-07,05:39:00 PM,MySugr,102,mg/dL,
-2018-01-08,08:52:00 AM,OneTouch,138,mg/dL,
-2018-01-08,08:52:00 AM,MySugr,138,mg/dL,
-2018-01-08,12:12:00 PM,OneTouch,113,mg/dL,Before Meal
-2018-01-08,12:12:00 PM,MySugr,113,mg/dL,
-2018-01-08,04:31:00 PM,OneTouch,116,mg/dL,
-2018-01-08,04:31:00 PM,MySugr,116,mg/dL,
-2018-01-08,08:31:00 PM,OneTouch,107,mg/dL,Before Meal
-2018-01-08,08:31:00 PM,MySugr,107,mg/dL,
-2018-01-09,08:39:00 AM,OneTouch,89,mg/dL,
-2018-01-09,08:39:00 AM,MySugr,89,mg/dL,
-2018-01-09,11:59:00 AM,OneTouch,98,mg/dL,Before Meal
-2018-01-09,11:59:00 AM,MySugr,98,mg/dL,
-2018-01-09,08:10:00 PM,OneTouch,133,mg/dL,
-2018-01-09,08:10:00 PM,OneTouch,116,mg/dL,Before Meal
-2018-01-09,08:10:00 PM,MySugr,133,mg/dL,
-2018-01-09,08:10:00 PM,MySugr,116,mg/dL,
-2018-01-09,10:19:00 PM,OneTouch,98,mg/dL,
-2018-01-09,10:19:00 PM,MySugr,98,mg/dL,
-2018-01-10,01:04:00 AM,OneTouch,110,mg/dL,
-2018-01-10,01:04:00 AM,MySugr,110,mg/dL,
-2018-01-10,08:50:00 AM,OneTouch,104,mg/dL,
-2018-01-10,08:50:00 AM,MySugr,104,mg/dL,
-2018-01-10,11:35:00 AM,OneTouch,107,mg/dL,
-2018-01-10,11:35:00 AM,MySugr,107,mg/dL,
-2018-01-10,04:09:00 PM,OneTouch,82,mg/dL,
-2018-01-10,04:09:00 PM,MySugr,82,mg/dL,
-2018-01-10,04:24:00 PM,OneTouch,69,mg/dL,
-2018-01-10,04:24:00 PM,MySugr,69,mg/dL,
-2018-01-11,08:42:00 AM,OneTouch,123,mg/dL,Before Meal
-2018-01-11,08:42:00 AM,MySugr,123,mg/dL,
-2018-01-11,11:59:00 AM,OneTouch,111,mg/dL,
-2018-01-11,11:59:00 AM,MySugr,111,mg/dL,
-2018-01-11,07:08:00 PM,OneTouch,90,mg/dL,Before Meal
-2018-01-11,07:08:00 PM,MySugr,90,mg/dL,
-2018-01-12,12:08:00 AM,OneTouch,174,mg/dL,
-2018-01-12,12:08:00 AM,MySugr,174,mg/dL,
-2018-01-12,08:50:00 AM,OneTouch,88,mg/dL,Before Meal
-2018-01-12,08:50:00 AM,MySugr,88,mg/dL,
-2018-01-12,11:54:00 AM,OneTouch,100,mg/dL,
-2018-01-12,11:54:00 AM,MySugr,100,mg/dL,
-2018-01-12,09:09:00 PM,OneTouch,109,mg/dL,
-2018-01-12,09:09:00 PM,MySugr,109,mg/dL,
-2018-01-12,11:45:00 PM,OneTouch,98,mg/dL,
-2018-01-12,11:45:00 PM,MySugr,98,mg/dL,
-2018-01-13,02:42:00 AM,OneTouch,131,mg/dL,
-2018-01-13,02:42:00 AM,MySugr,131,mg/dL,
-2018-01-13,12:30:00 PM,OneTouch,126,mg/dL,Before Meal
-2018-01-13,12:30:00 PM,MySugr,126,mg/dL,
-2018-01-13,06:31:00 PM,OneTouch,90,mg/dL,Before Meal
-2018-01-13,06:31:00 PM,MySugr,90,mg/dL,
-2018-01-14,12:07:00 AM,OneTouch,123,mg/dL,
-2018-01-14,12:07:00 AM,MySugr,123,mg/dL,
-2018-01-14,12:29:00 PM,OneTouch,130,mg/dL,Before Meal
-2018-01-14,12:29:00 PM,MySugr,130,mg/dL,
-2018-01-14,06:23:00 PM,OneTouch,94,mg/dL,Before Meal
-2018-01-14,06:23:00 PM,MySugr,94,mg/dL,
-2018-01-15,12:49:00 AM,OneTouch,94,mg/dL,
-2018-01-15,12:49:00 AM,MySugr,94,mg/dL,
-2018-01-15,09:14:00 AM,OneTouch,102,mg/dL,Before Meal
-2018-01-15,09:14:00 AM,MySugr,102,mg/dL,
-2018-01-15,12:17:00 PM,OneTouch,104,mg/dL,Before Meal
-2018-01-15,12:17:00 PM,MySugr,104,mg/dL,
-2018-01-15,07:45:00 PM,OneTouch,98,mg/dL,Before Meal
-2018-01-15,07:45:00 PM,MySugr,98,mg/dL,
-2018-01-16,12:25:00 AM,OneTouch,127,mg/dL,
-2018-01-16,12:25:00 AM,MySugr,127,mg/dL,
-2018-01-16,08:39:00 AM,OneTouch,122,mg/dL,
-2018-01-16,08:39:00 AM,MySugr,122,mg/dL,
-2018-01-16,12:10:00 PM,OneTouch,100,mg/dL,Before Meal
-2018-01-16,12:10:00 PM,OneTouch,110,mg/dL,
-2018-01-16,12:10:00 PM,MySugr,100,mg/dL,
-2018-01-16,12:10:00 PM,MySugr,110,mg/dL,
-2018-01-16,07:45:00 PM,OneTouch,117,mg/dL,
-2018-01-16,07:45:00 PM,MySugr,117,mg/dL,
-2018-01-17,12:49:00 AM,OneTouch,103,mg/dL,
-2018-01-17,12:49:00 AM,MySugr,103,mg/dL,
-2018-01-17,08:43:00 AM,OneTouch,110,mg/dL,Before Meal
-2018-01-17,08:43:00 AM,MySugr,110,mg/dL,
-2018-01-17,11:57:00 AM,OneTouch,116,mg/dL,Before Meal
-2018-01-17,11:57:00 AM,MySugr,116,mg/dL,
-2018-01-17,06:57:00 PM,OneTouch,114,mg/dL,Before Meal
-2018-01-17,06:57:00 PM,MySugr,114,mg/dL,
-2018-01-17,09:18:00 PM,OneTouch,118,mg/dL,After Meal
-2018-01-17,09:18:00 PM,MySugr,118,mg/dL,
-2018-01-18,12:59:00 AM,OneTouch,133,mg/dL,
-2018-01-18,12:59:00 AM,MySugr,133,mg/dL,
-2018-01-18,08:40:00 AM,OneTouch,125,mg/dL,Before Meal
-2018-01-18,08:40:00 AM,MySugr,125,mg/dL,
-2018-01-18,11:42:00 AM,OneTouch,109,mg/dL,
-2018-01-18,11:42:00 AM,MySugr,109,mg/dL,
-2018-01-18,07:21:00 PM,OneTouch,116,mg/dL,
-2018-01-18,07:21:00 PM,MySugr,116,mg/dL,
-2018-01-18,09:29:00 PM,OneTouch,118,mg/dL,
-2018-01-18,09:29:00 PM,MySugr,118,mg/dL,
-2018-01-18,09:30:00 PM,OneTouch,111,mg/dL,Before Meal
-2018-01-18,09:30:00 PM,MySugr,111,mg/dL,
-2018-01-19,01:32:00 AM,OneTouch,87,mg/dL,
-2018-01-19,01:32:00 AM,MySugr,87,mg/dL,
-2018-01-19,08:38:00 AM,OneTouch,130,mg/dL,
-2018-01-19,08:38:00 AM,MySugr,130,mg/dL,
-2018-01-19,12:04:00 PM,OneTouch,138,mg/dL,
-2018-01-19,12:04:00 PM,MySugr,138,mg/dL,
-2018-01-19,07:46:00 PM,OneTouch,118,mg/dL,Before Meal
-2018-01-19,07:46:00 PM,MySugr,118,mg/dL,
-2018-01-20,02:15:00 AM,OneTouch,92,mg/dL,
-2018-01-20,02:15:00 AM,MySugr,92,mg/dL,
-2018-01-20,09:58:00 AM,OneTouch,97,mg/dL,Before Meal
-2018-01-20,09:58:00 AM,MySugr,97,mg/dL,
-2018-01-20,06:20:00 PM,OneTouch,72,mg/dL,
-2018-01-20,06:20:00 PM,MySugr,72,mg/dL,
-2018-01-20,09:59:00 PM,OneTouch,128,mg/dL,
-2018-01-20,09:59:00 PM,MySugr,128,mg/dL,
-2018-01-21,01:43:00 AM,OneTouch,108,mg/dL,
-2018-01-21,01:43:00 AM,MySugr,108,mg/dL,
-2018-01-21,10:20:00 AM,OneTouch,113,mg/dL,
-2018-01-21,10:20:00 AM,MySugr,113,mg/dL,
-2018-01-21,01:47:00 PM,OneTouch,146,mg/dL,Before Meal
-2018-01-21,01:47:00 PM,MySugr,146,mg/dL,
-2018-01-21,05:43:00 PM,OneTouch,77,mg/dL,Before Meal
-2018-01-21,05:43:00 PM,MySugr,77,mg/dL,
-2018-01-21,09:14:00 PM,OneTouch,67,mg/dL,
-2018-01-21,09:14:00 PM,MySugr,67,mg/dL,
-2018-01-22,08:33:00 AM,OneTouch,89,mg/dL,Before Meal
-2018-01-22,08:33:00 AM,MySugr,89,mg/dL,
-2018-01-22,12:10:00 PM,OneTouch,112,mg/dL,Before Meal
-2018-01-22,12:10:00 PM,MySugr,112,mg/dL,
-2018-01-22,07:47:00 PM,OneTouch,90,mg/dL,
-2018-01-22,07:47:00 PM,MySugr,90,mg/dL,
-2018-01-22,10:27:00 PM,OneTouch,122,mg/dL,
-2018-01-22,10:27:00 PM,MySugr,122,mg/dL,
-2018-01-23,01:17:00 AM,OneTouch,121,mg/dL,
-2018-01-23,01:17:00 AM,MySugr,121,mg/dL,
-2018-01-23,08:41:00 AM,OneTouch,96,mg/dL,Before Meal
-2018-01-23,08:41:00 AM,MySugr,96,mg/dL,
-2018-01-23,11:45:00 AM,OneTouch,85,mg/dL,Before Meal
-2018-01-23,11:45:00 AM,MySugr,85,mg/dL,
-2018-01-23,07:14:00 PM,OneTouch,88,mg/dL,
-2018-01-23,07:14:00 PM,MySugr,88,mg/dL,
-2018-01-24,12:54:00 AM,OneTouch,120,mg/dL,
-2018-01-24,12:54:00 AM,MySugr,120,mg/dL,
-2018-01-24,08:44:00 AM,OneTouch,100,mg/dL,Before Meal
-2018-01-24,08:44:00 AM,MySugr,100,mg/dL,
-2018-01-24,12:12:00 PM,OneTouch,113,mg/dL,Before Meal
-2018-01-24,12:12:00 PM,MySugr,113,mg/dL,
-2018-01-24,06:51:00 PM,OneTouch,116,mg/dL,
-2018-01-24,06:51:00 PM,MySugr,116,mg/dL,
-2018-01-25,01:03:00 AM,OneTouch,106,mg/dL,
-2018-01-25,01:03:00 AM,MySugr,106,mg/dL,
-2018-01-25,08:41:00 AM,OneTouch,108,mg/dL,Before Meal
-2018-01-25,08:41:00 AM,MySugr,108,mg/dL,
-2018-01-25,12:08:00 PM,OneTouch,126,mg/dL,
-2018-01-25,12:08:00 PM,MySugr,126,mg/dL,
-2018-01-25,09:17:00 PM,OneTouch,121,mg/dL,
-2018-01-25,09:17:00 PM,MySugr,121,mg/dL,
-2018-01-25,09:58:00 PM,OneTouch,117,mg/dL,
-2018-01-25,09:58:00 PM,MySugr,117,mg/dL,
-2018-01-25,09:59:00 PM,OneTouch,115,mg/dL,
-2018-01-25,09:59:00 PM,MySugr,115,mg/dL,
-2018-01-26,01:28:00 AM,OneTouch,94,mg/dL,
-2018-01-26,01:28:00 AM,MySugr,94,mg/dL,
-2018-01-26,09:08:00 AM,OneTouch,101,mg/dL,
-2018-01-26,09:08:00 AM,MySugr,101,mg/dL,
-2018-01-26,12:02:00 PM,OneTouch,103,mg/dL,Before Meal
-2018-01-26,12:02:00 PM,MySugr,103,mg/dL,
-2018-01-26,08:42:00 PM,OneTouch,97,mg/dL,
-2018-01-26,08:42:00 PM,MySugr,97,mg/dL,
-2018-01-27,12:22:00 AM,OneTouch,110,mg/dL,
-2018-01-27,12:22:00 AM,MySugr,110,mg/dL,
-2018-01-27,11:27:00 AM,OneTouch,89,mg/dL,Before Meal
-2018-01-27,11:27:00 AM,MySugr,89,mg/dL,
-2018-01-27,07:10:00 PM,OneTouch,93,mg/dL,Before Meal
-2018-01-27,07:10:00 PM,MySugr,93,mg/dL,
-2018-01-27,11:48:00 PM,OneTouch,114,mg/dL,
-2018-01-27,11:48:00 PM,MySugr,114,mg/dL,
-2018-01-28,02:45:00 AM,OneTouch,106,mg/dL,
-2018-01-28,02:45:00 AM,MySugr,106,mg/dL,
-2018-01-28,01:11:00 PM,OneTouch,103,mg/dL,
-2018-01-28,01:11:00 PM,MySugr,103,mg/dL,
-2018-01-28,04:43:00 PM,OneTouch,119,mg/dL,
-2018-01-28,04:43:00 PM,MySugr,119,mg/dL,
-2018-01-28,04:44:00 PM,OneTouch,118,mg/dL,
-2018-01-28,04:44:00 PM,MySugr,118,mg/dL,
-2018-01-28,06:15:00 PM,OneTouch,110,mg/dL,Before Meal
-2018-01-28,06:15:00 PM,MySugr,110,mg/dL,
-2018-01-29,01:38:00 AM,OneTouch,94,mg/dL,
-2018-01-29,01:38:00 AM,MySugr,94,mg/dL,
-2018-01-29,09:17:00 AM,OneTouch,95,mg/dL,Before Meal
-2018-01-29,09:17:00 AM,MySugr,95,mg/dL,
-2018-01-29,11:48:00 AM,OneTouch,120,mg/dL,
-2018-01-29,11:48:00 AM,MySugr,120,mg/dL,
-2018-01-29,07:27:00 PM,OneTouch,85,mg/dL,Before Meal
-2018-01-29,07:27:00 PM,MySugr,85,mg/dL,
-2018-01-30,12:44:00 AM,OneTouch,156,mg/dL,
-2018-01-30,12:44:00 AM,MySugr,156,mg/dL,
-2018-01-30,08:48:00 AM,OneTouch,111,mg/dL,Before Meal
-2018-01-30,08:48:00 AM,MySugr,111,mg/dL,
-2018-01-30,11:40:00 AM,OneTouch,119,mg/dL,Before Meal
-2018-01-30,11:40:00 AM,MySugr,119,mg/dL,
-2018-01-30,07:06:00 PM,OneTouch,111,mg/dL,Before Meal
-2018-01-30,07:06:00 PM,MySugr,111,mg/dL,
-2018-01-31,12:23:00 AM,OneTouch,92,mg/dL,
-2018-01-31,12:23:00 AM,MySugr,92,mg/dL,
-2018-01-31,08:43:00 AM,OneTouch,109,mg/dL,
-2018-01-31,08:43:00 AM,MySugr,109,mg/dL,
-2018-01-31,12:42:00 PM,OneTouch,108,mg/dL,Before Meal
-2018-01-31,12:42:00 PM,MySugr,108,mg/dL,
-2018-01-31,07:16:00 PM,OneTouch,98,mg/dL,Before Meal
-2018-01-31,07:16:00 PM,MySugr,98,mg/dL,
-2018-02-01,01:04:00 AM,OneTouch,132,mg/dL,
-2018-02-01,01:04:00 AM,MySugr,132,mg/dL,
-2018-02-01,08:44:00 AM,OneTouch,137,mg/dL,Before Meal
-2018-02-01,08:44:00 AM,MySugr,137,mg/dL,
-2018-02-01,12:15:00 PM,OneTouch,112,mg/dL,Before Meal
-2018-02-01,12:15:00 PM,MySugr,112,mg/dL,
-2018-02-01,08:28:00 PM,OneTouch,109,mg/dL,
-2018-02-01,08:28:00 PM,MySugr,109,mg/dL,
-2018-02-02,01:41:00 AM,OneTouch,110,mg/dL,
-2018-02-02,01:41:00 AM,MySugr,110,mg/dL,
-2018-02-02,08:38:00 AM,OneTouch,122,mg/dL,Before Meal
-2018-02-02,08:38:00 AM,MySugr,122,mg/dL,
-2018-02-02,12:11:00 PM,OneTouch,116,mg/dL,
-2018-02-02,12:11:00 PM,MySugr,116,mg/dL,
-2018-02-02,07:56:00 PM,OneTouch,96,mg/dL,Before Meal
-2018-02-02,07:56:00 PM,MySugr,96,mg/dL,
-2018-02-03,01:34:00 AM,OneTouch,123,mg/dL,
-2018-02-03,01:34:00 AM,MySugr,123,mg/dL,
-2018-02-03,02:24:00 PM,OneTouch,109,mg/dL,
-2018-02-03,02:24:00 PM,MySugr,109,mg/dL,
-2018-02-03,02:25:00 PM,OneTouch,120,mg/dL,
-2018-02-03,02:25:00 PM,MySugr,120,mg/dL,
-2018-02-03,08:39:00 PM,OneTouch,92,mg/dL,Before Meal
-2018-02-03,08:39:00 PM,MySugr,92,mg/dL,
-2018-02-04,01:25:00 AM,OneTouch,99,mg/dL,
-2018-02-04,01:25:00 AM,MySugr,99,mg/dL,
-2018-02-04,01:11:00 PM,OneTouch,131,mg/dL,Before Meal
-2018-02-04,01:11:00 PM,MySugr,131,mg/dL,
-2018-02-04,06:40:00 PM,OneTouch,102,mg/dL,
-2018-02-04,06:40:00 PM,MySugr,102,mg/dL,
-2018-02-04,09:23:00 PM,OneTouch,108,mg/dL,
-2018-02-04,09:23:00 PM,MySugr,108,mg/dL,
-2018-02-05,12:52:00 AM,OneTouch,83,mg/dL,
-2018-02-05,12:52:00 AM,MySugr,83,mg/dL,
-2018-02-05,08:54:00 AM,OneTouch,101,mg/dL,Before Meal
-2018-02-05,08:54:00 AM,MySugr,101,mg/dL,
-2018-02-05,12:21:00 PM,OneTouch,127,mg/dL,
-2018-02-05,12:21:00 PM,MySugr,127,mg/dL,
-2018-02-05,12:35:00 PM,OneTouch,128,mg/dL,Before Meal
-2018-02-05,12:35:00 PM,MySugr,128,mg/dL,
-2018-02-05,07:25:00 PM,OneTouch,106,mg/dL,Before Meal
-2018-02-05,07:25:00 PM,MySugr,106,mg/dL,
-2018-02-06,01:51:00 AM,OneTouch,120,mg/dL,
-2018-02-06,01:51:00 AM,MySugr,120,mg/dL,
-2018-02-06,08:35:00 AM,OneTouch,88,mg/dL,Before Meal
-2018-02-06,08:35:00 AM,MySugr,88,mg/dL,
-2018-02-06,11:34:00 AM,OneTouch,121,mg/dL,Before Meal
-2018-02-06,11:34:00 AM,MySugr,121,mg/dL,
-2018-02-06,07:14:00 PM,OneTouch,97,mg/dL,Before Meal
-2018-02-06,07:14:00 PM,MySugr,97,mg/dL,
-2018-02-06,11:28:00 PM,OneTouch,105,mg/dL,
-2018-02-06,11:28:00 PM,OneTouch,103,mg/dL,
-2018-02-06,11:28:00 PM,MySugr,103,mg/dL,
-2018-02-06,11:28:00 PM,MySugr,105,mg/dL,
-2018-02-07,01:53:00 AM,OneTouch,101,mg/dL,
-2018-02-07,01:53:00 AM,MySugr,101,mg/dL,
-2018-02-07,08:34:00 AM,OneTouch,96,mg/dL,Before Meal
-2018-02-07,08:34:00 AM,MySugr,96,mg/dL,
-2018-02-07,12:08:00 PM,OneTouch,114,mg/dL,Before Meal
-2018-02-07,12:08:00 PM,MySugr,114,mg/dL,
-2018-02-07,08:23:00 PM,OneTouch,94,mg/dL,Before Meal
-2018-02-07,08:23:00 PM,MySugr,94,mg/dL,
-2018-02-08,12:41:00 AM,OneTouch,132,mg/dL,
-2018-02-08,12:41:00 AM,MySugr,132,mg/dL,
-2018-02-08,08:39:00 AM,OneTouch,89,mg/dL,Before Meal
-2018-02-08,08:39:00 AM,MySugr,89,mg/dL,
-2018-02-08,12:12:00 PM,OneTouch,138,mg/dL,
-2018-02-08,12:12:00 PM,MySugr,138,mg/dL,
-2018-02-08,07:45:00 PM,OneTouch,91,mg/dL,Before Meal
-2018-02-08,07:45:00 PM,MySugr,91,mg/dL,
-2018-02-09,01:08:00 AM,OneTouch,143,mg/dL,
-2018-02-09,01:08:00 AM,MySugr,143,mg/dL,
-2018-02-09,09:01:00 AM,OneTouch,84,mg/dL,Before Meal
-2018-02-09,09:01:00 AM,MySugr,84,mg/dL,
-2018-02-09,12:01:00 PM,OneTouch,101,mg/dL,Before Meal
-2018-02-09,12:01:00 PM,MySugr,101,mg/dL,
-2018-02-09,08:04:00 PM,OneTouch,104,mg/dL,
-2018-02-09,08:04:00 PM,MySugr,104,mg/dL,
-2018-02-10,01:42:00 AM,OneTouch,90,mg/dL,
-2018-02-10,01:42:00 AM,MySugr,90,mg/dL,
-2018-02-10,09:38:00 AM,OneTouch,88,mg/dL,Before Meal
-2018-02-10,09:38:00 AM,MySugr,88,mg/dL,
-2018-02-10,02:00:00 PM,OneTouch,112,mg/dL,
-2018-02-10,02:00:00 PM,MySugr,112,mg/dL,
-2018-02-10,04:09:00 PM,OneTouch,76,mg/dL,Before Meal
-2018-02-10,04:09:00 PM,MySugr,76,mg/dL,
-2018-02-11,02:13:00 AM,OneTouch,127,mg/dL,
-2018-02-11,02:13:00 AM,MySugr,127,mg/dL,
-2018-02-11,01:00:00 PM,OneTouch,130,mg/dL,Before Meal
-2018-02-11,01:00:00 PM,MySugr,130,mg/dL,
-2018-02-11,06:08:00 PM,OneTouch,103,mg/dL,Before Meal
-2018-02-11,06:08:00 PM,MySugr,103,mg/dL,
-2018-02-12,12:38:00 AM,OneTouch,124,mg/dL,
-2018-02-12,12:38:00 AM,MySugr,124,mg/dL,
-2018-02-12,07:40:00 AM,OneTouch,133,mg/dL,
-2018-02-12,07:40:00 AM,MySugr,133,mg/dL,
-2018-02-12,12:31:00 PM,OneTouch,86,mg/dL,Before Meal
-2018-02-12,12:31:00 PM,MySugr,86,mg/dL,
-2018-02-12,07:10:00 PM,OneTouch,101,mg/dL,Before Meal
-2018-02-12,07:10:00 PM,MySugr,101,mg/dL,
-2018-02-13,12:15:00 AM,OneTouch,108,mg/dL,
-2018-02-13,12:15:00 AM,MySugr,108,mg/dL,
-2018-02-13,08:14:00 AM,OneTouch,125,mg/dL,Before Meal
-2018-02-13,08:14:00 AM,MySugr,125,mg/dL,
-2018-02-13,12:04:00 PM,OneTouch,105,mg/dL,
-2018-02-13,12:04:00 PM,MySugr,105,mg/dL,
-2018-02-13,12:05:00 PM,OneTouch,116,mg/dL,Before Meal
-2018-02-13,12:05:00 PM,MySugr,116,mg/dL,
-2018-02-13,07:16:00 PM,OneTouch,121,mg/dL,
-2018-02-13,07:16:00 PM,MySugr,121,mg/dL,
-2018-02-14,12:31:00 AM,OneTouch,167,mg/dL,
-2018-02-14,12:31:00 AM,MySugr,167,mg/dL,
-2018-02-14,01:46:00 AM,OneTouch,115,mg/dL,
-2018-02-14,01:46:00 AM,MySugr,115,mg/dL,
-2018-02-14,08:19:00 AM,OneTouch,101,mg/dL,
-2018-02-14,08:19:00 AM,MySugr,101,mg/dL,
-2018-02-14,12:32:00 PM,OneTouch,115,mg/dL,Before Meal
-2018-02-14,12:32:00 PM,MySugr,115,mg/dL,
-2018-02-14,07:28:00 PM,OneTouch,116,mg/dL,Before Meal
-2018-02-14,07:28:00 PM,MySugr,116,mg/dL,
-2018-02-15,12:56:00 AM,OneTouch,116,mg/dL,
-2018-02-15,12:56:00 AM,MySugr,116,mg/dL,
-2018-02-15,08:15:00 AM,OneTouch,119,mg/dL,Before Meal
-2018-02-15,08:15:00 AM,MySugr,119,mg/dL,
-2018-02-15,12:18:00 PM,OneTouch,114,mg/dL,Before Meal
-2018-02-15,12:18:00 PM,MySugr,114,mg/dL,
-2018-02-15,08:04:00 PM,OneTouch,106,mg/dL,
-2018-02-15,08:04:00 PM,MySugr,106,mg/dL,
-2018-02-16,12:33:00 AM,OneTouch,96,mg/dL,
-2018-02-16,12:33:00 AM,MySugr,96,mg/dL,
-2018-02-16,09:43:00 AM,OneTouch,107,mg/dL,Before Meal
-2018-02-16,09:43:00 AM,MySugr,107,mg/dL,
-2018-02-16,12:05:00 PM,OneTouch,104,mg/dL,Before Meal
-2018-02-16,12:05:00 PM,MySugr,104,mg/dL,
-2018-02-16,01:34:00 PM,OneTouch,110,mg/dL,
-2018-02-16,01:34:00 PM,MySugr,110,mg/dL,
-2018-02-16,08:06:00 PM,OneTouch,95,mg/dL,
-2018-02-16,08:06:00 PM,MySugr,95,mg/dL,
-2018-02-16,08:41:00 PM,OneTouch,68,mg/dL,
-2018-02-16,08:41:00 PM,MySugr,68,mg/dL,
-2018-02-17,01:40:00 AM,OneTouch,92,mg/dL,
-2018-02-17,01:40:00 AM,MySugr,92,mg/dL,
-2018-02-17,12:16:00 PM,OneTouch,85,mg/dL,
-2018-02-17,12:16:00 PM,MySugr,85,mg/dL,
-2018-02-17,03:42:00 PM,OneTouch,69,mg/dL,After Meal
-2018-02-17,03:42:00 PM,MySugr,69,mg/dL,
-2018-02-17,06:39:00 PM,OneTouch,124,mg/dL,
-2018-02-17,06:39:00 PM,MySugr,124,mg/dL,
-2018-02-18,02:10:00 AM,MySugr,115,mg/dL,
-2018-02-18,02:10:00 AM,OneTouch,115,mg/dL,
-2018-02-18,11:53:00 AM,MySugr,115,mg/dL,
-2018-02-18,11:53:00 AM,OneTouch,115,mg/dL,
-2018-02-18,05:17:00 PM,MySugr,85,mg/dL,
-2018-02-18,05:17:00 PM,OneTouch,85,mg/dL,
-2018-02-19,01:00:00 AM,MySugr,108,mg/dL,
-2018-02-19,01:00:00 AM,OneTouch,108,mg/dL,
-2018-02-19,08:19:00 AM,MySugr,116,mg/dL,
-2018-02-19,08:19:00 AM,OneTouch,116,mg/dL,Before Meal
-2018-02-19,10:44:00 AM,MySugr,106,mg/dL,
-2018-02-19,10:44:00 AM,OneTouch,106,mg/dL,
-2018-02-19,10:45:00 AM,MySugr,109,mg/dL,
-2018-02-19,10:45:00 AM,OneTouch,109,mg/dL,
-2018-02-19,03:31:00 PM,MySugr,89,mg/dL,
-2018-02-19,03:31:00 PM,OneTouch,89,mg/dL,After Meal
-2018-02-19,07:39:00 PM,MySugr,119,mg/dL,
-2018-02-19,07:39:00 PM,OneTouch,119,mg/dL,Before Meal
-2018-02-20,12:53:00 AM,MySugr,92,mg/dL,
-2018-02-20,12:53:00 AM,OneTouch,92,mg/dL,
-2018-02-20,08:15:00 AM,MySugr,91,mg/dL,
-2018-02-20,08:15:00 AM,OneTouch,91,mg/dL,
-2018-02-20,12:04:00 PM,MySugr,98,mg/dL,
-2018-02-20,12:04:00 PM,OneTouch,98,mg/dL,Before Meal
-2018-02-20,07:18:00 PM,MySugr,103,mg/dL,
-2018-02-20,07:18:00 PM,OneTouch,103,mg/dL,
-2018-02-21,12:45:00 AM,MySugr,118,mg/dL,
-2018-02-21,12:45:00 AM,OneTouch,118,mg/dL,
-2018-02-21,09:12:00 AM,MySugr,104,mg/dL,
-2018-02-21,09:12:00 AM,OneTouch,104,mg/dL,Before Meal
-2018-02-21,12:02:00 PM,MySugr,103,mg/dL,
-2018-02-21,12:02:00 PM,OneTouch,103,mg/dL,
-2018-02-21,08:35:00 PM,MySugr,109,mg/dL,
-2018-02-21,08:35:00 PM,OneTouch,109,mg/dL,Before Meal
-2018-02-22,12:58:00 AM,MySugr,95,mg/dL,
-2018-02-22,12:58:00 AM,OneTouch,95,mg/dL,
-2018-02-22,08:30:00 AM,MySugr,101,mg/dL,
-2018-02-22,08:30:00 AM,OneTouch,101,mg/dL,Before Meal
-2018-02-22,12:00:00 PM,MySugr,93,mg/dL,
-2018-02-22,12:00:00 PM,OneTouch,93,mg/dL,Before Meal
-2018-02-22,07:23:00 PM,MySugr,81,mg/dL,
-2018-02-22,07:23:00 PM,OneTouch,81,mg/dL,Before Meal
-2018-02-23,12:46:00 AM,MySugr,109,mg/dL,
-2018-02-23,12:46:00 AM,OneTouch,109,mg/dL,
-2018-02-23,08:36:00 AM,MySugr,113,mg/dL,
-2018-02-23,08:36:00 AM,OneTouch,113,mg/dL,Before Meal
-2018-02-23,12:16:00 PM,MySugr,102,mg/dL,
-2018-02-23,12:16:00 PM,OneTouch,102,mg/dL,Before Meal
-2018-02-23,08:14:00 PM,MySugr,87,mg/dL,
-2018-02-23,08:14:00 PM,OneTouch,87,mg/dL,Before Meal
-2018-02-24,12:37:00 AM,MySugr,84,mg/dL,
-2018-02-24,12:37:00 AM,OneTouch,84,mg/dL,
-2018-02-24,08:28:00 AM,MySugr,111,mg/dL,
-2018-02-24,08:28:00 AM,OneTouch,111,mg/dL,
-2018-02-24,01:06:00 PM,MySugr,87,mg/dL,
-2018-02-24,01:06:00 PM,OneTouch,87,mg/dL,
-2018-02-24,05:12:00 PM,MySugr,73,mg/dL,
-2018-02-24,05:12:00 PM,OneTouch,73,mg/dL,
-2018-02-24,09:31:00 PM,MySugr,72,mg/dL,
-2018-02-24,09:31:00 PM,OneTouch,72,mg/dL,
-2018-02-24,09:51:00 PM,MySugr,68,mg/dL,
-2018-02-24,09:51:00 PM,OneTouch,68,mg/dL,
-2018-02-25,01:04:00 AM,MySugr,116,mg/dL,
-2018-02-25,01:04:00 AM,OneTouch,116,mg/dL,
-2018-02-25,08:32:00 AM,MySugr,104,mg/dL,
-2018-02-25,08:32:00 AM,OneTouch,104,mg/dL,
-2018-02-25,02:11:00 PM,MySugr,82,mg/dL,
-2018-02-25,02:11:00 PM,OneTouch,82,mg/dL,Before Meal
-2018-02-25,07:26:00 PM,MySugr,132,mg/dL,
-2018-02-25,07:26:00 PM,OneTouch,132,mg/dL,
-2018-02-26,12:58:00 AM,MySugr,119,mg/dL,
-2018-02-26,12:58:00 AM,OneTouch,119,mg/dL,
-2018-02-26,08:41:00 AM,MySugr,135,mg/dL,
-2018-02-26,08:41:00 AM,MySugr,120,mg/dL,
-2018-02-26,08:41:00 AM,OneTouch,120,mg/dL,
-2018-02-26,08:41:00 AM,OneTouch,135,mg/dL,
-2018-02-26,12:38:00 PM,MySugr,114,mg/dL,
-2018-02-26,12:38:00 PM,OneTouch,114,mg/dL,Before Meal
-2018-02-26,08:05:00 PM,MySugr,121,mg/dL,
-2018-02-26,08:05:00 PM,OneTouch,121,mg/dL,Before Meal
-2018-02-27,01:09:00 AM,MySugr,129,mg/dL,
-2018-02-27,01:09:00 AM,OneTouch,129,mg/dL,
-2018-02-27,08:25:00 AM,MySugr,119,mg/dL,
-2018-02-27,08:25:00 AM,OneTouch,119,mg/dL,Before Meal
-2018-02-27,12:02:00 PM,MySugr,108,mg/dL,
-2018-02-27,12:02:00 PM,OneTouch,108,mg/dL,Before Meal
-2018-02-27,06:52:00 PM,MySugr,95,mg/dL,
-2018-02-27,06:52:00 PM,OneTouch,95,mg/dL,Before Meal
-2018-02-28,12:29:00 AM,MySugr,139,mg/dL,
-2018-02-28,12:29:00 AM,OneTouch,139,mg/dL,
-2018-02-28,08:22:00 AM,MySugr,87,mg/dL,
-2018-02-28,08:22:00 AM,OneTouch,87,mg/dL,
-2018-02-28,12:52:00 PM,MySugr,82,mg/dL,
-2018-02-28,12:52:00 PM,OneTouch,82,mg/dL,Before Meal
-2018-02-28,08:17:00 PM,MySugr,95,mg/dL,
-2018-02-28,08:17:00 PM,OneTouch,95,mg/dL,Before Meal
-2018-03-01,01:29:00 AM,MySugr,128,mg/dL,
-2018-03-01,01:29:00 AM,OneTouch,128,mg/dL,
-2018-03-01,08:07:00 AM,MySugr,112,mg/dL,
-2018-03-01,08:07:00 AM,OneTouch,112,mg/dL,Before Meal
-2018-03-01,12:20:00 PM,MySugr,102,mg/dL,
-2018-03-01,12:20:00 PM,OneTouch,102,mg/dL,Before Meal
-2018-03-01,07:05:00 PM,MySugr,97,mg/dL,
-2018-03-01,07:05:00 PM,OneTouch,97,mg/dL,
-2018-03-02,01:45:00 AM,MySugr,138,mg/dL,
-2018-03-02,01:45:00 AM,OneTouch,138,mg/dL,
-2018-03-02,08:29:00 AM,MySugr,105,mg/dL,
-2018-03-02,08:29:00 AM,OneTouch,105,mg/dL,Before Meal
-2018-03-02,12:31:00 PM,MySugr,98,mg/dL,
-2018-03-02,12:31:00 PM,OneTouch,98,mg/dL,Before Meal
-2018-03-02,06:07:00 PM,MySugr,82,mg/dL,
-2018-03-02,06:07:00 PM,OneTouch,82,mg/dL,Before Meal
-2018-03-02,09:59:00 PM,MySugr,86,mg/dL,
-2018-03-02,09:59:00 PM,OneTouch,86,mg/dL,
-2018-03-03,01:11:00 AM,MySugr,112,mg/dL,
-2018-03-03,01:11:00 AM,OneTouch,112,mg/dL,
-2018-03-03,11:48:00 AM,MySugr,120,mg/dL,
-2018-03-03,11:48:00 AM,OneTouch,120,mg/dL,Before Meal
-2018-03-03,06:44:00 PM,MySugr,98,mg/dL,
-2018-03-03,06:44:00 PM,OneTouch,98,mg/dL,Before Meal
-2018-03-04,12:52:00 AM,MySugr,111,mg/dL,
-2018-03-04,12:52:00 AM,OneTouch,111,mg/dL,
-2018-03-04,11:56:00 AM,MySugr,103,mg/dL,
-2018-03-04,11:56:00 AM,OneTouch,103,mg/dL,
-2018-03-04,03:08:00 PM,MySugr,93,mg/dL,
-2018-03-04,03:08:00 PM,OneTouch,93,mg/dL,
-2018-03-05,12:56:00 AM,MySugr,131,mg/dL,
-2018-03-05,12:56:00 AM,OneTouch,131,mg/dL,
-2018-03-05,12:57:00 AM,MySugr,144,mg/dL,
-2018-03-05,12:57:00 AM,OneTouch,144,mg/dL,
-2018-03-05,01:50:00 AM,MySugr,88,mg/dL,
-2018-03-05,01:50:00 AM,OneTouch,88,mg/dL,
-2018-03-05,05:07:00 AM,MySugr,67,mg/dL,
-2018-03-05,05:07:00 AM,OneTouch,67,mg/dL,
-2018-03-05,12:07:00 PM,MySugr,93,mg/dL,
-2018-03-05,12:07:00 PM,OneTouch,93,mg/dL,Before Meal
-2018-03-05,07:36:00 PM,MySugr,100,mg/dL,
-2018-03-05,07:36:00 PM,OneTouch,100,mg/dL,Before Meal
-2018-03-06,12:23:00 AM,MySugr,117,mg/dL,
-2018-03-06,12:23:00 AM,OneTouch,117,mg/dL,
-2018-03-06,08:29:00 AM,MySugr,105,mg/dL,
-2018-03-06,08:29:00 AM,OneTouch,105,mg/dL,Before Meal
-2018-03-06,12:20:00 PM,MySugr,90,mg/dL,
-2018-03-06,12:20:00 PM,OneTouch,90,mg/dL,Before Meal
-2018-03-06,08:13:00 PM,MySugr,96,mg/dL,
-2018-03-06,08:13:00 PM,OneTouch,96,mg/dL,Before Meal
-2018-03-07,12:48:00 AM,MySugr,109,mg/dL,
-2018-03-07,12:48:00 AM,OneTouch,109,mg/dL,
-2018-03-07,08:23:00 AM,MySugr,133,mg/dL,
-2018-03-07,08:23:00 AM,OneTouch,133,mg/dL,
-2018-03-07,12:21:00 PM,MySugr,93,mg/dL,
-2018-03-07,12:21:00 PM,OneTouch,93,mg/dL,
-2018-03-07,08:05:00 PM,MySugr,84,mg/dL,
-2018-03-07,08:05:00 PM,OneTouch,84,mg/dL,Before Meal
-2018-03-08,01:05:00 AM,MySugr,116,mg/dL,
-2018-03-08,01:05:00 AM,OneTouch,116,mg/dL,
-2018-03-08,08:29:00 AM,MySugr,86,mg/dL,
-2018-03-08,08:29:00 AM,OneTouch,86,mg/dL,
-2018-03-08,12:06:00 PM,MySugr,103,mg/dL,
-2018-03-08,12:06:00 PM,OneTouch,103,mg/dL,
-2018-03-08,08:58:00 PM,MySugr,107,mg/dL,
-2018-03-08,08:58:00 PM,OneTouch,107,mg/dL,
-2018-03-09,12:33:00 PM,MySugr,124,mg/dL,
-2018-03-09,12:33:00 PM,OneTouch,124,mg/dL,
-2018-03-09,05:31:00 PM,MySugr,101,mg/dL,
-2018-03-09,05:31:00 PM,OneTouch,101,mg/dL,
-2018-03-09,10:57:00 PM,MySugr,135,mg/dL,
-2018-03-09,10:57:00 PM,OneTouch,135,mg/dL,
-2018-03-10,02:17:00 AM,MySugr,114,mg/dL,
-2018-03-10,02:17:00 AM,OneTouch,114,mg/dL,
-2018-03-10,11:21:00 AM,MySugr,72,mg/dL,
-2018-03-10,11:21:00 AM,OneTouch,72,mg/dL,
-2018-03-10,07:40:00 PM,MySugr,92,mg/dL,
-2018-03-10,07:40:00 PM,OneTouch,92,mg/dL,
-2018-03-10,11:52:00 PM,MySugr,119,mg/dL,
-2018-03-10,11:52:00 PM,OneTouch,119,mg/dL,
-2018-03-11,01:43:00 AM,MySugr,83,mg/dL,
-2018-03-11,01:43:00 AM,OneTouch,83,mg/dL,
-2018-03-11,12:14:00 PM,MySugr,84,mg/dL,
-2018-03-11,12:14:00 PM,OneTouch,84,mg/dL,
-2018-03-11,02:23:00 PM,MySugr,99,mg/dL,
-2018-03-11,02:23:00 PM,OneTouch,99,mg/dL,Before Meal
-2018-03-11,02:24:00 PM,MySugr,97,mg/dL,
-2018-03-11,02:24:00 PM,OneTouch,97,mg/dL,
-2018-03-11,07:36:00 PM,MySugr,83,mg/dL,
-2018-03-11,07:36:00 PM,OneTouch,83,mg/dL,Before Meal
-2018-03-12,02:46:00 AM,MySugr,121,mg/dL,
-2018-03-12,02:46:00 AM,OneTouch,121,mg/dL,
-2018-03-12,09:42:00 AM,MySugr,90,mg/dL,
-2018-03-12,09:42:00 AM,OneTouch,90,mg/dL,
-2018-03-12,12:14:00 PM,MySugr,112,mg/dL,
-2018-03-12,12:14:00 PM,OneTouch,112,mg/dL,Before Meal
-2018-03-12,03:09:00 PM,MySugr,120,mg/dL,
-2018-03-12,03:09:00 PM,OneTouch,120,mg/dL,
-2018-03-12,07:58:00 PM,MySugr,93,mg/dL,
-2018-03-12,07:58:00 PM,OneTouch,93,mg/dL,
-2018-03-13,01:34:00 AM,MySugr,102,mg/dL,
-2018-03-13,01:34:00 AM,OneTouch,102,mg/dL,
-2018-03-13,08:31:00 AM,MySugr,102,mg/dL,
-2018-03-13,08:31:00 AM,OneTouch,102,mg/dL,Before Meal
-2018-03-13,11:54:00 AM,MySugr,86,mg/dL,
-2018-03-13,11:54:00 AM,OneTouch,86,mg/dL,
-2018-03-13,07:29:00 PM,MySugr,97,mg/dL,
-2018-03-13,07:29:00 PM,OneTouch,97,mg/dL,Before Meal
-2018-03-14,12:09:00 AM,MySugr,108,mg/dL,
-2018-03-14,12:09:00 AM,OneTouch,108,mg/dL,
-2018-03-14,08:15:00 AM,MySugr,73,mg/dL,
-2018-03-14,08:15:00 AM,OneTouch,73,mg/dL,Before Meal
-2018-03-14,12:06:00 PM,MySugr,99,mg/dL,
-2018-03-14,12:06:00 PM,OneTouch,99,mg/dL,Before Meal
-2018-03-14,09:50:00 PM,MySugr,93,mg/dL,
-2018-03-14,09:50:00 PM,MySugr,101,mg/dL,
-2018-03-14,09:50:00 PM,OneTouch,93,mg/dL,
-2018-03-14,09:50:00 PM,OneTouch,101,mg/dL,
-2018-03-15,06:15:00 AM,MySugr,73,mg/dL,
-2018-03-15,06:15:00 AM,OneTouch,73,mg/dL,
-2018-03-15,12:34:00 PM,MySugr,86,mg/dL,
-2018-03-15,12:34:00 PM,OneTouch,86,mg/dL,
-2018-03-15,04:34:00 PM,MySugr,86,mg/dL,
-2018-03-15,04:34:00 PM,OneTouch,86,mg/dL,
-2018-03-15,09:02:00 PM,MySugr,98,mg/dL,
-2018-03-15,09:02:00 PM,OneTouch,98,mg/dL,Before Meal
-2018-03-16,02:23:00 AM,MySugr,103,mg/dL,
-2018-03-16,02:23:00 AM,OneTouch,103,mg/dL,
-2018-03-16,09:14:00 AM,MySugr,78,mg/dL,
-2018-03-16,09:14:00 AM,OneTouch,78,mg/dL,Before Meal
-2018-03-16,12:26:00 PM,MySugr,94,mg/dL,
-2018-03-16,12:26:00 PM,OneTouch,94,mg/dL,Before Meal
-2018-03-16,08:05:00 PM,MySugr,78,mg/dL,
-2018-03-16,08:05:00 PM,OneTouch,78,mg/dL,
-2018-03-17,12:50:00 AM,MySugr,86,mg/dL,
-2018-03-17,12:50:00 AM,OneTouch,86,mg/dL,
-2018-03-17,12:18:00 PM,MySugr,105,mg/dL,
-2018-03-17,12:18:00 PM,OneTouch,105,mg/dL,Before Meal
-2018-03-17,08:55:00 PM,MySugr,95,mg/dL,
-2018-03-17,08:55:00 PM,OneTouch,95,mg/dL,
-2018-03-18,12:24:00 AM,MySugr,145,mg/dL,
-2018-03-18,12:24:00 AM,OneTouch,145,mg/dL,
-2018-03-18,12:17:00 PM,MySugr,93,mg/dL,
-2018-03-18,12:17:00 PM,OneTouch,93,mg/dL,
-2018-03-18,04:01:00 PM,MySugr,131,mg/dL,
-2018-03-18,04:01:00 PM,OneTouch,131,mg/dL,
-2018-03-18,08:30:00 PM,MySugr,69,mg/dL,
-2018-03-18,08:30:00 PM,OneTouch,69,mg/dL,
-2018-03-19,12:55:00 AM,MySugr,176,mg/dL,
-2018-03-19,12:55:00 AM,OneTouch,176,mg/dL,
-2018-03-19,08:16:00 AM,MySugr,134,mg/dL,
-2018-03-19,08:16:00 AM,OneTouch,134,mg/dL,Before Meal
-2018-03-19,12:02:00 PM,MySugr,123,mg/dL,
-2018-03-19,12:02:00 PM,OneTouch,123,mg/dL,Before Meal
-2018-03-19,07:35:00 PM,MySugr,126,mg/dL,
-2018-03-19,07:35:00 PM,OneTouch,126,mg/dL,
-2018-03-20,01:47:00 AM,MySugr,103,mg/dL,
-2018-03-20,01:47:00 AM,OneTouch,103,mg/dL,
-2018-03-20,08:16:00 AM,MySugr,118,mg/dL,
-2018-03-20,08:16:00 AM,OneTouch,118,mg/dL,Before Meal
-2018-03-20,11:55:00 AM,MySugr,106,mg/dL,
-2018-03-20,11:55:00 AM,OneTouch,106,mg/dL,
-2018-03-20,07:12:00 PM,MySugr,88,mg/dL,
-2018-03-20,07:12:00 PM,OneTouch,88,mg/dL,
-2018-03-20,10:22:00 PM,MySugr,109,mg/dL,
-2018-03-20,10:22:00 PM,OneTouch,109,mg/dL,
-2018-03-21,08:29:00 AM,MySugr,98,mg/dL,
-2018-03-21,08:29:00 AM,MySugr,108,mg/dL,
-2018-03-21,08:29:00 AM,OneTouch,98,mg/dL,
-2018-03-21,08:29:00 AM,OneTouch,108,mg/dL,Before Meal
-2018-03-21,12:02:00 PM,MySugr,109,mg/dL,
-2018-03-21,12:02:00 PM,OneTouch,109,mg/dL,
-2018-03-21,07:27:00 PM,MySugr,109,mg/dL,
-2018-03-21,07:27:00 PM,OneTouch,109,mg/dL,
-2018-03-22,12:37:00 AM,MySugr,123,mg/dL,
-2018-03-22,12:37:00 AM,OneTouch,123,mg/dL,
-2018-03-22,08:33:00 AM,MySugr,109,mg/dL,
-2018-03-22,08:33:00 AM,OneTouch,109,mg/dL,Before Meal
-2018-03-22,11:14:00 AM,MySugr,117,mg/dL,
-2018-03-22,11:14:00 AM,OneTouch,117,mg/dL,
-2018-03-22,08:17:00 PM,MySugr,120,mg/dL,
-2018-03-22,08:17:00 PM,OneTouch,120,mg/dL,Before Meal
-2018-03-23,12:24:00 AM,MySugr,139,mg/dL,
-2018-03-23,12:24:00 AM,OneTouch,139,mg/dL,
-2018-03-23,08:30:00 AM,MySugr,116,mg/dL,
-2018-03-23,08:30:00 AM,OneTouch,116,mg/dL,Before Meal
-2018-03-23,12:25:00 PM,MySugr,100,mg/dL,
-2018-03-23,12:25:00 PM,OneTouch,100,mg/dL,Before Meal
-2018-03-23,08:02:00 PM,MySugr,103,mg/dL,
-2018-03-23,08:02:00 PM,OneTouch,103,mg/dL,
-2018-03-23,10:28:00 PM,MySugr,133,mg/dL,
-2018-03-23,10:28:00 PM,MySugr,123,mg/dL,
-2018-03-23,10:28:00 PM,OneTouch,133,mg/dL,
-2018-03-23,10:28:00 PM,OneTouch,123,mg/dL,
-2018-03-24,01:35:00 AM,MySugr,149,mg/dL,
-2018-03-24,01:35:00 AM,OneTouch,149,mg/dL,
-2018-03-24,10:17:00 AM,MySugr,105,mg/dL,
-2018-03-24,10:17:00 AM,OneTouch,105,mg/dL,
-2018-03-24,10:26:00 AM,MySugr,114,mg/dL,
-2018-03-24,10:26:00 AM,OneTouch,114,mg/dL,
-2018-03-24,04:35:00 PM,MySugr,91,mg/dL,
-2018-03-24,04:35:00 PM,OneTouch,91,mg/dL,
-2018-03-24,07:19:00 PM,MySugr,75,mg/dL,
-2018-03-24,07:19:00 PM,OneTouch,75,mg/dL,Before Meal
-2018-03-24,11:57:00 PM,MySugr,108,mg/dL,
-2018-03-24,11:57:00 PM,OneTouch,108,mg/dL,
-2018-03-25,12:14:00 PM,MySugr,82,mg/dL,
-2018-03-25,12:14:00 PM,OneTouch,82,mg/dL,Before Meal
-2018-03-25,08:11:00 PM,MySugr,129,mg/dL,
-2018-03-25,08:11:00 PM,OneTouch,129,mg/dL,
-2018-03-25,11:40:00 PM,MySugr,131,mg/dL,
-2018-03-25,11:40:00 PM,OneTouch,131,mg/dL,
-2018-03-26,01:24:00 AM,MySugr,142,mg/dL,
-2018-03-26,01:24:00 AM,OneTouch,142,mg/dL,
-2018-03-26,08:31:00 AM,MySugr,114,mg/dL,
-2018-03-26,08:31:00 AM,OneTouch,114,mg/dL,
-2018-03-26,12:01:00 PM,MySugr,116,mg/dL,
-2018-03-26,12:01:00 PM,OneTouch,116,mg/dL,
-2018-03-26,07:40:00 PM,MySugr,142,mg/dL,
-2018-03-26,07:40:00 PM,OneTouch,142,mg/dL,
-2018-03-27,12:18:00 AM,MySugr,136,mg/dL,
-2018-03-27,12:18:00 AM,OneTouch,136,mg/dL,
-2018-03-27,08:09:00 AM,MySugr,115,mg/dL,
-2018-03-27,08:09:00 AM,OneTouch,115,mg/dL,Before Meal
-2018-03-27,12:20:00 PM,MySugr,138,mg/dL,
-2018-03-27,12:20:00 PM,OneTouch,138,mg/dL,
-2018-03-27,12:23:00 PM,MySugr,136,mg/dL,
-2018-03-27,12:23:00 PM,OneTouch,136,mg/dL,
-2018-03-27,07:05:00 PM,MySugr,105,mg/dL,
-2018-03-27,07:05:00 PM,OneTouch,105,mg/dL,Before Meal
-2018-03-28,12:04:00 AM,MySugr,121,mg/dL,
-2018-03-28,12:04:00 AM,OneTouch,121,mg/dL,
-2018-03-28,08:21:00 AM,MySugr,99,mg/dL,
-2018-03-28,08:21:00 AM,OneTouch,99,mg/dL,Before Meal
-2018-03-28,11:52:00 AM,MySugr,115,mg/dL,
-2018-03-28,11:52:00 AM,OneTouch,115,mg/dL,Before Meal
-2018-03-28,07:42:00 PM,MySugr,102,mg/dL,
-2018-03-28,07:42:00 PM,OneTouch,102,mg/dL,Before Meal
-2018-03-29,01:20:00 AM,MySugr,90,mg/dL,
-2018-03-29,01:20:00 AM,OneTouch,90,mg/dL,
-2018-03-29,11:03:00 AM,MySugr,109,mg/dL,
-2018-03-29,11:03:00 AM,OneTouch,109,mg/dL,Before Meal
-2018-03-29,02:18:00 PM,MySugr,142,mg/dL,
-2018-03-29,02:18:00 PM,OneTouch,142,mg/dL,
-2018-03-29,07:57:00 PM,MySugr,91,mg/dL,
-2018-03-29,07:57:00 PM,OneTouch,91,mg/dL,
-2018-03-30,01:20:00 AM,MySugr,122,mg/dL,
-2018-03-30,01:20:00 AM,OneTouch,122,mg/dL,
-2018-03-30,10:19:00 AM,MySugr,130,mg/dL,
-2018-03-30,10:19:00 AM,OneTouch,130,mg/dL,
-2018-03-30,06:19:00 PM,MySugr,114,mg/dL,
-2018-03-30,06:19:00 PM,MySugr,113,mg/dL,
-2018-03-30,06:19:00 PM,OneTouch,113,mg/dL,
-2018-03-30,06:19:00 PM,OneTouch,114,mg/dL,Before Meal
-2018-03-31,02:39:00 AM,MySugr,144,mg/dL,
-2018-03-31,02:39:00 AM,OneTouch,144,mg/dL,
-2018-03-31,11:00:00 AM,MySugr,119,mg/dL,
-2018-03-31,11:00:00 AM,OneTouch,119,mg/dL,Before Meal
-2018-03-31,03:38:00 PM,MySugr,152,mg/dL,
-2018-03-31,03:38:00 PM,OneTouch,152,mg/dL,
-2018-03-31,08:12:00 PM,MySugr,101,mg/dL,
-2018-03-31,08:12:00 PM,OneTouch,101,mg/dL,Before Meal
-2018-03-31,10:50:00 PM,MySugr,85,mg/dL,
-2018-03-31,10:50:00 PM,OneTouch,85,mg/dL,
-2018-04-01,02:56:00 AM,MySugr,81,mg/dL,
-2018-04-01,02:56:00 AM,OneTouch,81,mg/dL,
-2018-04-01,12:35:00 PM,MySugr,98,mg/dL,
-2018-04-01,12:35:00 PM,OneTouch,98,mg/dL,
-2018-04-01,04:41:00 PM,MySugr,104,mg/dL,
-2018-04-01,04:41:00 PM,OneTouch,104,mg/dL,
-2018-04-01,09:00:00 PM,MySugr,131,mg/dL,
-2018-04-01,09:00:00 PM,OneTouch,131,mg/dL,
-2018-04-02,01:51:00 AM,MySugr,125,mg/dL,
-2018-04-02,01:51:00 AM,OneTouch,125,mg/dL,
-2018-04-02,10:01:00 AM,MySugr,114,mg/dL,
-2018-04-02,10:01:00 AM,OneTouch,114,mg/dL,
-2018-04-02,12:21:00 PM,MySugr,165,mg/dL,
-2018-04-02,12:21:00 PM,OneTouch,165,mg/dL,
-2018-04-02,12:26:00 PM,MySugr,150,mg/dL,
-2018-04-02,12:26:00 PM,OneTouch,150,mg/dL,Before Meal
-2018-04-02,07:29:00 PM,MySugr,90,mg/dL,
-2018-04-02,07:29:00 PM,MySugr,93,mg/dL,
-2018-04-02,07:29:00 PM,OneTouch,90,mg/dL,
-2018-04-02,07:29:00 PM,OneTouch,93,mg/dL,Before Meal
-2018-04-03,12:32:00 AM,MySugr,110,mg/dL,
-2018-04-03,12:32:00 AM,OneTouch,110,mg/dL,
-2018-04-03,09:24:00 AM,MySugr,107,mg/dL,
-2018-04-03,09:24:00 AM,OneTouch,107,mg/dL,Before Meal
-2018-04-03,01:04:00 PM,MySugr,122,mg/dL,
-2018-04-03,01:04:00 PM,OneTouch,122,mg/dL,
-2018-04-03,06:49:00 PM,MySugr,106,mg/dL,
-2018-04-03,06:49:00 PM,OneTouch,106,mg/dL,Before Meal
-2018-04-04,02:13:00 AM,MySugr,125,mg/dL,
-2018-04-04,02:13:00 AM,OneTouch,125,mg/dL,
-2018-04-04,06:19:00 AM,MySugr,73,mg/dL,
-2018-04-04,06:19:00 AM,OneTouch,73,mg/dL,
-2018-04-04,06:41:00 PM,MySugr,117,mg/dL,
-2018-04-04,06:41:00 PM,OneTouch,117,mg/dL,
-2018-04-05,01:29:00 AM,MySugr,97,mg/dL,
-2018-04-05,01:29:00 AM,OneTouch,97,mg/dL,
-2018-04-05,11:25:00 AM,MySugr,100,mg/dL,
-2018-04-05,11:25:00 AM,OneTouch,100,mg/dL,Before Meal
-2018-04-05,02:59:00 PM,MySugr,103,mg/dL,
-2018-04-05,02:59:00 PM,OneTouch,103,mg/dL,
-2018-04-05,07:04:00 PM,MySugr,107,mg/dL,
-2018-04-05,07:04:00 PM,OneTouch,107,mg/dL,Before Meal
-2018-04-06,02:12:00 AM,MySugr,113,mg/dL,
-2018-04-06,02:12:00 AM,OneTouch,113,mg/dL,
-2018-04-06,11:35:00 AM,MySugr,87,mg/dL,
-2018-04-06,11:35:00 AM,OneTouch,87,mg/dL,Before Meal
-2018-04-06,03:19:00 PM,MySugr,122,mg/dL,
-2018-04-06,03:19:00 PM,OneTouch,122,mg/dL,
-2018-04-06,06:36:00 PM,MySugr,107,mg/dL,
-2018-04-06,06:36:00 PM,OneTouch,107,mg/dL,Before Meal
-2018-04-07,01:19:00 AM,MySugr,84,mg/dL,
-2018-04-07,01:19:00 AM,OneTouch,84,mg/dL,
-2018-04-07,10:51:00 AM,MySugr,69,mg/dL,
-2018-04-07,10:51:00 AM,OneTouch,69,mg/dL,Before Meal
-2018-04-07,04:42:00 PM,MySugr,87,mg/dL,
-2018-04-07,04:42:00 PM,OneTouch,87,mg/dL,
-2018-04-07,11:03:00 PM,MySugr,102,mg/dL,
-2018-04-07,11:03:00 PM,OneTouch,102,mg/dL,After Meal
-2018-04-08,01:56:00 AM,MySugr,97,mg/dL,
-2018-04-08,01:56:00 AM,OneTouch,97,mg/dL,
-2018-04-08,08:35:00 AM,MySugr,86,mg/dL,
-2018-04-08,08:35:00 AM,OneTouch,86,mg/dL,
-2018-04-08,01:00:00 PM,MySugr,113,mg/dL,
-2018-04-08,01:00:00 PM,OneTouch,113,mg/dL,
-2018-04-08,07:02:00 PM,MySugr,96,mg/dL,
-2018-04-08,07:02:00 PM,OneTouch,96,mg/dL,Before Meal
-2018-04-08,10:19:00 PM,MySugr,120,mg/dL,
-2018-04-08,10:19:00 PM,OneTouch,120,mg/dL,
-2018-04-09,09:59:00 AM,MySugr,117,mg/dL,
-2018-04-09,09:59:00 AM,OneTouch,117,mg/dL,Before Meal
-2018-04-09,02:31:00 PM,MySugr,143,mg/dL,
-2018-04-09,02:31:00 PM,OneTouch,143,mg/dL,
-2018-04-09,07:33:00 PM,MySugr,83,mg/dL,
-2018-04-09,07:33:00 PM,OneTouch,83,mg/dL,
-2018-04-09,07:34:00 PM,MySugr,82,mg/dL,
-2018-04-09,07:34:00 PM,OneTouch,82,mg/dL,Before Meal
-2018-04-10,12:36:00 AM,MySugr,105,mg/dL,
-2018-04-10,12:36:00 AM,OneTouch,105,mg/dL,
-2018-04-10,08:44:00 AM,MySugr,102,mg/dL,
-2018-04-10,08:44:00 AM,OneTouch,102,mg/dL,
-2018-04-10,01:19:00 PM,MySugr,113,mg/dL,
-2018-04-10,01:19:00 PM,OneTouch,113,mg/dL,Before Meal
-2018-04-10,09:09:00 PM,MySugr,124,mg/dL,
-2018-04-10,09:09:00 PM,OneTouch,124,mg/dL,Before Meal
-2018-04-11,02:05:00 AM,MySugr,93,mg/dL,
-2018-04-11,02:05:00 AM,OneTouch,93,mg/dL,
-2018-04-11,11:29:00 AM,MySugr,109,mg/dL,
-2018-04-11,11:29:00 AM,OneTouch,109,mg/dL,Before Meal
-2018-04-11,04:09:00 PM,MySugr,82,mg/dL,
-2018-04-11,04:09:00 PM,OneTouch,82,mg/dL,Before Meal
-2018-04-11,11:38:00 PM,MySugr,107,mg/dL,
-2018-04-11,11:38:00 PM,OneTouch,107,mg/dL,
-2018-04-12,12:46:00 AM,MySugr,94,mg/dL,
-2018-04-12,12:46:00 AM,OneTouch,94,mg/dL,
-2018-04-12,08:36:00 AM,MySugr,70,mg/dL,
-2018-04-12,08:36:00 AM,OneTouch,70,mg/dL,Before Meal
-2018-04-12,12:03:00 PM,MySugr,124,mg/dL,
-2018-04-12,12:03:00 PM,OneTouch,124,mg/dL,Before Meal
-2018-04-12,08:10:00 PM,MySugr,91,mg/dL,
-2018-04-12,08:10:00 PM,OneTouch,91,mg/dL,Before Meal
-2018-04-13,12:15:00 AM,MySugr,89,mg/dL,
-2018-04-13,12:15:00 AM,OneTouch,89,mg/dL,
-2018-04-13,12:57:00 AM,MySugr,93,mg/dL,
-2018-04-13,12:57:00 AM,OneTouch,93,mg/dL,
-2018-04-13,07:46:00 AM,MySugr,91,mg/dL,
-2018-04-13,07:46:00 AM,OneTouch,91,mg/dL,Before Meal
-2018-04-13,11:54:00 AM,MySugr,118,mg/dL,
-2018-04-13,11:54:00 AM,OneTouch,118,mg/dL,Before Meal
-2018-04-13,07:35:00 PM,MySugr,106,mg/dL,
-2018-04-13,07:35:00 PM,OneTouch,106,mg/dL,Before Meal
-2018-04-14,01:04:00 AM,MySugr,102,mg/dL,
-2018-04-14,01:04:00 AM,OneTouch,102,mg/dL,
-2018-04-14,11:51:00 AM,MySugr,115,mg/dL,
-2018-04-14,11:51:00 AM,OneTouch,115,mg/dL,Before Meal
-2018-04-14,06:53:00 PM,MySugr,69,mg/dL,
-2018-04-14,06:53:00 PM,OneTouch,69,mg/dL,Before Meal
-2018-04-15,01:05:00 AM,MySugr,153,mg/dL,
-2018-04-15,01:05:00 AM,OneTouch,153,mg/dL,
-2018-04-15,02:07:00 AM,MySugr,55,mg/dL,
-2018-04-15,02:07:00 AM,OneTouch,55,mg/dL,
-2018-04-15,11:32:00 AM,MySugr,113,mg/dL,
-2018-04-15,11:32:00 AM,OneTouch,113,mg/dL,Before Meal
-2018-04-15,06:07:00 PM,MySugr,107,mg/dL,
-2018-04-15,06:07:00 PM,OneTouch,107,mg/dL,Before Meal
-2018-04-16,02:31:00 AM,MySugr,160,mg/dL,
-2018-04-16,02:31:00 AM,OneTouch,160,mg/dL,
-2018-04-16,10:49:00 AM,MySugr,135,mg/dL,
-2018-04-16,10:49:00 AM,OneTouch,135,mg/dL,Before Meal
-2018-04-16,05:14:00 PM,MySugr,108,mg/dL,
-2018-04-16,05:14:00 PM,OneTouch,108,mg/dL,
-2018-04-16,05:15:00 PM,MySugr,104,mg/dL,
-2018-04-16,05:15:00 PM,OneTouch,104,mg/dL,
-2018-04-17,01:43:00 AM,MySugr,125,mg/dL,
-2018-04-17,01:43:00 AM,OneTouch,125,mg/dL,
-2018-04-17,10:21:00 AM,MySugr,148,mg/dL,
-2018-04-17,10:21:00 AM,OneTouch,148,mg/dL,
-2018-04-17,02:25:00 PM,MySugr,144,mg/dL,
-2018-04-17,02:25:00 PM,OneTouch,144,mg/dL,
-2018-04-17,07:50:00 PM,MySugr,89,mg/dL,
-2018-04-17,07:50:00 PM,OneTouch,89,mg/dL,
-2018-04-17,10:28:00 PM,MySugr,103,mg/dL,
-2018-04-17,10:28:00 PM,OneTouch,103,mg/dL,
-2018-04-18,07:22:00 AM,MySugr,93,mg/dL,
-2018-04-18,07:22:00 AM,OneTouch,93,mg/dL,Before Meal
-2018-04-18,11:42:00 AM,MySugr,109,mg/dL,
-2018-04-18,11:42:00 AM,OneTouch,109,mg/dL,Before Meal
-2018-04-18,06:02:00 PM,MySugr,68,mg/dL,
-2018-04-18,06:02:00 PM,OneTouch,68,mg/dL,
-2018-04-18,07:39:00 PM,MySugr,89,mg/dL,
-2018-04-18,07:39:00 PM,OneTouch,89,mg/dL,Before Meal
-2018-04-19,01:31:00 AM,MySugr,96,mg/dL,
-2018-04-19,01:31:00 AM,OneTouch,96,mg/dL,
-2018-04-19,08:46:00 AM,MySugr,90,mg/dL,
-2018-04-19,08:46:00 AM,OneTouch,90,mg/dL,
-2018-04-19,12:23:00 PM,MySugr,120,mg/dL,
-2018-04-19,12:23:00 PM,OneTouch,120,mg/dL,Before Meal
-2018-04-19,02:06:00 PM,MySugr,135,mg/dL,
-2018-04-19,02:06:00 PM,OneTouch,135,mg/dL,
-2018-04-20,01:41:00 AM,MySugr,85,mg/dL,
-2018-04-20,01:41:00 AM,OneTouch,85,mg/dL,
-2018-04-20,09:08:00 AM,MySugr,85,mg/dL,
-2018-04-20,09:08:00 AM,OneTouch,85,mg/dL,
-2018-04-20,01:47:00 PM,MySugr,75,mg/dL,
-2018-04-20,01:47:00 PM,OneTouch,75,mg/dL,After Meal
-2018-04-20,07:06:00 PM,MySugr,100,mg/dL,
-2018-04-20,07:06:00 PM,OneTouch,100,mg/dL,Before Meal
-2018-04-20,08:47:00 PM,MySugr,73,mg/dL,
-2018-04-20,08:47:00 PM,OneTouch,73,mg/dL,After Meal
-2018-04-21,01:53:00 AM,MySugr,137,mg/dL,
-2018-04-21,01:53:00 AM,OneTouch,137,mg/dL,
-2018-04-21,11:44:00 AM,MySugr,105,mg/dL,
-2018-04-21,11:44:00 AM,OneTouch,105,mg/dL,Before Meal
-2018-04-21,02:54:00 PM,MySugr,84,mg/dL,
-2018-04-21,02:54:00 PM,OneTouch,84,mg/dL,After Meal
-2018-04-21,11:15:00 PM,MySugr,76,mg/dL,
-2018-04-21,11:15:00 PM,OneTouch,76,mg/dL,
-2018-04-22,01:29:00 AM,MySugr,104,mg/dL,
-2018-04-22,01:29:00 AM,OneTouch,104,mg/dL,
-2018-04-22,11:19:00 AM,MySugr,119,mg/dL,
-2018-04-22,11:19:00 AM,OneTouch,119,mg/dL,Before Meal
-2018-04-22,08:20:00 PM,MySugr,107,mg/dL,
-2018-04-22,08:20:00 PM,OneTouch,107,mg/dL,
-2018-04-23,12:22:00 AM,MySugr,90,mg/dL,
-2018-04-23,12:22:00 AM,OneTouch,90,mg/dL,
-2018-04-23,07:38:00 AM,MySugr,122,mg/dL,
-2018-04-23,07:38:00 AM,OneTouch,122,mg/dL,
-2018-04-23,01:17:00 PM,MySugr,125,mg/dL,
-2018-04-23,01:17:00 PM,OneTouch,125,mg/dL,
-2018-04-23,04:47:00 PM,MySugr,145,mg/dL,
-2018-04-23,04:47:00 PM,OneTouch,145,mg/dL,
-2018-04-23,04:48:00 PM,MySugr,131,mg/dL,
-2018-04-23,04:48:00 PM,OneTouch,131,mg/dL,
-2018-04-24,01:55:00 AM,MySugr,152,mg/dL,
-2018-04-24,01:55:00 AM,OneTouch,152,mg/dL,
-2018-04-24,11:12:00 AM,MySugr,137,mg/dL,
-2018-04-24,11:12:00 AM,OneTouch,137,mg/dL,
-2018-04-24,02:53:00 PM,MySugr,133,mg/dL,
-2018-04-24,02:53:00 PM,OneTouch,133,mg/dL,Before Meal
-2018-04-24,06:56:00 PM,MySugr,95,mg/dL,
-2018-04-24,06:56:00 PM,OneTouch,95,mg/dL,Before Meal
-2018-04-25,01:06:00 AM,MySugr,100,mg/dL,
-2018-04-25,01:06:00 AM,OneTouch,100,mg/dL,
-2018-04-25,11:28:00 AM,MySugr,119,mg/dL,
-2018-04-25,11:28:00 AM,OneTouch,119,mg/dL,
-2018-04-25,01:41:00 PM,MySugr,140,mg/dL,
-2018-04-25,01:41:00 PM,OneTouch,140,mg/dL,
-2018-04-25,07:46:00 PM,MySugr,101,mg/dL,
-2018-04-25,07:46:00 PM,OneTouch,101,mg/dL,
-2018-04-26,01:55:00 AM,MySugr,94,mg/dL,
-2018-04-26,01:55:00 AM,OneTouch,94,mg/dL,
-2018-04-26,11:18:00 AM,MySugr,106,mg/dL,
-2018-04-26,11:18:00 AM,OneTouch,106,mg/dL,
-2018-04-26,02:44:00 PM,MySugr,117,mg/dL,
-2018-04-26,02:44:00 PM,OneTouch,117,mg/dL,
-2018-04-26,06:26:00 PM,MySugr,109,mg/dL,
-2018-04-26,06:26:00 PM,OneTouch,109,mg/dL,
-2018-04-27,12:53:00 AM,MySugr,105,mg/dL,
-2018-04-27,12:53:00 AM,OneTouch,105,mg/dL,
-2018-04-27,07:37:00 AM,MySugr,102,mg/dL,
-2018-04-27,07:37:00 AM,OneTouch,102,mg/dL,Before Meal
-2018-04-27,12:19:00 PM,MySugr,135,mg/dL,
-2018-04-27,12:19:00 PM,OneTouch,135,mg/dL,Before Meal
-2018-04-27,07:50:00 PM,MySugr,90,mg/dL,
-2018-04-27,07:50:00 PM,OneTouch,90,mg/dL,Before Meal
-2018-04-28,01:38:00 AM,MySugr,102,mg/dL,
-2018-04-28,01:38:00 AM,OneTouch,102,mg/dL,
-2018-04-28,01:03:00 PM,MySugr,102,mg/dL,
-2018-04-28,01:03:00 PM,OneTouch,102,mg/dL,Before Meal
-2018-04-28,04:47:00 PM,MySugr,84,mg/dL,
-2018-04-28,04:47:00 PM,OneTouch,84,mg/dL,After Meal
-2018-04-28,08:55:00 PM,MySugr,107,mg/dL,
-2018-04-28,08:55:00 PM,OneTouch,107,mg/dL,Before Meal
-2018-04-29,02:23:00 AM,MySugr,154,mg/dL,
-2018-04-29,02:23:00 AM,OneTouch,154,mg/dL,
-2018-04-29,11:06:00 AM,MySugr,91,mg/dL,
-2018-04-29,11:06:00 AM,OneTouch,91,mg/dL,Before Meal
-2018-04-29,06:44:00 PM,MySugr,89,mg/dL,
-2018-04-29,06:44:00 PM,OneTouch,89,mg/dL,Before Meal
-2018-04-29,11:07:00 PM,MySugr,91,mg/dL,
-2018-04-29,11:07:00 PM,OneTouch,91,mg/dL,
-2018-04-30,08:22:00 AM,MySugr,101,mg/dL,
-2018-04-30,08:22:00 AM,OneTouch,101,mg/dL,Before Meal
-2018-04-30,11:12:00 AM,MySugr,128,mg/dL,
-2018-04-30,11:12:00 AM,OneTouch,128,mg/dL,
-2018-04-30,11:13:00 AM,MySugr,119,mg/dL,
-2018-04-30,11:13:00 AM,OneTouch,119,mg/dL,
-2018-04-30,06:48:00 PM,MySugr,116,mg/dL,
-2018-04-30,06:48:00 PM,OneTouch,116,mg/dL,Before Meal
-2018-05-01,01:07:00 AM,MySugr,106,mg/dL,
-2018-05-01,01:07:00 AM,OneTouch,106,mg/dL,
-2018-05-01,08:28:00 AM,MySugr,99,mg/dL,
-2018-05-01,08:28:00 AM,OneTouch,99,mg/dL,
-2018-05-01,12:30:00 PM,MySugr,96,mg/dL,
-2018-05-01,12:30:00 PM,OneTouch,96,mg/dL,Before Meal
-2018-05-01,08:08:00 PM,MySugr,107,mg/dL,
-2018-05-01,08:08:00 PM,OneTouch,107,mg/dL,
-2018-05-02,12:56:00 AM,MySugr,100,mg/dL,
-2018-05-02,12:56:00 AM,OneTouch,100,mg/dL,
-2018-05-02,08:28:00 AM,MySugr,121,mg/dL,
-2018-05-02,08:28:00 AM,OneTouch,121,mg/dL,Before Meal
-2018-05-02,12:17:00 PM,MySugr,97,mg/dL,
-2018-05-02,12:17:00 PM,OneTouch,97,mg/dL,
-2018-05-02,09:41:00 PM,MySugr,76,mg/dL,
-2018-05-02,09:41:00 PM,OneTouch,76,mg/dL,Before Meal
-2018-05-03,12:57:00 AM,MySugr,110,mg/dL,
-2018-05-03,12:57:00 AM,OneTouch,110,mg/dL,
-2018-05-03,08:29:00 AM,MySugr,115,mg/dL,
-2018-05-03,08:29:00 AM,OneTouch,115,mg/dL,Before Meal
-2018-05-03,10:00:00 AM,MySugr,138,mg/dL,
-2018-05-03,10:00:00 AM,OneTouch,138,mg/dL,
-2018-05-03,09:33:00 PM,MySugr,118,mg/dL,
-2018-05-03,09:33:00 PM,OneTouch,118,mg/dL,Before Meal
-2018-05-04,12:23:00 AM,MySugr,104,mg/dL,
-2018-05-04,12:23:00 AM,OneTouch,104,mg/dL,
-2018-05-04,08:21:00 AM,MySugr,111,mg/dL,
-2018-05-04,08:21:00 AM,OneTouch,111,mg/dL,Before Meal
-2018-05-04,11:53:00 AM,MySugr,109,mg/dL,
-2018-05-04,11:53:00 AM,OneTouch,109,mg/dL,Before Meal
-2018-05-04,08:28:00 PM,MySugr,94,mg/dL,
-2018-05-04,08:28:00 PM,OneTouch,94,mg/dL,Before Meal
-2018-05-05,12:07:00 AM,MySugr,79,mg/dL,
-2018-05-05,12:07:00 AM,OneTouch,79,mg/dL,
-2018-05-05,12:38:00 PM,MySugr,81,mg/dL,
-2018-05-05,12:38:00 PM,OneTouch,81,mg/dL,Before Meal
-2018-05-05,03:27:00 PM,MySugr,71,mg/dL,
-2018-05-05,03:27:00 PM,OneTouch,71,mg/dL,
-2018-05-05,09:23:00 PM,MySugr,100,mg/dL,
-2018-05-05,09:23:00 PM,OneTouch,100,mg/dL,
-2018-05-05,11:11:00 PM,MySugr,52,mg/dL,
-2018-05-05,11:11:00 PM,OneTouch,52,mg/dL,
-2018-05-06,01:38:00 AM,MySugr,140,mg/dL,
-2018-05-06,01:38:00 AM,OneTouch,140,mg/dL,
-2018-05-06,11:30:00 AM,MySugr,109,mg/dL,
-2018-05-06,11:30:00 AM,OneTouch,109,mg/dL,Before Meal
-2018-05-06,06:40:00 PM,MySugr,92,mg/dL,
-2018-05-06,06:40:00 PM,OneTouch,92,mg/dL,Before Meal
-2018-05-06,09:46:00 PM,MySugr,157,mg/dL,
-2018-05-06,09:46:00 PM,OneTouch,157,mg/dL,After Meal
-2018-05-07,01:48:00 AM,MySugr,114,mg/dL,
 2018-05-07,01:48:00 AM,OneTouch,114,mg/dL,
-2018-05-07,08:28:00 AM,MySugr,99,mg/dL,
+2018-05-07,01:48:00 AM,MySugr,114,mg/dL,
 2018-05-07,08:28:00 AM,OneTouch,99,mg/dL,Before Meal
-2018-05-07,10:46:00 AM,MySugr,158,mg/dL,
-2018-05-07,10:46:00 AM,MySugr,171,mg/dL,
+2018-05-07,08:28:00 AM,MySugr,99,mg/dL,
 2018-05-07,10:46:00 AM,OneTouch,158,mg/dL,After Meal
 2018-05-07,10:46:00 AM,OneTouch,171,mg/dL,
-2018-05-07,07:17:00 PM,MySugr,97,mg/dL,
+2018-05-07,10:46:00 AM,MySugr,171,mg/dL,
+2018-05-07,10:46:00 AM,MySugr,158,mg/dL,
 2018-05-07,07:17:00 PM,OneTouch,97,mg/dL,Before Meal
-2018-05-07,10:59:00 PM,MySugr,93,mg/dL,
+2018-05-07,07:17:00 PM,MySugr,97,mg/dL,
 2018-05-07,10:59:00 PM,OneTouch,93,mg/dL,
-2018-05-08,01:09:00 AM,MySugr,101,mg/dL,
+2018-05-07,10:59:00 PM,MySugr,93,mg/dL,
 2018-05-08,01:09:00 AM,OneTouch,101,mg/dL,
-2018-05-08,08:26:00 AM,MySugr,132,mg/dL,
+2018-05-08,01:09:00 AM,MySugr,101,mg/dL,
 2018-05-08,08:26:00 AM,OneTouch,132,mg/dL,
-2018-05-08,12:19:00 PM,MySugr,120,mg/dL,
+2018-05-08,08:26:00 AM,MySugr,132,mg/dL,
 2018-05-08,12:19:00 PM,OneTouch,120,mg/dL,Before Meal
-2018-05-08,08:02:00 PM,MySugr,104,mg/dL,
+2018-05-08,12:19:00 PM,MySugr,120,mg/dL,
 2018-05-08,08:02:00 PM,OneTouch,104,mg/dL,Before Meal
-2018-05-08,11:15:00 PM,MySugr,93,mg/dL,
+2018-05-08,08:02:00 PM,MySugr,104,mg/dL,
 2018-05-08,11:15:00 PM,OneTouch,93,mg/dL,
-2018-05-09,06:49:00 AM,MySugr,108,mg/dL,
+2018-05-08,11:15:00 PM,MySugr,93,mg/dL,
 2018-05-09,06:49:00 AM,OneTouch,108,mg/dL,
-2018-05-09,07:13:00 PM,MySugr,87,mg/dL,
+2018-05-09,06:49:00 AM,MySugr,108,mg/dL,
 2018-05-09,07:13:00 PM,OneTouch,87,mg/dL,Before Meal
-2018-05-10,01:16:00 AM,MySugr,134,mg/dL,
+2018-05-09,07:13:00 PM,MySugr,87,mg/dL,
 2018-05-10,01:16:00 AM,OneTouch,134,mg/dL,
-2018-05-10,08:30:00 AM,MySugr,106,mg/dL,
+2018-05-10,01:16:00 AM,MySugr,134,mg/dL,
 2018-05-10,08:30:00 AM,OneTouch,106,mg/dL,Before Meal
-2018-05-10,07:26:00 PM,MySugr,107,mg/dL,
+2018-05-10,08:30:00 AM,MySugr,106,mg/dL,
 2018-05-10,07:26:00 PM,OneTouch,107,mg/dL,
-2018-05-11,12:51:00 AM,MySugr,101,mg/dL,
+2018-05-10,07:26:00 PM,MySugr,107,mg/dL,
 2018-05-11,12:51:00 AM,OneTouch,101,mg/dL,
-2018-05-11,09:02:00 AM,MySugr,111,mg/dL,
+2018-05-11,12:51:00 AM,MySugr,101,mg/dL,
 2018-05-11,09:02:00 AM,OneTouch,111,mg/dL,
-2018-05-11,11:54:00 AM,MySugr,127,mg/dL,
+2018-05-11,09:02:00 AM,MySugr,111,mg/dL,
 2018-05-11,11:54:00 AM,OneTouch,127,mg/dL,
-2018-05-11,11:55:00 AM,MySugr,111,mg/dL,
+2018-05-11,11:54:00 AM,MySugr,127,mg/dL,
 2018-05-11,11:55:00 AM,OneTouch,111,mg/dL,
-2018-05-11,11:55:00 PM,MySugr,121,mg/dL,Alcohol
+2018-05-11,11:55:00 AM,MySugr,111,mg/dL,
 2018-05-11,11:55:00 PM,OneTouch,121,mg/dL,
-2018-05-12,12:05:00 PM,MySugr,114,mg/dL,
+2018-05-11,11:55:00 PM,MySugr,121,mg/dL,Alcohol
 2018-05-12,12:05:00 PM,OneTouch,114,mg/dL,
-2018-05-12,07:37:00 PM,MySugr,96,mg/dL,
+2018-05-12,12:05:00 PM,MySugr,114,mg/dL,
 2018-05-12,07:37:00 PM,OneTouch,96,mg/dL,
-2018-05-13,12:31:00 AM,MySugr,112,mg/dL,
+2018-05-12,07:37:00 PM,MySugr,96,mg/dL,
 2018-05-13,12:31:00 AM,OneTouch,112,mg/dL,
-2018-05-13,08:16:00 AM,MySugr,99,mg/dL,
+2018-05-13,12:31:00 AM,MySugr,112,mg/dL,
 2018-05-13,08:16:00 AM,OneTouch,99,mg/dL,
-2018-05-13,12:36:00 PM,MySugr,103,mg/dL,
+2018-05-13,08:16:00 AM,MySugr,99,mg/dL,
 2018-05-13,12:36:00 PM,OneTouch,103,mg/dL,
-2018-05-13,11:58:00 PM,MySugr,90,mg/dL,
+2018-05-13,12:36:00 PM,MySugr,103,mg/dL,
 2018-05-13,11:58:00 PM,OneTouch,90,mg/dL,
-2018-05-14,12:06:00 PM,MySugr,98,mg/dL,
+2018-05-13,11:58:00 PM,MySugr,90,mg/dL,
 2018-05-14,12:06:00 PM,OneTouch,98,mg/dL,
-2018-05-14,07:23:00 PM,MySugr,111,mg/dL,
+2018-05-14,12:06:00 PM,MySugr,98,mg/dL,
 2018-05-14,07:23:00 PM,OneTouch,111,mg/dL,
-2018-05-15,01:00:00 AM,MySugr,117,mg/dL,
+2018-05-14,07:23:00 PM,MySugr,111,mg/dL,
 2018-05-15,01:00:00 AM,OneTouch,117,mg/dL,
-2018-05-15,12:17:00 PM,MySugr,133,mg/dL,
+2018-05-15,01:00:00 AM,MySugr,117,mg/dL,
 2018-05-15,12:17:00 PM,OneTouch,133,mg/dL,Before Meal
-2018-05-15,01:08:00 PM,MySugr,123,mg/dL,Lunch
+2018-05-15,12:17:00 PM,MySugr,133,mg/dL,
 2018-05-15,01:08:00 PM,OneTouch,123,mg/dL,
-2018-05-15,11:50:00 PM,MySugr,94,mg/dL,
+2018-05-15,01:08:00 PM,MySugr,123,mg/dL,Lunch
 2018-05-15,11:50:00 PM,OneTouch,94,mg/dL,
-2018-05-16,12:27:00 PM,MySugr,121,mg/dL,
+2018-05-15,11:50:00 PM,MySugr,94,mg/dL,
 2018-05-16,12:27:00 PM,OneTouch,121,mg/dL,
-2018-05-16,08:23:00 PM,MySugr,109,mg/dL,Dinner
+2018-05-16,12:27:00 PM,MySugr,121,mg/dL,
 2018-05-16,08:23:00 PM,OneTouch,109,mg/dL,
-2018-05-17,01:18:00 AM,MySugr,79,mg/dL,Snack
+2018-05-16,08:23:00 PM,MySugr,109,mg/dL,Dinner
 2018-05-17,01:18:00 AM,OneTouch,79,mg/dL,
-2018-05-17,12:24:00 PM,MySugr,116,mg/dL,
+2018-05-17,01:18:00 AM,MySugr,79,mg/dL,Snack
 2018-05-17,12:24:00 PM,OneTouch,116,mg/dL,
-2018-05-17,08:08:00 PM,MySugr,86,mg/dL,Dinner
+2018-05-17,12:24:00 PM,MySugr,116,mg/dL,
 2018-05-17,08:08:00 PM,OneTouch,86,mg/dL,
-2018-05-18,01:58:00 AM,MySugr,110,mg/dL,
+2018-05-17,08:08:00 PM,MySugr,86,mg/dL,Dinner
 2018-05-18,01:58:00 AM,OneTouch,110,mg/dL,
-2018-05-18,11:47:00 AM,MySugr,104,mg/dL,
+2018-05-18,01:58:00 AM,MySugr,110,mg/dL,
 2018-05-18,11:47:00 AM,OneTouch,104,mg/dL,
-2018-05-18,11:48:00 AM,MySugr,116,mg/dL,
+2018-05-18,11:47:00 AM,MySugr,104,mg/dL,
 2018-05-18,11:48:00 AM,OneTouch,116,mg/dL,
+2018-05-18,11:48:00 AM,MySugr,116,mg/dL,
 2018-05-18,04:12:00 PM,MySugr,95,mg/dL,
 2018-05-18,11:42:00 PM,MySugr,114,mg/dL,
 2018-05-19,01:48:00 AM,MySugr,109,mg/dL,
 2018-05-19,09:46:00 AM,MySugr,114,mg/dL,"Before the meal,Fasting"
+2018-05-19,08:25:00 PM,MySugr,100,mg/dL,
 2018-05-20,12:05:00 AM,MySugr,97,mg/dL,
 2018-05-20,12:13:00 PM,MySugr,113,mg/dL,
 2018-05-20,07:29:00 PM,MySugr,72,mg/dL,
@@ -1852,3 +120,267 @@ date,time,source,value,unit,tags
 2018-05-28,01:19:00 PM,MySugr,104,mg/dL,
 2018-05-28,07:12:00 PM,MySugr,92,mg/dL,
 2018-05-28,11:47:00 PM,MySugr,116,mg/dL,
+2018-05-29,01:25:00 AM,MySugr,103,mg/dL,Snack
+2018-05-29,08:32:00 AM,MySugr,102,mg/dL,
+2018-05-29,12:43:00 PM,MySugr,95,mg/dL,
+2018-05-30,01:06:00 AM,MySugr,92,mg/dL,
+2018-05-30,12:12:00 PM,MySugr,119,mg/dL,
+2018-05-30,10:08:00 PM,MySugr,84,mg/dL,
+2018-05-31,12:22:00 AM,MySugr,80,mg/dL,"Hypo feeling,Snack"
+2018-05-31,01:01:00 PM,MySugr,92,mg/dL,
+2018-06-01,01:31:00 AM,MySugr,111,mg/dL,
+2018-06-01,08:38:00 AM,MySugr,102,mg/dL,
+2018-06-01,12:57:00 PM,MySugr,114,mg/dL,
+2018-06-01,10:44:00 PM,MySugr,107,mg/dL,
+2018-06-02,11:18:00 AM,MySugr,112,mg/dL,
+2018-06-02,01:56:00 PM,MySugr,131,mg/dL,
+2018-06-02,01:57:00 PM,MySugr,123,mg/dL,
+2018-06-02,07:41:00 PM,MySugr,116,mg/dL,"Before the meal,Dinner"
+2018-06-03,02:23:00 AM,MySugr,120,mg/dL,
+2018-06-03,01:18:00 PM,MySugr,118,mg/dL,
+2018-06-03,07:30:00 PM,MySugr,93,mg/dL,
+2018-06-04,01:04:00 AM,MySugr,91,mg/dL,
+2018-06-04,12:46:00 PM,MySugr,139,mg/dL,
+2018-06-04,06:44:00 PM,MySugr,152,mg/dL,Snack
+2018-06-05,01:05:00 AM,MySugr,114,mg/dL,
+2018-06-05,12:35:00 PM,MySugr,130,mg/dL,
+2018-06-05,09:32:00 PM,MySugr,95,mg/dL,
+2018-06-06,12:37:00 AM,MySugr,99,mg/dL,
+2018-06-06,12:24:00 PM,MySugr,104,mg/dL,
+2018-06-07,12:53:00 AM,MySugr,141,mg/dL,After the meal
+2018-06-07,12:09:00 PM,MySugr,110,mg/dL,
+2018-06-07,07:55:00 PM,MySugr,91,mg/dL,
+2018-06-08,12:28:00 AM,MySugr,86,mg/dL,
+2018-06-08,12:42:00 PM,MySugr,114,mg/dL,Lunch
+2018-06-08,09:38:00 PM,MySugr,85,mg/dL,
+2018-06-09,12:48:00 AM,MySugr,86,mg/dL,
+2018-06-09,12:13:00 PM,MySugr,99,mg/dL,
+2018-06-09,12:14:00 PM,MySugr,98,mg/dL,
+2018-06-09,07:40:00 PM,MySugr,122,mg/dL,Dinner
+2018-06-09,09:00:00 PM,MySugr,83,mg/dL,
+2018-06-10,02:59:00 AM,MySugr,119,mg/dL,
+2018-06-10,12:39:00 PM,MySugr,93,mg/dL,
+2018-06-10,03:23:00 PM,MySugr,78,mg/dL,Hypo feeling
+2018-06-10,06:49:00 PM,MySugr,98,mg/dL,Before the meal
+2018-06-11,12:41:00 AM,MySugr,83,mg/dL,Snack
+2018-06-11,12:16:00 PM,MySugr,102,mg/dL,
+2018-06-12,12:40:00 AM,MySugr,109,mg/dL,
+2018-06-12,12:28:00 PM,MySugr,98,mg/dL,
+2018-06-13,12:57:00 AM,MySugr,75,mg/dL,Hypo feeling
+2018-06-13,12:35:00 PM,MySugr,86,mg/dL,Lunch
+2018-06-14,12:31:00 AM,MySugr,119,mg/dL,
+2018-06-14,12:20:00 PM,MySugr,91,mg/dL,
+2018-06-14,07:54:00 PM,MySugr,124,mg/dL,
+2018-06-15,12:43:00 AM,MySugr,126,mg/dL,
+2018-06-15,11:57:00 AM,MySugr,110,mg/dL,
+2018-06-16,12:42:00 AM,MySugr,98,mg/dL,
+2018-06-16,12:43:00 AM,MySugr,97,mg/dL,
+2018-06-16,11:10:00 AM,MySugr,111,mg/dL,
+2018-06-17,12:31:00 AM,MySugr,93,mg/dL,
+2018-06-17,01:28:00 PM,MySugr,100,mg/dL,
+2018-06-17,06:22:00 PM,MySugr,87,mg/dL,
+2018-06-18,12:56:00 AM,MySugr,79,mg/dL,
+2018-06-18,12:14:00 PM,MySugr,107,mg/dL,
+2018-06-19,12:23:00 AM,MySugr,83,mg/dL,"Hypo feeling,Snack"
+2018-06-19,08:29:00 AM,MySugr,86,mg/dL,Breakfast
+2018-06-19,12:15:00 PM,MySugr,89,mg/dL,
+2018-06-20,12:30:00 AM,MySugr,86,mg/dL,
+2018-06-20,12:26:00 PM,MySugr,92,mg/dL,
+2018-06-20,09:01:00 PM,MySugr,100,mg/dL,
+2018-06-21,01:16:00 AM,MySugr,96,mg/dL,
+2018-06-21,12:35:00 PM,MySugr,80,mg/dL,
+2018-06-21,09:14:00 PM,MySugr,93,mg/dL,
+2018-06-22,01:18:00 AM,MySugr,110,mg/dL,
+2018-06-22,12:00:00 PM,MySugr,108,mg/dL,
+2018-06-22,10:01:00 PM,MySugr,108,mg/dL,
+2018-06-22,10:01:00 PM,MySugr,109,mg/dL,
+2018-06-23,02:27:00 AM,MySugr,81,mg/dL,Hypo feeling
+2018-06-23,10:58:00 AM,MySugr,119,mg/dL,
+2018-06-24,12:45:00 AM,MySugr,91,mg/dL,
+2018-06-24,12:22:00 PM,MySugr,98,mg/dL,
+2018-06-24,03:00:00 PM,MySugr,77,mg/dL,Hypo feeling
+2018-06-24,03:00:00 PM,MySugr,79,mg/dL,
+2018-06-25,12:44:00 AM,MySugr,141,mg/dL,
+2018-06-25,01:55:00 PM,MySugr,94,mg/dL,
+2018-06-25,05:01:00 PM,MySugr,91,mg/dL,
+2018-06-26,08:42:00 AM,MySugr,102,mg/dL,
+2018-06-26,12:05:00 PM,MySugr,101,mg/dL,
+2018-06-26,12:25:00 PM,MySugr,103,mg/dL,Lunch
+2018-06-26,04:49:00 PM,MySugr,102,mg/dL,
+2018-06-27,09:28:00 AM,MySugr,80,mg/dL,
+2018-06-27,10:05:00 PM,MySugr,128,mg/dL,
+2018-06-28,08:53:00 AM,MySugr,121,mg/dL,
+2018-06-28,12:14:00 PM,MySugr,122,mg/dL,"Lunch,Carbs guess"
+2018-06-28,02:46:00 PM,MySugr,92,mg/dL,
+2018-06-28,11:17:00 PM,MySugr,112,mg/dL,
+2018-06-29,12:58:00 PM,MySugr,105,mg/dL,
+2018-06-29,11:20:00 PM,MySugr,107,mg/dL,
+2018-06-30,08:44:00 AM,MySugr,106,mg/dL,
+2018-06-30,12:31:00 PM,MySugr,109,mg/dL,Lunch
+2018-06-30,07:35:00 PM,MySugr,104,mg/dL,
+2018-07-01,12:57:00 AM,MySugr,98,mg/dL,
+2018-07-01,01:53:00 PM,MySugr,106,mg/dL,
+2018-07-01,01:54:00 PM,MySugr,105,mg/dL,
+2018-07-02,12:36:00 AM,MySugr,93,mg/dL,
+2018-07-02,12:49:00 PM,MySugr,101,mg/dL,
+2018-07-02,10:54:00 PM,MySugr,98,mg/dL,
+2018-07-03,01:17:00 AM,MySugr,91,mg/dL,
+2018-07-03,12:19:00 PM,MySugr,101,mg/dL,
+2018-07-04,12:53:00 AM,MySugr,150,mg/dL,
+2018-07-04,01:48:00 PM,MySugr,112,mg/dL,
+2018-07-05,01:06:00 AM,MySugr,96,mg/dL,
+2018-07-05,12:35:00 PM,MySugr,112,mg/dL,
+2018-07-05,10:28:00 PM,MySugr,133,mg/dL,
+2018-07-05,11:30:00 PM,MySugr,103,mg/dL,
+2018-07-06,01:57:00 AM,MySugr,92,mg/dL,
+2018-07-06,08:33:00 AM,MySugr,103,mg/dL,
+2018-07-06,12:21:00 PM,MySugr,108,mg/dL,
+2018-07-06,11:11:00 PM,MySugr,101,mg/dL,
+2018-07-07,06:38:00 PM,MySugr,100,mg/dL,Alcohol
+2018-07-08,10:58:00 AM,MySugr,100,mg/dL,
+2018-07-09,12:42:00 AM,MySugr,73,mg/dL,
+2018-07-09,12:22:00 PM,MySugr,95,mg/dL,
+2018-07-10,12:13:00 PM,MySugr,106,mg/dL,
+2018-07-11,02:00:00 AM,MySugr,102,mg/dL,
+2018-07-13,12:04:00 PM,MySugr,96,mg/dL,
+2018-07-15,12:06:00 PM,MySugr,121,mg/dL,
+2018-07-15,02:43:00 PM,MySugr,114,mg/dL,
+2018-07-15,02:44:00 PM,MySugr,116,mg/dL,
+2018-07-16,01:41:00 AM,MySugr,99,mg/dL,
+2018-07-16,11:41:00 AM,MySugr,110,mg/dL,
+2018-07-16,03:21:00 PM,MySugr,102,mg/dL,
+2018-07-16,07:37:00 PM,MySugr,87,mg/dL,
+2018-07-16,08:35:00 PM,MySugr,102,mg/dL,
+2018-07-16,08:51:00 PM,MySugr,101,mg/dL,
+2018-07-16,09:10:00 PM,MySugr,101,mg/dL,
+2018-07-17,12:42:00 PM,MySugr,90,mg/dL,
+2018-07-17,07:16:00 PM,MySugr,92,mg/dL,
+2018-07-18,09:51:00 PM,MySugr,93,mg/dL,
+2018-07-19,12:24:00 PM,MySugr,106,mg/dL,
+2018-07-20,09:50:00 PM,MySugr,82,mg/dL,
+2018-07-21,11:03:00 AM,MySugr,123,mg/dL,
+2018-07-22,03:17:00 AM,MySugr,81,mg/dL,
+2018-07-22,08:59:00 PM,MySugr,132,mg/dL,
+2018-07-23,12:52:00 PM,MySugr,108,mg/dL,
+2018-07-24,12:50:00 PM,MySugr,104,mg/dL,
+2018-07-24,07:26:00 PM,MySugr,102,mg/dL,Dinner
+2018-07-25,01:29:00 AM,MySugr,105,mg/dL,
+2018-07-25,12:28:00 PM,MySugr,115,mg/dL,
+2018-07-26,01:31:00 AM,MySugr,115,mg/dL,
+2018-07-26,12:42:00 PM,MySugr,113,mg/dL,
+2018-07-26,06:03:00 PM,MySugr,96,mg/dL,
+2018-07-27,12:39:00 PM,MySugr,117,mg/dL,
+2018-07-27,10:01:00 PM,MySugr,98,mg/dL,
+2018-07-29,12:06:00 PM,MySugr,104,mg/dL,
+2018-07-29,09:18:00 PM,MySugr,95,mg/dL,
+2018-07-29,11:46:00 PM,MySugr,59,mg/dL,Hypo feeling
+2018-07-30,10:20:00 PM,MySugr,112,mg/dL,
+2018-07-31,12:09:00 PM,MySugr,101,mg/dL,
+2018-08-01,09:38:00 PM,MySugr,125,mg/dL,
+2018-08-02,11:53:00 AM,MySugr,108,mg/dL,
+2018-08-03,01:35:00 PM,MySugr,91,mg/dL,Lunch
+2018-08-03,08:07:00 PM,MySugr,76,mg/dL,Dinner
+2018-08-04,01:16:00 PM,MySugr,108,mg/dL,
+2018-08-05,08:22:00 AM,MySugr,111,mg/dL,
+2018-08-05,01:57:00 PM,MySugr,76,mg/dL,
+2018-08-05,02:12:00 PM,MySugr,76,mg/dL,
+2018-08-06,07:38:00 PM,MySugr,76,mg/dL,
+2018-08-07,05:32:00 PM,MySugr,97,mg/dL,
+2018-08-08,07:06:00 AM,MySugr,124,mg/dL,
+2018-08-08,06:57:00 PM,MySugr,95,mg/dL,
+2018-08-09,09:45:00 AM,MySugr,146,mg/dL,
+2018-08-10,08:18:00 PM,MySugr,122,mg/dL,
+2018-08-13,10:25:00 PM,MySugr,147,mg/dL,
+2018-08-14,11:38:00 PM,MySugr,106,mg/dL,
+2018-08-15,08:35:00 AM,MySugr,115,mg/dL,
+2018-08-15,11:48:00 PM,MySugr,90,mg/dL,
+2018-08-16,10:18:00 AM,MySugr,117,mg/dL,
+2018-08-16,11:42:00 PM,MySugr,118,mg/dL,
+2018-08-17,09:03:00 AM,MySugr,109,mg/dL,
+2018-08-18,12:31:00 AM,MySugr,86,mg/dL,
+2018-08-18,08:58:00 AM,MySugr,127,mg/dL,
+2018-08-18,08:22:00 PM,MySugr,93,mg/dL,
+2018-08-20,09:22:00 PM,MySugr,102,mg/dL,
+2018-08-22,09:50:00 PM,MySugr,106,mg/dL,
+2018-08-25,08:26:00 PM,MySugr,89,mg/dL,Dinner
+2018-08-27,01:26:00 AM,MySugr,104,mg/dL,
+2018-08-29,01:21:00 AM,MySugr,115,mg/dL,
+2018-08-30,12:36:00 PM,MySugr,93,mg/dL,
+2018-08-31,12:55:00 AM,MySugr,189,mg/dL,
+2018-08-31,09:01:00 PM,MySugr,84,mg/dL,
+2018-09-02,07:20:00 PM,MySugr,107,mg/dL,
+2018-09-05,12:37:00 AM,MySugr,144,mg/dL,
+2018-09-06,08:45:00 AM,MySugr,80,mg/dL,Breakfast
+2018-09-07,12:58:00 PM,MySugr,105,mg/dL,
+2018-09-09,11:39:00 AM,MySugr,93,mg/dL,
+2018-09-12,10:15:00 AM,MySugr,97,mg/dL,
+2018-09-13,01:38:00 AM,MySugr,84,mg/dL,
+2018-09-15,01:15:00 PM,MySugr,124,mg/dL,
+2018-09-16,01:57:00 PM,MySugr,108,mg/dL,
+2018-09-16,11:10:00 PM,MySugr,151,mg/dL,
+2018-09-18,02:12:00 PM,MySugr,163,mg/dL,After the meal
+2018-09-19,11:52:00 AM,MySugr,103,mg/dL,
+2018-09-20,11:11:00 AM,MySugr,94,mg/dL,
+2018-09-22,11:06:00 PM,MySugr,132,mg/dL,
+2018-09-23,01:30:00 AM,MySugr,103,mg/dL,
+2018-09-23,03:04:00 AM,MySugr,140,mg/dL,
+2018-09-23,08:47:00 AM,MySugr,115,mg/dL,
+2018-09-23,12:20:00 PM,MySugr,146,mg/dL,
+2018-09-23,02:13:00 PM,MySugr,131,mg/dL,
+2018-09-23,03:17:00 PM,MySugr,132,mg/dL,
+2018-09-26,01:03:00 AM,MySugr,113,mg/dL,
+2018-09-26,08:42:00 AM,MySugr,114,mg/dL,
+2018-09-26,01:06:00 PM,MySugr,111,mg/dL,
+2018-09-27,08:42:00 AM,MySugr,127,mg/dL,
+2018-09-28,01:01:00 AM,MySugr,93,mg/dL,
+2018-09-29,01:35:00 PM,MySugr,118,mg/dL,
+2018-09-30,05:06:00 PM,MySugr,119,mg/dL,
+2018-10-01,08:51:00 AM,MySugr,74,mg/dL,
+2018-10-03,07:26:00 PM,MySugr,96,mg/dL,
+2018-10-04,01:21:00 PM,MySugr,93,mg/dL,
+2018-10-04,11:22:00 PM,MySugr,134,mg/dL,
+2018-10-05,05:54:00 AM,MySugr,86,mg/dL,
+2018-10-05,07:54:00 PM,MySugr,79,mg/dL,Hypo feeling
+2018-10-06,09:56:00 PM,MySugr,85,mg/dL,
+2018-10-07,03:04:00 AM,MySugr,91,mg/dL,
+2018-10-07,07:44:00 AM,MySugr,64,mg/dL,
+2018-10-09,01:05:00 PM,MySugr,136,mg/dL,
+2018-10-12,08:19:00 PM,MySugr,71,mg/dL,
+2018-10-16,12:26:00 PM,MySugr,109,mg/dL,
+2018-10-18,12:19:00 PM,MySugr,99,mg/dL,
+2018-10-20,05:08:00 PM,MySugr,76,mg/dL,
+2018-10-22,12:51:00 AM,MySugr,100,mg/dL,
+2018-10-22,12:10:00 PM,MySugr,81,mg/dL,
+2018-10-23,12:47:00 PM,MySugr,76,mg/dL,Hypo feeling
+2018-10-26,01:52:00 AM,MySugr,98,mg/dL,
+2018-10-27,12:10:00 PM,MySugr,127,mg/dL,
+2018-11-01,12:42:00 AM,MySugr,88,mg/dL,
+2018-11-03,10:40:00 PM,MySugr,86,mg/dL,
+2018-11-06,12:34:00 PM,MySugr,115,mg/dL,
+2018-11-07,11:25:00 AM,MySugr,83,mg/dL,
+2018-11-08,02:09:00 PM,MySugr,83,mg/dL,
+2018-11-10,11:37:00 AM,MySugr,87,mg/dL,
+2018-11-11,10:35:00 PM,MySugr,181,mg/dL,
+2018-11-13,08:08:00 PM,MySugr,66,mg/dL,"Hypo feeling,Snack"
+2018-11-16,08:04:00 PM,MySugr,98,mg/dL,
+2018-11-21,03:15:00 PM,MySugr,80,mg/dL,
+2018-11-26,09:56:00 PM,MySugr,141,mg/dL,
+2018-11-27,12:54:00 PM,MySugr,98,mg/dL,Lunch
+2018-11-28,11:03:00 PM,MySugr,129,mg/dL,
+2018-12-01,11:16:00 AM,MySugr,122,mg/dL,
+2018-12-01,10:07:00 PM,MySugr,99,mg/dL,
+2018-12-01,10:08:00 PM,MySugr,100,mg/dL,
+2018-12-03,01:32:00 PM,MySugr,95,mg/dL,
+2018-12-04,01:10:00 AM,MySugr,105,mg/dL,
+2018-12-08,01:00:00 AM,MySugr,165,mg/dL,
+2018-12-08,07:50:00 PM,MySugr,114,mg/dL,Dinner
+2018-12-11,04:49:00 PM,MySugr,77,mg/dL,
+2018-12-12,10:49:00 AM,MySugr,102,mg/dL,
+2018-12-12,07:52:00 PM,MySugr,82,mg/dL,Dinner
+2018-12-14,08:53:00 AM,MySugr,93,mg/dL,Breakfast
+2018-12-15,01:52:00 AM,MySugr,85,mg/dL,Hypo feeling
+2018-12-16,06:02:00 PM,MySugr,112,mg/dL,
+2018-12-18,08:07:00 PM,MySugr,95,mg/dL,Dinner
+2018-12-23,12:46:00 PM,MySugr,74,mg/dL,
+2018-12-25,11:55:00 AM,MySugr,132,mg/dL,
+2018-12-29,12:15:00 PM,MySugr,75,mg/dL,
