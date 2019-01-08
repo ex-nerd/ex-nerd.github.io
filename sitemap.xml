@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ex-nerd.com/diabetes/t1_name_history/</loc>
+    <lastmod>2019-01-07T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ex-nerd.com/diabetes/resources/</loc>
     <lastmod>2017-07-07T08:00:00-07:00</lastmod>
   </url>
@@ -38,29 +43,25 @@
   </url>
   
   <url>
-    <loc>http://ex-nerd.com/diabetes/t1_name_history/</loc>
-  </url>
-  
-  <url>
     <loc>http://ex-nerd.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ex-nerd.com/</loc>
-    <lastmod>2017-07-07T08:00:00-07:00</lastmod>
+    <lastmod>2019-01-07T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ex-nerd.com/diabetes/</loc>
-    <lastmod>2017-07-07T08:00:00-07:00</lastmod>
+    <lastmod>2019-01-07T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ex-nerd.com/categories/diabetes/</loc>
-    <lastmod>2017-07-07T08:00:00-07:00</lastmod>
+    <lastmod>2019-01-07T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -95,13 +96,13 @@
   
   <url>
     <loc>http://ex-nerd.com/tags/diabetes/</loc>
-    <lastmod>2017-07-07T08:00:00-07:00</lastmod>
+    <lastmod>2019-01-07T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ex-nerd.com/tags/health/</loc>
-    <lastmod>2017-07-07T08:00:00-07:00</lastmod>
+    <lastmod>2019-01-07T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   

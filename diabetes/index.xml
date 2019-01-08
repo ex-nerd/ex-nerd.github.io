@@ -6,10 +6,21 @@
     <description>Recent content in Diabetes on Chris Petersen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jul 2017 08:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jan 2019 08:00:00 -0700</lastBuildDate>
     
 	<atom:link href="http://ex-nerd.com/diabetes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Type 1 Diabetes Name History</title>
+      <link>http://ex-nerd.com/diabetes/t1_name_history/</link>
+      <pubDate>Mon, 07 Jan 2019 08:00:00 -0700</pubDate>
+      
+      <guid>http://ex-nerd.com/diabetes/t1_name_history/</guid>
+      <description>This page is sort of a living document about my research into the naming history of autoimmune diabetes mellitus, more commonly known as Type 1 Diabetes.
+There are obviously a lot of missing sections but I&amp;rsquo;ve been promising to get this posted for several years and I figure this is the best way to encourage myself to finish.
+Diabetes Mellitus The name &amp;ldquo;Diabetes Mellitus&amp;rdquo; dates back roughly 500 years, and awarness of the disease by other names (e.</description>
+    </item>
     
     <item>
       <title>Type 1 Diabetes Resources</title>
@@ -22,15 +33,6 @@ here is my collection of links to a number of diabetes-releated topics that I ha
 especially helpful.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://ex-nerd.com/diabetes/t1_name_history/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ex-nerd.com/diabetes/t1_name_history/</guid>
-      <description>&amp;ldquo;Type 1.5&amp;rdquo; was published in an opinion piece in The Lancet (a medical journal) in 1985 which finishes with the passage &amp;ldquo;When diabetes is again reclassified we may find them accommodated in a new category of type 1 1&amp;frasl;2 diabetes &amp;ndash; a condition in which insulin sustains not life itself but the quality of life.&amp;rdquo; This was before the term LADA was coined in 1993 to speak of the same condition &amp;ndash; autoimmune diabetes diagnosed in adulthood (which usually presents itself slowly and back then was thought to be treatable with medications intended for people with what was then called non-insulin dependent diabetes).</description>
     </item>
     
   </channel>
