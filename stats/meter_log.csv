@@ -1,26 +1,4 @@
 date,time,source,value,unit,tags
-2018-05-13,12:31:00 AM,OneTouch,112,mg/dL,
-2018-05-13,12:31:00 AM,MySugr,112,mg/dL,
-2018-05-13,08:16:00 AM,OneTouch,99,mg/dL,
-2018-05-13,08:16:00 AM,MySugr,99,mg/dL,
-2018-05-13,12:36:00 PM,OneTouch,103,mg/dL,
-2018-05-13,12:36:00 PM,MySugr,103,mg/dL,
-2018-05-13,11:58:00 PM,OneTouch,90,mg/dL,
-2018-05-13,11:58:00 PM,MySugr,90,mg/dL,
-2018-05-14,12:06:00 PM,OneTouch,98,mg/dL,
-2018-05-14,12:06:00 PM,MySugr,98,mg/dL,
-2018-05-14,07:23:00 PM,OneTouch,111,mg/dL,
-2018-05-14,07:23:00 PM,MySugr,111,mg/dL,
-2018-05-15,01:00:00 AM,OneTouch,117,mg/dL,
-2018-05-15,01:00:00 AM,MySugr,117,mg/dL,
-2018-05-15,12:17:00 PM,OneTouch,133,mg/dL,Before Meal
-2018-05-15,12:17:00 PM,MySugr,133,mg/dL,
-2018-05-15,01:08:00 PM,OneTouch,123,mg/dL,
-2018-05-15,01:08:00 PM,MySugr,123,mg/dL,Lunch
-2018-05-15,11:50:00 PM,OneTouch,94,mg/dL,
-2018-05-15,11:50:00 PM,MySugr,94,mg/dL,
-2018-05-16,12:27:00 PM,OneTouch,121,mg/dL,
-2018-05-16,12:27:00 PM,MySugr,121,mg/dL,
 2018-05-16,08:23:00 PM,OneTouch,109,mg/dL,
 2018-05-16,08:23:00 PM,MySugr,109,mg/dL,Dinner
 2018-05-17,01:18:00 AM,OneTouch,79,mg/dL,
