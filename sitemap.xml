@@ -4,13 +4,66 @@
   
   <url>
     <loc>http://ex-nerd.com/categories/</loc>
-    <lastmod>2019-05-02T20:00:00-07:00</lastmod>
+    <lastmod>2019-08-08T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ex-nerd.com/</loc>
-    <lastmod>2019-05-02T20:00:00-07:00</lastmod>
+    <lastmod>2019-08-08T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/categories/making/</loc>
+    <lastmod>2019-08-08T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/making/</loc>
+    <lastmod>2019-08-08T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/making/trossingen-lyre/</loc>
+    <lastmod>2019-08-08T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/tags/</loc>
+    <lastmod>2019-08-08T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/tags/making/</loc>
+    <lastmod>2019-08-08T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/tags/medieval/</loc>
+    <lastmod>2019-08-08T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/tags/music/</loc>
+    <lastmod>2019-08-08T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/tags/viking/</loc>
+    <lastmod>2019-08-08T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ex-nerd.com/tags/woodworking/</loc>
+    <lastmod>2019-08-08T08:00:00-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -28,12 +81,6 @@
   <url>
     <loc>http://ex-nerd.com/diabetes/clinical_research/</loc>
     <lastmod>2019-05-02T20:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ex-nerd.com/tags/</loc>
-    <lastmod>2019-05-02T20:00:00-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

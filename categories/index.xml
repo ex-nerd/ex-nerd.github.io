@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Chris Petersen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 May 2019 20:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2019 08:00:00 -0700</lastBuildDate>
     
 	<atom:link href="http://ex-nerd.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Making</title>
+      <link>http://ex-nerd.com/categories/making/</link>
+      <pubDate>Thu, 08 Aug 2019 08:00:00 -0700</pubDate>
+      
+      <guid>http://ex-nerd.com/categories/making/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diabetes</title>
