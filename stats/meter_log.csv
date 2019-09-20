@@ -1,14 +1,4 @@
 date,time,source,value,unit,tags
-2019-01-13,03:05:00 PM,MySugr,111,mg/dL,Breakfast
-2019-01-13,03:37:00 PM,MySugr,103,mg/dL,
-2019-01-13,09:29:00 PM,MySugr,86,mg/dL,Dinner
-2019-01-14,08:45:00 AM,MySugr,89,mg/dL,
-2019-01-14,05:44:00 PM,MySugr,97,mg/dL,
-2019-01-15,09:37:00 PM,MySugr,151,mg/dL,Snack
-2019-01-17,09:22:00 PM,MySugr,121,mg/dL,
-2019-01-21,03:20:00 AM,MySugr,116,mg/dL,
-2019-01-21,05:29:00 PM,MySugr,97,mg/dL,
-2019-01-22,08:54:00 AM,MySugr,73,mg/dL,
 2019-01-23,01:30:00 PM,MySugr,110,mg/dL,Lunch
 2019-01-24,12:12:00 AM,MySugr,121,mg/dL,
 2019-01-25,07:17:00 PM,MySugr,85,mg/dL,
