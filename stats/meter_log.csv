@@ -1,10 +1,4 @@
 date,time,source,value,unit,tags
-2019-01-23,01:30:00 PM,MySugr,110,mg/dL,Lunch
-2019-01-24,12:12:00 AM,MySugr,121,mg/dL,
-2019-01-25,07:17:00 PM,MySugr,85,mg/dL,
-2019-01-27,03:40:00 PM,MySugr,119,mg/dL,
-2019-01-28,01:36:00 AM,MySugr,164,mg/dL,
-2019-01-28,11:08:00 AM,MySugr,152,mg/dL,
 2019-01-31,03:32:00 PM,MySugr,74,mg/dL,
 2019-02-01,10:23:00 AM,MySugr,63,mg/dL,Hypo feeling
 2019-02-05,10:23:00 PM,MySugr,104,mg/dL,
