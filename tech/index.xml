@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on Chris Petersen</title>
@@ -26,9 +26,8 @@
       <pubDate>Fri, 27 Aug 2010 08:01:40 +0000</pubDate>
       
       <guid>http://ex-nerd.com/tech/plus-addressing-for-email/</guid>
-      <description>&lt;p&gt;Like most tech-savvy people, I have more than a handful of email addresses, and I like to guard them against being shared without my permission (and track back to the company that did the sharing).  When you run your own mail server, this is quite easy &amp;ndash; just make up a custom email address for every company you do business with.  Unfortunately, this gets somewhat cumbersome after awhile, and definitely isn&amp;rsquo;t a solution for the general public.  Enter &lt;a href=&#34;http://en.wikipedia.org/wiki/Plus_addressing#Sub-addressing&#34;&gt;plus addressing&lt;/a&gt;, a method built into most mail servers that allows users to modify their own email addresses with additional data that can be tracked but does not interfere with mail delivery.&lt;/p&gt;
-
-&lt;p&gt;This would be the perfect solution if it was actually supported by the majority of online account providers (and in the 6 years since this article was originally written, things aren&amp;rsquo;t much better).&lt;/p&gt;</description>
+      <description>&lt;p&gt;Like most tech-savvy people, I have more than a handful of email addresses, and I like to guard them against being shared without my permission (and track back to the company that did the sharing).  When you run your own mail server, this is quite easy &amp;ndash; just make up a custom email address for every company you do business with.  Unfortunately, this gets somewhat cumbersome after awhile, and definitely isn&#39;t a solution for the general public.  Enter &lt;a href=&#34;http://en.wikipedia.org/wiki/Plus_addressing#Sub-addressing&#34;&gt;plus addressing&lt;/a&gt;, a method built into most mail servers that allows users to modify their own email addresses with additional data that can be tracked but does not interfere with mail delivery.&lt;/p&gt;
+&lt;p&gt;This would be the perfect solution if it was actually supported by the majority of online account providers (and in the 6 years since this article was originally written, things aren&#39;t much better).&lt;/p&gt;</description>
     </item>
     
   </channel>
