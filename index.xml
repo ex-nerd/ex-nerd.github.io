@@ -12,19 +12,23 @@
     
     
     <item>
+      <title>Resumé:  Chris Petersen</title>
+      <link>http://ex-nerd.com/resume/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:17 +0000</pubDate>
+      
+      <guid>http://ex-nerd.com/resume/</guid>
+      <description>Hi, you&amp;rsquo;ve found my &amp;ldquo;full&amp;rdquo; resume (i.e. curriculum vitae). It isn&amp;rsquo;t tailored for any specific job application, and contains a very wide sampling of skills and experience (often not specifically related to my chosen profession in technology). I mostly use it as a conversation starter before providing a more concise/professional PDF version.
+This is always my most up-to-date resume — if you ask me for an updated version, I will just send you this URL.</description>
+    </item>
+    
+    <item>
       <title>Kinds of Diabetes: Car Analogy</title>
       <link>http://ex-nerd.com/diabetes/kinds_of_diabetes_car_analogy/</link>
       <pubDate>Fri, 01 Nov 2019 20:00:00 -0700</pubDate>
       
       <guid>http://ex-nerd.com/diabetes/kinds_of_diabetes_car_analogy/</guid>
-      <description>&lt;p&gt;Diabetes Mellitus is a 500 year old term that describes the sweet-smelling urine
-of people whose bodies have stopped being able to regulate blood sugar properly.&lt;/p&gt;
-&lt;p&gt;We now know that it refers to a family of different (and largely unrelated)
-diseases that all have the same symptoms before doctors can determine what has
-caused them. People &amp;ndash; even doctors &amp;ndash; still have trouble understanding the
-differences between these diseases, so I tried to come up with a simple and
-(hopefully) humerous analogy by thinking of each disease as a problem with your
-car.&lt;/p&gt;</description>
+      <description>Diabetes Mellitus is a 500 year old term that describes the sweet-smelling urine of people whose bodies have stopped being able to regulate blood sugar properly.
+We now know that it refers to a family of different (and largely unrelated) diseases that all have the same symptoms before doctors can determine what has caused them. People &amp;ndash; even doctors &amp;ndash; still have trouble understanding the differences between these diseases, so I tried to come up with a simple and (hopefully) humerous analogy by thinking of each disease as a problem with your car.</description>
     </item>
     
     <item>
@@ -44,11 +48,9 @@ Diabetes Mellitus The name &amp;ldquo;Diabetes Mellitus&amp;rdquo; dates back ro
       <pubDate>Thu, 08 Aug 2019 08:00:00 -0700</pubDate>
       
       <guid>http://ex-nerd.com/making/trossingen-lyre/</guid>
-      <description>&lt;p&gt;The Trossingen Lyre was uncovered in a 6th century gravesite in modern day
-Germany, and represents the most complete Anglo-Saxon lyre found to date. After
-making a prototype lyre out of plywood (links and more info for that coming
-soon), I decided to try my hand at this more difficult project.&lt;/p&gt;
-&lt;p&gt;This is an &lt;strong&gt;ongoing&lt;/strong&gt; project, so I will be updating this page as often as I can.&lt;/p&gt;</description>
+      <description>The Trossingen Lyre was uncovered in a 6th century gravesite in modern day Germany, and represents the most complete Anglo-Saxon lyre found to date. After making a prototype lyre out of plywood (links and more info for that coming soon), I decided to try my hand at this more difficult project.
+This is an ongoing project, so I will be updating this page as often as I can.
+You can read more about the original lyre in the German Wikipedia article about the Trossingen Lyre (English translation).</description>
     </item>
     
     <item>
@@ -66,9 +68,8 @@ soon), I decided to try my hand at this more difficult project.&lt;/p&gt;
       <pubDate>Fri, 07 Jul 2017 08:00:00 -0700</pubDate>
       
       <guid>http://ex-nerd.com/diabetes/resources/</guid>
-      <description>&lt;p&gt;I plan to eventually write about a bunch of these topics individually.  Until then,
-here is my collection of links to a number of diabetes-releated topics that I have found
-especially helpful.&lt;/p&gt;</description>
+      <description>I plan to eventually write about a bunch of these topics individually. Until then, here is my collection of links to a number of diabetes-releated topics that I have found especially helpful.
+Blogs to read  Melitta is my favorite advocate about adult-onset T1, and always has great information with a strong emphasis on science and research.  http://adultt1diabetes.blogspot.com/   Gary Scheiner is the author of the amazing Think Like a Pancreas.</description>
     </item>
     
     <item>
@@ -77,7 +78,7 @@ especially helpful.&lt;/p&gt;</description>
       <pubDate>Thu, 16 Jun 2016 20:00:00 -0700</pubDate>
       
       <guid>http://ex-nerd.com/food/low-carb-waffles/</guid>
-      <description>&lt;p&gt;Living with &lt;a href=&#34;https://en.wikipedia.org/wiki/Latent_autoimmune_diabetes_of_adults&#34;&gt;Type 1 Diabetes&lt;/a&gt; means that I have to closely watch my carbohydrate intake, and it&amp;rsquo;s easier to do this by eating low-carb foods that make the &lt;a href=&#34;http://www.diabeticlifestyle.com/blood-glucose/carb-counting-insulin-math-diabetes&#34;&gt;math&lt;/a&gt; easier.  Since I don&amp;rsquo;t want to give up on some of the finer things in life &amp;ndash; like waffles &amp;ndash; I spent some time formulating a decent substitute for carb-heavy grain-based waffles.  This lets me have a fairly large breakfast of applesauce, yogurt, and definitely-not-maple (but passable) syrup and still keep things under 45g of carbs.&lt;/p&gt;</description>
+      <description>Living with Type 1 Diabetes means that I have to closely watch my carbohydrate intake, and it&amp;rsquo;s easier to do this by eating low-carb foods that make the math easier. Since I don&amp;rsquo;t want to give up on some of the finer things in life &amp;ndash; like waffles &amp;ndash; I spent some time formulating a decent substitute for carb-heavy grain-based waffles. This lets me have a fairly large breakfast of applesauce, yogurt, and definitely-not-maple (but passable) syrup and still keep things under 45g of carbs.</description>
     </item>
     
     <item>
@@ -96,7 +97,7 @@ I graduated from the stereotypical social awkwardness a long time ago and now fo
       <pubDate>Sat, 29 Sep 2012 07:33:42 +0000</pubDate>
       
       <guid>http://ex-nerd.com/tech/keeping-your-digital-life-secure/</guid>
-      <description>&lt;p&gt;There have been a number of high-profile stories recently about hacking and digital identity theft, along with a rash of hacked yahoo.com email accounts that usually lead to scams/cons. When a number of my friends and family members fell victim to these hacks (thankfully not to the scams) and discovered that the collateral damage could be worse than the hack itself, I decided that I should put together some recommendations to help them avoid more trouble in the future.&lt;/p&gt;</description>
+      <description>There have been a number of high-profile stories recently about hacking and digital identity theft, along with a rash of hacked yahoo.com email accounts that usually lead to scams/cons. When a number of my friends and family members fell victim to these hacks (thankfully not to the scams) and discovered that the collateral damage could be worse than the hack itself, I decided that I should put together some recommendations to help them avoid more trouble in the future.</description>
     </item>
     
     <item>
@@ -105,8 +106,7 @@ I graduated from the stereotypical social awkwardness a long time ago and now fo
       <pubDate>Fri, 27 Aug 2010 08:01:40 +0000</pubDate>
       
       <guid>http://ex-nerd.com/tech/plus-addressing-for-email/</guid>
-      <description>&lt;p&gt;Like most tech-savvy people, I have more than a handful of email addresses, and I like to guard them against being shared without my permission (and track back to the company that did the sharing).  When you run your own mail server, this is quite easy &amp;ndash; just make up a custom email address for every company you do business with.  Unfortunately, this gets somewhat cumbersome after awhile, and definitely isn&amp;rsquo;t a solution for the general public.  Enter &lt;a href=&#34;http://en.wikipedia.org/wiki/Plus_addressing#Sub-addressing&#34;&gt;plus addressing&lt;/a&gt;, a method built into most mail servers that allows users to modify their own email addresses with additional data that can be tracked but does not interfere with mail delivery.&lt;/p&gt;
-&lt;p&gt;This would be the perfect solution if it was actually supported by the majority of online account providers (and in the 6 years since this article was originally written, things aren&amp;rsquo;t much better).&lt;/p&gt;</description>
+      <description>Like most tech-savvy people, I have more than a handful of email addresses, and I like to guard them against being shared without my permission (and track back to the company that did the sharing). When you run your own mail server, this is quite easy &amp;ndash; just make up a custom email address for every company you do business with. Unfortunately, this gets somewhat cumbersome after awhile, and definitely isn&amp;rsquo;t a solution for the general public.</description>
     </item>
     
     <item>
@@ -115,11 +115,7 @@ I graduated from the stereotypical social awkwardness a long time ago and now fo
       <pubDate>Tue, 07 Oct 2008 20:00:00 -0700</pubDate>
       
       <guid>http://ex-nerd.com/food/hard-cider-recipe/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve had enough people ask about a simple cider recipe that I decided to post it here.  This recipe originates from my friend
-&lt;a href=&#34;http://www.welandsmithy.com/&#34;&gt;Tor&lt;/a&gt;, and is definitely not the finest
-of brews, but it&amp;rsquo;s one &lt;strong&gt;heck&lt;/strong&gt; of a strong cider.  So-called &amp;ldquo;real&amp;rdquo; brewers
-may scoff at the idea of using bread yeast, but keep in mind that things (flavor in particular) work differently with cider than beer or wine, and don&amp;rsquo;t
-knock it until you taste it.&lt;/p&gt;</description>
+      <description>I&amp;rsquo;ve had enough people ask about a simple cider recipe that I decided to post it here. This recipe originates from my friend Tor, and is definitely not the finest of brews, but it&amp;rsquo;s one heck of a strong cider. So-called &amp;ldquo;real&amp;rdquo; brewers may scoff at the idea of using bread yeast, but keep in mind that things (flavor in particular) work differently with cider than beer or wine, and don&amp;rsquo;t knock it until you taste it.</description>
     </item>
     
     <item>
@@ -128,13 +124,7 @@ knock it until you taste it.&lt;/p&gt;</description>
       <pubDate>Thu, 19 Jul 2007 20:00:00 -0700</pubDate>
       
       <guid>http://ex-nerd.com/food/root-beer/</guid>
-      <description>&lt;p&gt;Sassafras is the &amp;ldquo;root&amp;rdquo; in root beer. However, in the mid-60&amp;rsquo;s, the FDA
-discovered that a chemical in sassafras called
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Safrole&#34;&gt;safrole&lt;/a&gt; caused cancer in rats, and
-proceded to ban its sale for edible uses. This sent the root beer industry into
-a frenzy trying to find a replacement flavor (they eventually came up with
-something that&amp;rsquo;s a combination of licorice root &amp;ndash; that&amp;rsquo;s &lt;strong&gt;not&lt;/strong&gt; anise, and
-doesn&amp;rsquo;t taste like it &amp;ndash; and wintergreen).&lt;/p&gt;</description>
+      <description>Sassafras is the &amp;ldquo;root&amp;rdquo; in root beer. However, in the mid-60&amp;rsquo;s, the FDA discovered that a chemical in sassafras called safrole caused cancer in rats, and proceded to ban its sale for edible uses. This sent the root beer industry into a frenzy trying to find a replacement flavor (they eventually came up with something that&amp;rsquo;s a combination of licorice root &amp;ndash; that&amp;rsquo;s not anise, and doesn&amp;rsquo;t taste like it &amp;ndash; and wintergreen).</description>
     </item>
     
   </channel>
