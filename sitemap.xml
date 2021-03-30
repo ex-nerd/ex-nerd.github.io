@@ -1,160 +1,98 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://ex-nerd.com/resume/</loc>
     <lastmod>2020-08-16T00:00:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/categories/</loc>
     <lastmod>2019-11-01T20:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/</loc>
     <lastmod>2019-11-01T20:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/categories/diabetes/</loc>
     <lastmod>2019-11-01T20:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/diabetes/</loc>
     <lastmod>2019-11-01T20:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/tags/diabetes/</loc>
     <lastmod>2019-11-01T20:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/tags/health/</loc>
     <lastmod>2019-11-01T20:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/diabetes/kinds_of_diabetes_car_analogy/</loc>
     <lastmod>2019-11-01T20:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/tags/</loc>
     <lastmod>2019-11-01T20:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/diabetes/t1_name_history/</loc>
     <lastmod>2019-09-28T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/categories/making/</loc>
     <lastmod>2019-08-08T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/making/</loc>
     <lastmod>2019-08-08T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/tags/making/</loc>
     <lastmod>2019-08-08T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/making/trossingen-lyre/</loc>
     <lastmod>2019-08-08T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/tags/medieval/</loc>
     <lastmod>2019-08-08T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/tags/music/</loc>
     <lastmod>2019-08-08T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/tags/viking/</loc>
     <lastmod>2019-08-08T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/tags/woodworking/</loc>
     <lastmod>2019-08-08T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/diabetes/clinical_research/</loc>
     <lastmod>2019-05-02T20:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/diabetes/resources/</loc>
     <lastmod>2017-07-07T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/categories/food/</loc>
     <lastmod>2016-06-16T20:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/food/</loc>
     <lastmod>2016-06-16T20:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/food/low-carb-waffles/</loc>
     <lastmod>2016-06-16T20:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/tags/recipe/</loc>
     <lastmod>2016-06-16T20:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/about/</loc>
     <lastmod>2016-05-08T06:24:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/tech/keeping-your-digital-life-secure/</loc>
     <lastmod>2012-09-29T07:33:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/categories/tech/</loc>
     <lastmod>2012-09-29T07:33:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/tech/</loc>
     <lastmod>2012-09-29T07:33:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/tech/plus-addressing-for-email/</loc>
     <lastmod>2010-08-27T08:01:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/food/hard-cider-recipe/</loc>
     <lastmod>2008-10-07T20:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ex-nerd.com/food/root-beer/</loc>
     <lastmod>2007-07-19T20:00:00-07:00</lastmod>
   </url>
-  
 </urlset>
