@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>woodworking on Chris Petersen</title>
+    <title>Woodworking on Chris Petersen</title>
     <link>http://ex-nerd.com/tags/woodworking/</link>
-    <description>Recent content in woodworking on Chris Petersen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Woodworking on Chris Petersen</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Aug 2019 08:00:00 -0700</lastBuildDate><atom:link href="http://ex-nerd.com/tags/woodworking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Aug 2019 08:00:00 -0700</lastBuildDate>
+    <atom:link href="http://ex-nerd.com/tags/woodworking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making a Trossingen Lyre</title>
       <link>http://ex-nerd.com/making/trossingen-lyre/</link>
       <pubDate>Thu, 08 Aug 2019 08:00:00 -0700</pubDate>
-      
       <guid>http://ex-nerd.com/making/trossingen-lyre/</guid>
-      <description>The Trossingen Lyre was uncovered in a 6th century gravesite in modern day Germany, and represents the most complete Anglo-Saxon lyre found to date. After making a prototype lyre out of plywood (links and more info for that coming soon), I decided to try my hand at this more difficult project.
-This is an ongoing project, so I will be updating this page as often as I can.
-You can read more about the original lyre in the German Wikipedia article about the Trossingen Lyre (English translation).</description>
+      <description>&lt;p&gt;The Trossingen Lyre was uncovered in a 6th century gravesite in modern day&#xA;Germany, and represents the most complete Anglo-Saxon lyre found to date. After&#xA;making a prototype lyre out of plywood (links and more info for that coming&#xA;soon), I decided to try my hand at this more difficult project.&lt;/p&gt;&#xA;&lt;p&gt;This is an &lt;strong&gt;ongoing&lt;/strong&gt; project, so I will be updating this page as often as I can.&lt;/p&gt;&#xA;&lt;!-- more --&gt;&#xA;&lt;p&gt;You can read more about the original lyre in the German Wikipedia article about the&#xA;&lt;a href=&#34;https://de.wikipedia.org/wiki/Trossinger_Leier&#34;&gt;Trossingen Lyre&lt;/a&gt;&#xA;(&lt;a href=&#34;https://translate.google.com/translate?sl=de&amp;amp;tl=en&amp;amp;u=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FTrossinger_Leier&#34;&gt;English translation&lt;/a&gt;).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

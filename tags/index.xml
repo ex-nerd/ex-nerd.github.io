@@ -4,80 +4,65 @@
     <title>Tags on Chris Petersen</title>
     <link>http://ex-nerd.com/tags/</link>
     <description>Recent content in Tags on Chris Petersen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Nov 2019 20:00:00 -0700</lastBuildDate><atom:link href="http://ex-nerd.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Nov 2019 20:00:00 -0700</lastBuildDate>
+    <atom:link href="http://ex-nerd.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>diabetes</title>
+      <title>Diabetes</title>
       <link>http://ex-nerd.com/tags/diabetes/</link>
       <pubDate>Fri, 01 Nov 2019 20:00:00 -0700</pubDate>
-      
       <guid>http://ex-nerd.com/tags/diabetes/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>health</title>
+      <title>Health</title>
       <link>http://ex-nerd.com/tags/health/</link>
       <pubDate>Fri, 01 Nov 2019 20:00:00 -0700</pubDate>
-      
       <guid>http://ex-nerd.com/tags/health/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>making</title>
+      <title>Making</title>
       <link>http://ex-nerd.com/tags/making/</link>
       <pubDate>Thu, 08 Aug 2019 08:00:00 -0700</pubDate>
-      
       <guid>http://ex-nerd.com/tags/making/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>medieval</title>
+      <title>Medieval</title>
       <link>http://ex-nerd.com/tags/medieval/</link>
       <pubDate>Thu, 08 Aug 2019 08:00:00 -0700</pubDate>
-      
       <guid>http://ex-nerd.com/tags/medieval/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>music</title>
+      <title>Music</title>
       <link>http://ex-nerd.com/tags/music/</link>
       <pubDate>Thu, 08 Aug 2019 08:00:00 -0700</pubDate>
-      
       <guid>http://ex-nerd.com/tags/music/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>viking</title>
+      <title>Viking</title>
       <link>http://ex-nerd.com/tags/viking/</link>
       <pubDate>Thu, 08 Aug 2019 08:00:00 -0700</pubDate>
-      
       <guid>http://ex-nerd.com/tags/viking/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>woodworking</title>
+      <title>Woodworking</title>
       <link>http://ex-nerd.com/tags/woodworking/</link>
       <pubDate>Thu, 08 Aug 2019 08:00:00 -0700</pubDate>
-      
       <guid>http://ex-nerd.com/tags/woodworking/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>recipe</title>
+      <title>Recipe</title>
       <link>http://ex-nerd.com/tags/recipe/</link>
       <pubDate>Thu, 16 Jun 2016 20:00:00 -0700</pubDate>
-      
       <guid>http://ex-nerd.com/tags/recipe/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

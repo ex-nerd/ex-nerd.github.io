@@ -4,44 +4,37 @@
     <title>Categories on Chris Petersen</title>
     <link>http://ex-nerd.com/categories/</link>
     <description>Recent content in Categories on Chris Petersen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Nov 2019 20:00:00 -0700</lastBuildDate><atom:link href="http://ex-nerd.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Nov 2019 20:00:00 -0700</lastBuildDate>
+    <atom:link href="http://ex-nerd.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diabetes</title>
       <link>http://ex-nerd.com/categories/diabetes/</link>
       <pubDate>Fri, 01 Nov 2019 20:00:00 -0700</pubDate>
-      
       <guid>http://ex-nerd.com/categories/diabetes/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Making</title>
       <link>http://ex-nerd.com/categories/making/</link>
       <pubDate>Thu, 08 Aug 2019 08:00:00 -0700</pubDate>
-      
       <guid>http://ex-nerd.com/categories/making/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Food</title>
       <link>http://ex-nerd.com/categories/food/</link>
       <pubDate>Thu, 16 Jun 2016 20:00:00 -0700</pubDate>
-      
       <guid>http://ex-nerd.com/categories/food/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Tech</title>
       <link>http://ex-nerd.com/categories/tech/</link>
       <pubDate>Sat, 29 Sep 2012 07:33:42 +0000</pubDate>
-      
       <guid>http://ex-nerd.com/categories/tech/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

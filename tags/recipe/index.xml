@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>recipe on Chris Petersen</title>
+    <title>Recipe on Chris Petersen</title>
     <link>http://ex-nerd.com/tags/recipe/</link>
-    <description>Recent content in recipe on Chris Petersen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Recipe on Chris Petersen</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jun 2016 20:00:00 -0700</lastBuildDate><atom:link href="http://ex-nerd.com/tags/recipe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jun 2016 20:00:00 -0700</lastBuildDate>
+    <atom:link href="http://ex-nerd.com/tags/recipe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Low Carb Waffles</title>
       <link>http://ex-nerd.com/food/low-carb-waffles/</link>
       <pubDate>Thu, 16 Jun 2016 20:00:00 -0700</pubDate>
-      
       <guid>http://ex-nerd.com/food/low-carb-waffles/</guid>
-      <description>Living with Type 1 Diabetes means that I have to closely watch my carbohydrate intake, and it&amp;rsquo;s easier to do this by eating low-carb foods that make the math easier. Since I don&amp;rsquo;t want to give up on some of the finer things in life &amp;ndash; like waffles &amp;ndash; I spent some time formulating a decent substitute for carb-heavy grain-based waffles. This lets me have a fairly large breakfast of applesauce, yogurt, and definitely-not-maple (but passable) syrup and still keep things under 45g of carbs.</description>
+      <description>&lt;p&gt;Living with &lt;a href=&#34;https://en.wikipedia.org/wiki/Latent_autoimmune_diabetes_of_adults&#34;&gt;Type 1 Diabetes&lt;/a&gt; means that I have to closely watch my carbohydrate intake, and it&amp;rsquo;s easier to do this by eating low-carb foods that make the &lt;a href=&#34;http://www.diabeticlifestyle.com/blood-glucose/carb-counting-insulin-math-diabetes&#34;&gt;math&lt;/a&gt; easier.  Since I don&amp;rsquo;t want to give up on some of the finer things in life &amp;ndash; like waffles &amp;ndash; I spent some time formulating a decent substitute for carb-heavy grain-based waffles.  This lets me have a fairly large breakfast of applesauce, yogurt, and definitely-not-maple (but passable) syrup and still keep things under 45g of carbs.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Old Fashioned Root Beer, with a twist</title>
       <link>http://ex-nerd.com/food/root-beer/</link>
       <pubDate>Thu, 19 Jul 2007 20:00:00 -0700</pubDate>
-      
       <guid>http://ex-nerd.com/food/root-beer/</guid>
-      <description>Sassafras is the &amp;ldquo;root&amp;rdquo; in root beer. However, in the mid-60&amp;rsquo;s, the FDA discovered that a chemical in sassafras called safrole caused cancer in rats, and proceded to ban its sale for edible uses. This sent the root beer industry into a frenzy trying to find a replacement flavor (they eventually came up with something that&amp;rsquo;s a combination of licorice root &amp;ndash; that&amp;rsquo;s not anise, and doesn&amp;rsquo;t taste like it &amp;ndash; and wintergreen).</description>
+      <description>&lt;p&gt;Sassafras is the &amp;ldquo;root&amp;rdquo; in root beer. However, in the mid-60&amp;rsquo;s, the FDA&#xA;discovered that a chemical in sassafras called&#xA;&lt;a href=&#34;http://en.wikipedia.org/wiki/Safrole&#34;&gt;safrole&lt;/a&gt; caused cancer in rats, and&#xA;proceded to ban its sale for edible uses. This sent the root beer industry into&#xA;a frenzy trying to find a replacement flavor (they eventually came up with&#xA;something that&amp;rsquo;s a combination of licorice root &amp;ndash; that&amp;rsquo;s &lt;strong&gt;not&lt;/strong&gt; anise, and&#xA;doesn&amp;rsquo;t taste like it &amp;ndash; and wintergreen).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
